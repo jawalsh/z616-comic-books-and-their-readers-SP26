@@ -20,8 +20,6 @@
 * [Week 11](week11.md) _(2022-04-19)_: Fandom on social media
 * [Week 12](week12.md) _(2022-04-26)_: Final project presentations
 
-
-
 <!--
 	
 CollectionBuilder topics:
