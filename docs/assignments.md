@@ -11,4 +11,3 @@
 | [Final Project](assignment-final-project.md)                   | 30     | 4/28/2023  |
 | Lab exercises and other activities                             | 10     | n/a        |
 | Participation                                                  | 10     | n/a        |
-
