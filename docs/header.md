@@ -10,6 +10,6 @@ Myles Brand Hall (I) 232
 
 
 
-[home](index.md) \| [general information](general.md) \| [schedule](schedule.md) \| [assignments](assignments.md) \| [discussions]()
+[home](index.md) \| [general information](general.md) \| [assignments](assignments.md) \| [discussions]() | [Comics Studies Resources](comics-studies-resources.md)
 
 ---
