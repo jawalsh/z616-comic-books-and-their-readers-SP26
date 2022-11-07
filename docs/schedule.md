@@ -6,19 +6,19 @@
 {% include_relative header.md %}
 
 # Schedule
-* [Week 1](week01.md) _(2022-02-01)_: Introductions
-* [Week 2](week02.md) _(2022-02-08)_: Fan studies
-* [Week 3](week03.md) _(2022-02-15)_: Comics culture
-* [Week 4](week04.md) _(2022-02-22)_: Paratexts and fan mail
-* [Week 5](week05.md) _(2022-03-01)_: Building a corpus
-* [Week 6](week06.md) _(2022-03-08)_: Text analysis
-* Spring Break _(2022-03-15)_: No Class.
-* [Week 7](week07.md) _(2022-03-22)_: Text analysis lab
-* [Week 8](week08.md) _(2022-03-29)_: Data sets and visualization
-* [Week 9](week09.md) _(2022-04-05)_: Data visualization lab
-* [Week 10](week10.md) _(2022-04-12)_: Fanzines and maker culture
-* [Week 11](week11.md) _(2022-04-19)_: Fandom on social media
-* [Week 12](week12.md) _(2022-04-26)_: Final project presentations
+* [Week 1](week01.md) _(2023-02-01)_: Introductions
+* [Week 2](week02.md) _(2023-02-08)_: Fan studies
+* [Week 3](week03.md) _(2023-02-15)_: Comics culture
+* [Week 4](week04.md) _(2023-02-22)_: Paratexts and fan mail
+* [Week 5](week05.md) _(2023-03-01)_: Building a corpus
+* [Week 6](week06.md) _(2023-03-08)_: Text analysis
+* Spring Break _(2023-03-15)_: No Class.
+* [Week 7](week07.md) _(2023-03-22)_: Text analysis lab
+* [Week 8](week08.md) _(2023-03-29)_: Data sets and visualization
+* [Week 9](week09.md) _(2023-04-05)_: Data visualization lab
+* [Week 10](week10.md) _(2023-04-12)_: Fanzines and maker culture
+* [Week 11](week11.md) _(2023-04-19)_: Fandom on social media
+* [Week 12](week12.md) _(2023-04-26)_: Final project presentations
 
 <!--
 	
