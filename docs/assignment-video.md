@@ -23,6 +23,6 @@ You may record yourself and your screen (for slides) together by using a tool li
 
 ## Here's how to submit your work:
 
-- Hit **`Reply`** below to a reply editing form in which you can upload your video.
-- To upload your video, click on the small media icon (![canvas media button](images/canvas_media.png)) and select **`Upload/Record Media`**
-- To add additional images and files, click on the small image icon ( ![canvas image button](images/canvas_image.png)) and select **`Upload Image`**.
+- Hit **`Reply`** below to a reply editing form in which you can upload your video.
+- To upload your video, click on the small media icon (![canvas media button](images/canvas_media.png)) and select **`Upload/Record Media`**
+- To add additional images and files, click on the small image icon ( ![canvas image button](images/canvas_image.png)) and select **`Upload Image`**.
