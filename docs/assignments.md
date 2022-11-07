@@ -1,4 +1,4 @@
-{% include-relative header.md %}
+{% include_relative header.md %}
 
 # Assignments (100 points total)
 
