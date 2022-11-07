@@ -30,6 +30,7 @@ I had a former life as a [rock and roll musician](https://open.spotify.com/albu
 ## Texts
 *   Most readings will be available online or provided as PDFs through canvas.
 *   Many of comics we will read are available digitally on [comixology.com](http://comixology.com/).
+
 ## Grading
 Late assignments will be accepted after the due date without a penalty on the grade only with the prior consent of the instructor. Assignments submitted late without the prior consent of the instructor will be docked the equivalent of half a letter grade for each day they are late. Missing a class without prior consent of the instructor may drop your final grade by a letter. Incompletes will be given for the course for medical reasons only.
 
