@@ -1,6 +1,9 @@
 {% include_relative header.md %}
 # General information
 
+![Comics Code Authority announcement in Katy Keene Annual #2 (Archie Comics, 1955-1956)](images/katy_annual_2.jpg)
+_Comics Code Authority announcement in_ Katy Keene Annual _#2 (Archie Comics, 1955-1956)_
+
 ## Course description<a id="desc"/>
 In this seminar we will study the many ways in which readers and fans engage with comic books and comic book culture. Modes of reader engagement include correspondence and communications through print fan mail columns and social media; cosplay; fanzine production; participation in fan clubs, comics-related contests, and comics conventions; blogs and podcasts; and more. We will survey a few different research methods for studying reader and fan engagement, including archival research, ethnography, and text data mining.
 
