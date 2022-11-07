@@ -58,7 +58,7 @@ Below are sample resources related to comics and fandom studies. The list is not
 
 ## Other
 - [Broken Pencil][36]
-- [inkt\|art][37]
+- [inkt&#x01C0;art](https://inktart.org)
 
 ## News
 * [Comic Book Resources][38]
