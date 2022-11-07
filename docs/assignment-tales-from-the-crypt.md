@@ -8,22 +8,22 @@ You will submit a report about the individual whom you researched. The report sh
 
 **Tips:**
 
-*   Choose someone with a fairly unique name, i.e. _not_ John Smith or Mary Johnson.
-*   Choose someone for whom you know a street address, city, and state.
-*   Choose someone from Indiana (a nearby county) for whom you could do research at a local courthouse or historical society.
+- Choose someone with a fairly unique name, i.e. _not_ John Smith or Mary Johnson.
+- Choose someone for whom you know a street address, city, and state.
+- Choose someone from Indiana (a nearby county) for whom you could do research at a local courthouse or historical society.
 
 #### Submission
 
 You will submit a report, approximately 300-600 words, describing the methodologies and sources you used for your research and your findings about the subject(s) of your research. In addition to this report, include documentation from your research. This documentation might include:
 
-*   a copy of the comics or fandom source where you discovered the individual
-*   photographs
-*   obituaries
-*   Facebook or LinkedIn profiles
+- a copy of the comics or fandom source where you discovered the individual
+- photographs
+- obituaries
+- Facebook or LinkedIn profiles
 
 Your submission should be professionally formated, with name, date, title, page numbers, captions for figures and images, etc. Submit document as a PDF or Word document.
 
 Examples from prior semesters:
 
-*   [tales\_from\_the\_crypt\_sampleA.pdf](https://iu.instructure.com/courses/2035442/files/135787530?wrap=1)
-*   [tales\_from\_the\_crypt\_sampleB.pdf](https://iu.instructure.com/courses/2035442/files/135787529?wrap=1)
+- [tales\_from\_the\_crypt\_sampleA.pdf](https://iu.instructure.com/courses/2035442/files/135787530?wrap=1)
+- [tales\_from\_the\_crypt\_sampleB.pdf](https://iu.instructure.com/courses/2035442/files/135787529?wrap=1)
