@@ -1,6 +1,6 @@
 # Z604/Z762 Comic Books and Their Readers
 Digital and Empirical Methods for Studying Readership and Fandom  
-Spring 2022
+Spring 2023
 
 12:40 - 15:45 Wednesday  
 Myles Brand Hall (I) 232  
