@@ -5,6 +5,6 @@ Submit an proposal, of approximately 300-500 words, in which outline your plans 
 * a summary of the content and/or data set(s) that you will be examining;
 * research questions you plan to explore through your analysis;
 * methods you will apply to analyze your content and/or data set(s) (e.g., close reading and content analysis, computational text analysis, topic modeling, etc.);
-* the form you expect your final project to take (e.g., research paper, blog post, [data paper](https://en.wikipedia.org/wiki/Data_publishing#Data_papers), contextualized [digital collection](https://en.wikipedia.org/wiki/Data_publishing#Data_papers))
+* the form you expect your final project to take (e.g., research paper, blog post, [data paper](https://en.wikipedia.org/wiki/Data_publishing#Data_papers), contextualized [digital collection](https://collectionbuilder.github.io))
 
 Submit your proposal as a PDF or Word document in Canvas.
