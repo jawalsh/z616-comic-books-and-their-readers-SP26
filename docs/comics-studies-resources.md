@@ -2,7 +2,7 @@
 
 Below are sample resources related to comics and fandom studies. The list is not exhaustive and is meant as an illustrative guide to the many sorts of print and online resources available for librarians, teachers, scholars, and fans.
 
-![Animated Gif of Jack Kirby panel by Kerry Callen.](images/kirby_tech.jpg)
+![Animated Gif of Jack Kirby panel by Kerry Callen.](images/kirby_tech.gif)
 
 _Gif by [Callen](https://kerrycallen.blogspot.com/2012/10/animated-kirby-machinery.html)._
 
