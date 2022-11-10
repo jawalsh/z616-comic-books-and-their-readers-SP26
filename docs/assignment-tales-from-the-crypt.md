@@ -1,3 +1,5 @@
+{% include_relative header.md %}
+
 # Tales from the Crypt
 
 <img style="float:left;margin-right:1em;border:1px solid black;" alt="Cover of Tales from the Crypt #28 (EC Comics, February-March 1952" src="images/gcd_36749.jpg"/>

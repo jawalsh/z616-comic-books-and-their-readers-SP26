@@ -1,3 +1,5 @@
+{% include_relative header.md %}
+
 # Fan activity and reflection
 
 For this assignment, you will participate in a fan activity, for example by:

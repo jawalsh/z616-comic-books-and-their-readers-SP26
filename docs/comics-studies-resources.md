@@ -1,3 +1,5 @@
+{% include_relative header.md %}
+
 # Z672/Z604 Comics Studies Resources
 
 Below are sample resources related to comics and fandom studies. The list is not exhaustive and is meant as an illustrative guide to the many sorts of print and online resources available for librarians, teachers, scholars, and fans.

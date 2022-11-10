@@ -1,3 +1,5 @@
+{% include_relative header.md %}
+
 # Final Project
 
 Final project is a research paper and class presentation. Based upon your analysis of specific examples from one or more forms of reader participation, write a research paper (approximately 2500-5000 words) in which you describe a community of comic readers and their practices of participatory culture. Your audience consists of academics and library professionals, but they likely do not have expertise in comic books or participatory comic book culture. Please reach out to me if you are interested in presenting your work in some other format or media other than the traditional research paper.

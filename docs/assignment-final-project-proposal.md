@@ -1,3 +1,5 @@
+{% include_relative header.md %}
+
 # Final Project Proposal
 
 Submit an proposal, of approximately 300-500 words, in which outline your plans for your final project. Your proposal should include:
