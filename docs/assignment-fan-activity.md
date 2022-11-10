@@ -1,3 +1,5 @@
+# Fan activity and reflection
+
 For this assignment, you will participate in a fan activity, for example by:
 
 - submitting one or more (substantive) letters / emails to a comic book publication
