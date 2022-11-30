@@ -14,7 +14,6 @@ _Gif by [Callen](https://kerrycallen.blogspot.com/2012/10/animated-kirby-machine
 - [Academic](#academic)
 - [Professional Societies and Organizations](#professional-societies-and-organizations)
 - [Journals](#journals)
-- [Other](LOther)
 - [News](#news)
 - [Conferences](#conferences)
 - [Bibliographies](#bibliographies)
@@ -32,8 +31,10 @@ _Gif by [Callen](https://kerrycallen.blogspot.com/2012/10/animated-kirby-machine
 
 ## General
 * [Avengers, Assembled][1]
+* [Broken Pencil][36]
 * [Comic Cartography][3]
 * [Comichron][4]
+- [inkt&#x01C0;art](https://inktart.org)
 * [No Flying No Tights][5]
 * [The Complete Marvel Reading Order][6] (CMRO)
 * [The Grand Comic Book Database][7] (GCD)
@@ -83,10 +84,6 @@ _Gif by [Callen](https://kerrycallen.blogspot.com/2012/10/animated-kirby-machine
 * [_Sane journal: Sequential Art Narrative in Education_][33]
 * [_Journal of Comics and Culture_][34]
 * See also the Fan Studies Network’s list of [Fan Studies Journals][35]
-
-## Other
-- [Broken Pencil][36]
-- [inkt&#x01C0;art](https://inktart.org)
 
 ## News
 * [Comic Book Resources][38]
