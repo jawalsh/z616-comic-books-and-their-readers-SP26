@@ -8,6 +8,28 @@ Below are sample resources related to comics and fandom studies. The list is not
 
 _Gif by [Callen](https://kerrycallen.blogspot.com/2012/10/animated-kirby-machinery.html)._
 
+## Contents
+- [General](#general)
+- [Histories](#histories)
+- [Academic](#academic)
+- [Professional Societies and Organizations](#professional-societies-and-organizations)
+- [Journals](#journals)
+- [Other](LOther)
+- [News](#news)
+- [Conferences](#conferences)
+- [Bibliographies](#bibliographies)
+- [Digital Comics Collections](#digital-comics-collections)
+- [Archive and Library Supplies](#archive-and-library-supplies)
+- [Creators](#creators)
+- [Library Research Guides And Readers Advisories](#library-research-guides-and-readers-advisories)
+- [Publishers](#publishers)
+- [Museums and Archives](#museums-and-archives)
+- [Auction Houses](#auction-houses)
+- [Digital Comics Formats](#digital-comics-formats)
+- [Data Sets](#data-sets)
+- [Text Analysis Tools](#text-analysis-tools)
+- [Visualization Tools](#visualization-tools)
+
 ## General
 * [Avengers, Assembled][1]
 * [Comic Cartography][3]
@@ -84,19 +106,18 @@ _Gif by [Callen](https://kerrycallen.blogspot.com/2012/10/animated-kirby-machine
 * [Comics Research Bibliography][48]
 * [Bonner Online-Bibliographie zur Comicforschung](https://www.bobc.uni-bonn.de/)
 		 
-
-## Public Domain Comics / Downloadable Comics
+## Digital Comics Collections
 * [Digital Comic Museum][50] (DCM)
 * [Comic Book +][51]
 * [Internet Archive](http://archive.org)
 
-## Archive/Library Supplies
+## Archive and Library Supplies
 * [E. Gerber][52]
 
 ## Youth
 * [The Comic Book Project][53]
 
-## Sample creator web sites
+## Creators
 * [Guy Delisle][55]
 * [Lucy Knisley][56]
 * [G. Willow Wilson][54]
@@ -130,11 +151,11 @@ _Gif by [Callen](https://kerrycallen.blogspot.com/2012/10/animated-kirby-machine
 ## Auction houses
 * [Heritage Auctions](https://comics.ha.com/)
 
-## Digital comics formats
+## Digital Comics Formats
 * [Comic Book Archive][79]
 * [Comic Book Markup Language][80]
 
-## Data sets
+## Data Sets
 * [The Stephen Cooper Comic Book Collection][81]
 	* Omeka collections with links to data-driven [student projects][82] and related [data set][83] about the collection.
 * Michigan State University Libraries [Comics as Data: North America][84]
@@ -142,11 +163,13 @@ _Gif by [Callen](https://kerrycallen.blogspot.com/2012/10/animated-kirby-machine
 	* This dataset only provides connections among the superheroes in Marvel Universe, villains are omitted.
 * [The Marvel and DC Characters Dataset][87] from [Kaggle][88]
 
-## Text analysis tools
+---
+
+## Text Analysis Tools
 * [Voyant][89]
 * [AntConc][90]
 
-## Visualization tools
+## Visualization Tools
 * [Flourish][91]
 * [Tableau][92]
 
