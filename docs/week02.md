@@ -15,6 +15,6 @@ This week we will explore the topic of fandom studies as an academic discipline 
 - Woo, B. (2020). [Readers, Audiences, and Fans](https://iu.instructure.com/files/149239573/download?download_frd=1). *Comics Studies: A Guidebook* (pp. 126-137). New Brunswick, NJ: Rutgers University Press.
 - [Henry Jenkins on Participatory Culture](https://youtu.be/1gPm-c1wRsQ)
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/1gPm-c1wRsQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/1gPm-c1wRsQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="max-width:80%"></iframe>
  
 ## In class
