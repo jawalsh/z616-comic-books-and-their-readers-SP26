@@ -1,4 +1,4 @@
-# Week [x]: [topic]
+# Week 2: Fandom Studies
 
 ## Summary
 This week we will explore the topic of fandom studies as an academic discipline and explore fandom in the context of comics and comics culture.
