@@ -19,7 +19,7 @@ This week we will explore the topic of comic book fan mail and learn techniques 
 *   Shoemaker, M. (2020). [Text Analytics](https://guides.temple.edu/c.php?g=78518&p=505212). Temple University Libraries.
 *   Wermer-Colan, A. (2020). [Computational Textual Analysis](https://guides.temple.edu/corpusanalysis). Temple University Libraries.
 *   Underwood, T. (2015). Seven ways humanists are using computers to understand text. Retrieved from [https://tedunderwood.com/2015/06/04/seven-ways-humanists-are-using-computers-to-understand-text/.](https://tedunderwood.com/2015/06/04/seven-ways-humanists-are-using-computers-to-understand-text/)
-*   Walsh, J. A., Martin, S., & St. Germain, J. (2018). [“The Spider’s Web”: An analysis of fan mail from Amazing Spider-Man, 1963–1995](https://iu.instructure.com/files/149239423/download?download_frd=1). In J. Laubrock, J. Wildfeuer, & A. Dunst (Eds.), _Empirical comics research: Digital, multimodal, and cognitive methods_. New York: Routledge.
+*   Walsh, J. A., Martin, S., & St. Germain, J. (2018). [“The Spider’s Web”: An analysis of fan mail from Amazing Spider-Man, 1963–1995](https://iu.instructure.com/files/149751843/download?download_frd=1). In J. Laubrock, J. Wildfeuer, & A. Dunst (Eds.), _Empirical comics research: Digital, multimodal, and cognitive methods_. New York: Routledge.
 
 ### IT Skills
 
