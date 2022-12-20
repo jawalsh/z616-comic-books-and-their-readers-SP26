@@ -8,6 +8,7 @@ This week we will learn about imaging and OCR tools for converting images of com
 - *Use* Voyant to *analyze* a corpus of letters of comment.
 - *Use* AntConc to *analyze* a corpus of letters of comment
 - *Use* Mallet to *generate* topic models from a corpus of letters of comment.
+
 ## Before class: Readings, resources, and tasks
  *   [Webinar on text analysis with Voyant Tools by their developer Professor Geoffrey Rockwell](https://youtu.be/ToEu8e7pKi4)  
      <iframe width="560" height="315" src="https://www.youtube.com/embed/ToEu8e7pKi4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -16,4 +17,5 @@ This week we will learn about imaging and OCR tools for converting images of com
 *   Underwood, T. (2012). Topic modeling made just simple enough. Retrieved from <http://tedunderwood.com/2012/04/07/topic-modeling-made-just-simple-enough/>
 *   Goldstone, G., & Underwood, T. (2012). What can topic models of PMLA teach us about the history of literary scholarship? Retrieved from <https://tedunderwood.com/2012/12/14/what-can-topic-models-of-pmla-teach-us-about-the-history-of-literary-scholarship/>
 *   Graham, S., Weingart, S., & Milligan, I. (2012). Getting Started with Topic Modeling and MALLET. Retrieved from <http://programminghistorian.org/lessons/topic-modeling-and-mallet>
+
 ## In class
