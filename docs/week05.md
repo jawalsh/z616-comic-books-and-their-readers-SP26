@@ -27,7 +27,7 @@ This week we will explore the topic of comic book fan mail and learn techniques 
 
 #### Screenshots (Windows)
 
-*   <https://www.msn.com/en-us/news/technology/how-to-take-a-screenshot-on-windows-10-computers-in-several-different-ways/ar-BB14gnay.>
+<https://www.msn.com/en-us/news/technology/how-to-take-a-screenshot-on-windows-10-computers-in-several-different-ways/ar-BB14gnay.>
 *   <https://techcommunity.microsoft.com/t5/windows-11/how-to-take-a-screenshot-in-windows-11-4-ways/m-p/2849736>.
 #### Screenshots (Mac)
 
