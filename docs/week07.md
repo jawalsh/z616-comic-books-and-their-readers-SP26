@@ -18,10 +18,10 @@ Another possible activity is to view your Mallet topic model results in Excel or
  
 ## In class
 ### Comics-related text corpora
-- “The Spider’s Web” fan mail from _Amazing Spider-Man_, 1964-1995: [spiders_web_1963-1995_txt.zip](https://iu.instructure.com/files/149972357/download?download_frd=1)
+- “The Spider’s Web” fan mail from _Amazing Spider-Man_, 1964-1995: [spiders_web_1963-1995_txt.zip](https://iu.instructure.com/files/149239570/download?download_frd=1)
 - Mallet topic modeling output of “The Spider’s Web” fan mail from _Amazing Spider-Man_, 1964-1995: [asm_topic_model_mallet_output.zip](https://iu.instructure.com/files/149239594/download?download_frd=1)
 
 ### Other text corpora
-- [The Bible (Authorized, or King James, version)](https://iu.instructure.com/files/149972350/download?download_frd=1)
-- [The Poems of Algernon Charles Swinburne, 6 vols. (London: Chatto and Windus, 1904)](https://iu.instructure.com/files/149994431/download?download_frd=1)
+- [The Bible (Authorized, or King James, version)](https://iu.instructure.com/files/150016767/download?download_frd=1)
+- [The Poems of Algernon Charles Swinburne, 6 vols. (London: Chatto and Windus, 1904)](https://iu.instructure.com/files/150016768/download?download_frd=1)
 - [The Folger Shakespeare](https://shakespeare.folger.edu/downloads/txt/shakespeares-works_TXT_FolgerShakespeare.zip)
