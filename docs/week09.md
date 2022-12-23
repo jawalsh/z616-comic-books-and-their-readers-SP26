@@ -18,11 +18,11 @@ This week we will gain hands-on experience with some data visualization tools an
 
 ### Counting genres
 
-## Dataset
+#### Dataset
 
 *   [Spreadsheet of data](https://mikrowelle.github.io/cooper-comics-final/data/Cooper%20Comics%20Reprint%20Metadata.xlsx) from the [The Stephen Cooper Comic Book Collection](https://cary-exhibits.rit.edu/exhibits/show/cooper-comics).
 
-## Tool: Microsoft Excel
+#### Tool: Microsoft Excel
 
 1.  Open Excel [file](https://mikrowelle.github.io/cooper-comics-final/data/Cooper%20Comics%20Reprint%20Metadata.xlsx).
 2.  Create a new sheet and name the new sheet `Counting`.
@@ -51,14 +51,14 @@ _Fig. 1. Genre column._
     *   select the row and change the format to `Percentage`
 7.  Insert chart from the `Insert` toolbar.
 
-## Mapping Publishers
+### Mapping Publishers
 
-## Dataset
+#### Dataset
 
 *   Michigan State University [comics-as-data](https://github.com/ktopham/comics-as-data).
     *   [https://github.com/ktopham/comics-as-data/raw/master/comics\_as\_data\_north\_america\_2020-01-20\_reconciled\_full.csvLinks to an external site.](https://github.com/ktopham/comics-as-data/raw/master/comics_as_data_north_america_2020-01-20_reconciled_full.csv)
 
-## Tool: [Flourish](https://flourish.studio/).
+#### Tool: [Flourish](https://flourish.studio/).
 
 1.  Login to your [Flourish](https://flourish.studio/) account.
 2.  Select `New Visualization`
