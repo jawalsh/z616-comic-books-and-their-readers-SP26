@@ -1,4 +1,4 @@
-# Z604/Z762 Comic Books and Their Readers
+# Z604/Z672 Comic Books and Their Readers
 Digital and Empirical Methods for Studying Readership and Fandom  
 Spring 2023
 
