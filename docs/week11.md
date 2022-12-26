@@ -1,4 +1,4 @@
-# Week [x]: [topic]
+# Week 11: Fandom on social media
 
 ## Summary
 This week we explore fandom on social media and tools for analyzing social media data. 
