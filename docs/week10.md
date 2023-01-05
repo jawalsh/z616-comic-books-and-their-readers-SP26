@@ -1,18 +1,20 @@
-# Week 10: Fanzines and maker culture
+# Week 10: Comics in special collections and archives
 
 ## Summary
-This week we will learn about the history of comics fanzines and prozines and, in small groups, create small fanzines in class.
+This week we will explore comics in special collections and archives and how such collections can facilitate research into comic book readership and fandom. Our class time this week will be spent at Indiana University’s Lilly Library exploring their comics-related holdings.
+
+[Lilly Library on Apple Maps](https://maps.apple.com/?address=1200%20E%20Seventh%20St,%20Bloomington,%20IN%20%2047405,%20United%20States&auid=1366294706055500952&ll=39.167851,-86.519029&lsp=9902&q=Lilly%20Library&t=m).
 
 ## Weekly Learning Objectives
-
-- *define* the terms fanzine and prozine and *list* examples of each from comics and other fandoms.
-- *explain* the origins and history of comic book fanzines and *identify* some of the major figures and publications.
-- *create* a small, simple fanzine.
-- *design* fanzine-related programming and workshops.
+- _identify_ important collections relevant to comics research
+- _discover_ the comics-related collections in Indiana University’s Lilly Library
+- _find_ specific items in major comics-related collections
  
 ## Before class: Readings, resources, and tasks
-- O’Brien, E. (2012). Zines: A personal history. New England Review, 33(2), 89–99. Retrieved from <https://muse.jhu.edu/article/484798>
-- Radway, J. (2020). Zines, half-lives, and afterlives: On the temporalities of social and political change. PMLA, 126, 140–150. Retrieved from <https://doi.org/10.1632/pmla.2011.126.1.140>
-- Schelly, W. (2003). [Fanzine maniaActions](https://iu.instructure.com/files/149239588/download?download_frd=1) . _The golden age of comic fandom_ (Rev. ed.). Seattle, WA: Hamster P
+  - Miller, R. (2018). From the Archives: The Queer Zine Archive Project. Inks, 2(3), 369–389. <https://doi.org/10.1353/ink.2018.0025>
+  - Pflug, W. (2021). From the Archives: Vernon E. Grant Collection. Inks, 5(2), 209–224. <https://doi.org/10.1353/ink.2021.0011>
 
+
+
+]
 ## In class

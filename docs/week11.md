@@ -1,26 +1,18 @@
-# Week 11: Fandom on social media
+# Week 11: Fanzines and maker culture
 
 ## Summary
-This week we explore fandom on social media and tools for analyzing social media data. 
+This week we will learn about the history of comics fanzines and prozines and, in small groups, create small fanzines in class.
 
 ## Weekly Learning Objectives
-- *illustrate* social media research with examples from various domains.
-- *list* example topics that may be analyzed through social media data.
-- *list*, *explain*, and *discuss* pros and cons of three methods for obtaining social media data.
-- *use* one or more methods discussed in class to obtain comics- or fandom-related social media data.
 
-## Before class: Readings, resources, and tasks
- Weekly learning objectives
+- *define* the terms fanzine and prozine and *list* examples of each from comics and other fandoms.
+- *explain* the origins and history of comic book fanzines and *identify* some of the major figures and publications.
+- *create* a small, simple fanzine.
+- *design* fanzine-related programming and workshops.
  
- - Dill-Shackleford, K. E., Hopper-Losenicky, K., Vinney, C., Swain, L. F., & Hogg, J. L. (2015). - Mad Men fans speak via social media: What fan voices reveal about the social construction of reality via dramatic fiction. Journal of Fandom Studies, 3(2), 151-170. <Retrieved from https://proxyiub.uits.iu.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=cms&AN=103531154&site=ehost-live&scope=site>
-	 - Lowe, J. S. A. (2017). We’ll always have purgatory: Fan spaces in social media. Journal of Fandom Studies, 5(2), 175-192. <Retrieved from https://proxyiub.uits.iu.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=cms&AN=126397445&site=ehost-live&scope=site>
-		 - Krishna, R. (2018). There’s An Online Harassment Campaign Underway Against People Advocating For Diversity In Comics. BuzzFeed News. Retrieved from <https://www.buzzfeednews.com/article/krishrach/comicsgate>
-- [Web Scraping with Python](https://www.linkedin.com/learning-login/share?account=87254282&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fweb-scraping-with-python%3Ftrk%3Dshare_ent_url%26shareId%3Dm7xvCkdqQOmDo%252BJ1nUcMXA%253D%253D). Requires some basic knowledge of Python. If you don't know Python, see: [Learning Python](https://www.linkedin.com/learning-login/share?account=87254282&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Flearning-python%3Ftrk%3Dshare_ent_url%26shareId%3D3mS8Kh5qTlCO8elD6r7q1Q%253D%253D)
-
-## Tools
-- [Google Trends](https://trends.google.com/trends/)
-- [foller.me](https://foller.me/)
-- [twitonomy](https://www.twitonomy.com/)
-- [mentionmapp](https://analytics.mentionmapp.com/)
+## Before class: Readings, resources, and tasks
+- O’Brien, E. (2012). Zines: A personal history. New England Review, 33(2), 89–99. Retrieved from <https://muse.jhu.edu/article/484798>
+- Radway, J. (2020). Zines, half-lives, and afterlives: On the temporalities of social and political change. PMLA, 126, 140–150. Retrieved from <https://doi.org/10.1632/pmla.2011.126.1.140>
+- Schelly, W. (2003). [Fanzine maniaActions](https://iu.instructure.com/files/149239588/download?download_frd=1) . _The golden age of comic fandom_ (Rev. ed.). Seattle, WA: Hamster P
 
 ## In class
