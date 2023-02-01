@@ -20,4 +20,4 @@ This week we will go over some of the course basics, syllabus, and assignments. 
 - introductions
 - review of syllabus and assignments
 - review research methods for studying comic book readership and fandom
-- look ahead at [week 2](week2.md)
+- look ahead at [week 2](week02.md)
