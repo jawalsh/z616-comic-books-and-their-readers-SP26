@@ -16,3 +16,8 @@ This week we will go over some of the course basics, syllabus, and assignments. 
 - Duncan, R., Smith, M. J., &amp; Levitz, P. (2015). [The Comic Book Readers](https://iu.instructure.com/files/149239437/download?download_frd=1). _The Power of Comics_ (2nd ed.) (pp. 297-326). London: Bloomsbury.	
  
 ## In class
+- pre-test
+- introductions
+- review of syllabus and assignments
+- review research methods for studying comic book readership and fandom
+- look ahead at [week 2](week2.md)
