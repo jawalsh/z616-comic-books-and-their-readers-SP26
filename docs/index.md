@@ -23,6 +23,6 @@ _Charles “Teenie” Harris. [Girl reading “Mickey Mouse and the Submarine Pi
 - [Week 7](week07.md) _(2023-03-22)_: Text analysis lab
 - [Week 8](week08.md) _(2023-03-29)_: Data sets and visualization
 - [Week 9](week09.md) _(2023-04-05)_: Data visualization lab
-- [Week 10](week10.md) _(2023-04-12)_: Fanzines and maker culture
-- [Week 11](week11.md) _(2023-04-19)_: Fandom on social media
-- [Week 12](week12.md) _(2023-04-26)_: Final project presentations
+- [Week 10](week10.md) _(2023-04-12)_: Comics in special collections and archives
+- [Week 11](week11.md) _(2023-04-19)_: Fanzines and maker culture
+- [Week 12](week12.md) _(2023-04-26)_: Fandom on social media
