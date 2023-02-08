@@ -2,7 +2,7 @@
 
 # Participation
 
-<img style="float:left;margin-right:1em;border:1px solid black; margin-bottom:1.5em; max-height:200px;" alt="Cover of Pep #150 (Archie Comics, October 1961" src="images/gcd_33446.jpg"/>
+<img style="float:left;margin-right:1em;border:1px solid black; margin-bottom:1em; max-height:200px;" alt="Cover of Pep #150 (Archie Comics, October 1961" src="images/gcd_33446.jpg"/>
 
 Your participation grade is based on regular, on-time attendance and active participation in online and in-class discussions. Your participation grade will be calculated as an average of your grade for each individual class session and online discussion. Unexcused absences and frequent tardiness will count against your participation grade. 
 
