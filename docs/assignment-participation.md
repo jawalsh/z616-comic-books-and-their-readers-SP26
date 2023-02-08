@@ -8,7 +8,13 @@ Your participation grade is based on active participation in online and in-class
 
 ## Online Participation
 
-- Post a response to the online discussion and comment on the responses of two or more students for an A or A-
-- Post a response to the online discussion and comment on the response of one other student for a B+, B, or B-
-- Post a response to the online discussion or comment on other student responses, but not both, for a C+, C, or C-
-- 
+For each online discussion/activity:
+
+- Post a response to the online discussion and thoughtfully comment on the responses of two or more students for an A or A-
+- Post a response to the online discussion and thoughtfully comment on the response of one other student for a B+, B, or B-
+- Post a response to the online discussion or thoughtfully comment on other student responses, but not both, for a C+, C, or C-
+- No responses and no comments will result in an F 
+
+## In-Class Participation
+
+For each class period
