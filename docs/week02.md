@@ -27,5 +27,6 @@ Questions from Duncan, R., Smith, M. J., &amp; Levitz, P. (2015). [The Comic Boo
 	- Besides reading comic books, do you take part in any other
 fan activities like attending conventions, collecting related merchandise, posting to a website, etc.? 
 		- What do you gain from those activities?
+- If time allows, begin Spurlock’s _Comic con episode IV: A fan’s hope_.
 	
 		
