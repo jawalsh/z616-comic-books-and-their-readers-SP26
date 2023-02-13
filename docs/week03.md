@@ -18,3 +18,4 @@ This week we will continue to explore the topics of comic book culture, fans, an
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZN41gXXUlLI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="max-width:80%; margin:auto;"></iframe>
 
 ## In class
+- Finish watching Spurlock documentary.
