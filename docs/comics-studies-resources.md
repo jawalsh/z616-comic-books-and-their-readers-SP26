@@ -70,6 +70,7 @@ _Gif by [Callen](https://kerrycallen.blogspot.com/2012/10/animated-kirby-machine
 * [Comic Book Legal Defense Fund][20]
 * [Comics Studies Society][21]
 * [Popular Culture Association][22]
+* Indiana University’s student-run [Comic Book Book Club](https://beinvolved.indiana.edu/organization/comicbooks)
 
 ## Journals
 * [Journal of Graphic Novels and Comics][23]  
