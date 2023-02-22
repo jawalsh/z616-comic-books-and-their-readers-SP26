@@ -15,3 +15,20 @@ This week we will explore the topic of the paratext and examine more closely par
 - Barker, M. (2017). Speaking of ‘paratexts’: A theoretical revisitation. *Journal of Fandom Studies, 5*(3), 235-249. Retrieved from <https://proxyiub.uits.iu.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=cms&AN=128430225&site=ehost-live&scope=site>
 
 ## In class
+
+- Paratext lecture and comics examples
+
+## Exploring paratexts activity
+
+We will spend time in class individually looking for interesting examples of comic book paratexts. Try to find two or three distinct examples. 
+
+Consider the paratexts as evidence:
+
+- of the commercial and cultural context of the comic books (e.g., advertisements)
+- the creation and production of comic books (e.g., editorial and promotional materials)
+- reader engagement with comic books (e.g., fan club advertisements, fan mail)
+
+Keep notes about your paratext regarding where it came from (title, issue, date) and why it is significant.
+
+After working individual, we will get together in small groups to share our findings, and then groups will report back to the full class.
+
