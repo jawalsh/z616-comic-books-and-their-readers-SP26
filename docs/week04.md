@@ -18,7 +18,7 @@ This week we will explore the topic of the paratext and examine more closely par
 
 - Paratext lecture and comics examples
 
-## Exploring paratexts activity
+### Exploring paratexts activity
 
 We will spend time in class individually looking for interesting examples of comic book paratexts. Try to find two or three distinct examples. 
 
@@ -31,4 +31,10 @@ Consider the paratexts as evidence:
 Keep notes about your paratext regarding where it came from (title, issue, date) and why it is significant.
 
 After working individual, we will get together in small groups to share our findings, and then groups will report back to the full class.
+
+#### Sources for finding paratexts
+- comics in our shared OneDrive folder
+* [Digital Comic Museum](http://digitalcomicmuseum.com/) (DCM)
+* [Comic Book +](https://comicbookplus.com)
+* [Internet Archive](http://archive.org)
 
