@@ -105,8 +105,8 @@ _Gif by [Callen](https://kerrycallen.blogspot.com/2012/10/animated-kirby-machine
 * [Bonner Online-Bibliographie zur Comicforschung](https://www.bobc.uni-bonn.de/)
 		 
 ## Digital Comics Collections
-* [Digital Comic Museum][50] (DCM)
-* [Comic Book +][51]
+* [Digital Comic Museum](http://digitalcomicmuseum.com/) (DCM)
+* [Comic Book +](https://comicbookplus.com)
 * [Internet Archive](http://archive.org)
 
 ## Archive and Library Supplies
