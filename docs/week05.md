@@ -74,3 +74,11 @@ Keep notes on:
 - details the writers reveal about themselves, e.g., gender, occupation, etc.
 
 After working individual, we will get together in small groups to share our findings, and then groups will report back to the full class.
+
+#### Sources for finding fan mail
+- comics in our shared OneDrive folder
+* [Digital Comic Museum](http://digitalcomicmuseum.com/) (DCM)
+* [Comic Book +](https://comicbookplus.com)
+* [Internet Archive](http://archive.org)
+
+
