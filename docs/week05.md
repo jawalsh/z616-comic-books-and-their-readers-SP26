@@ -58,3 +58,19 @@ This week we will explore the topic of comic book fan mail and learn techniques 
 
 
 ## In class
+
+- Lecture and tech demo
+- Creating screen shots
+- Performing OCR with Acrobate, FineReader, and Tesseract
+
+### Exploring fanmail activity
+
+We will spend time in class individually looking for interesting examples of fan mail. Try to find two or three distinct examples. 
+
+Keep notes on:
+
+- Source of the fan mail: title, issue, date;
+- topics discussed, e.g., story, plot, dialogue, art, characters, creators, process, current events, mistakes, criticisms, etc.;
+- details the writers reveal about themselves, e.g., gender, occupation, etc.
+
+After working individual, we will get together in small groups to share our findings, and then groups will report back to the full class.
