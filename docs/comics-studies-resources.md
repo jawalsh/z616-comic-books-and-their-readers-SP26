@@ -160,6 +160,8 @@ _Gif by [Callen](https://kerrycallen.blogspot.com/2012/10/animated-kirby-machine
 * [The Marvel Universe Social Network Dataset][85] from [Kaggle][86]
 	* This dataset only provides connections among the superheroes in Marvel Universe, villains are omitted.
 * [The Marvel and DC Characters Dataset][87] from [Kaggle][88]
+* [Manga 109: Japanese Manga Dataset](http://www.manga109.org/en/)
+* [eBDtheque: a representative database of comics](https://ebdtheque.univ-lr.fr/registration/)
 
 ---
 
