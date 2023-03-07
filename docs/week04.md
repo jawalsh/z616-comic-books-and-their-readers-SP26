@@ -22,11 +22,11 @@ This week we will explore the topic of the paratext and examine more closely par
 
 We will spend time in class individually looking for interesting examples of comic book paratexts. Try to find two or three distinct examples. 
 
-Consider the paratexts as evidence:
+Consider the paratexts as evidence of:
 
-- of the commercial and cultural context of the comic books (e.g., advertisements)
-- the creation and production of comic books (e.g., editorial and promotional materials)
-- reader engagement with comic books (e.g., fan club advertisements, fan mail)
+- the commercial and cultural context of the comic books (e.g., advertisements);
+- the creation and production of comic books (e.g., editorial and promotional materials);
+- reader engagement with comic books (e.g., fan club advertisements, fan mail).
 
 Keep notes about your paratext regarding where it came from (title, issue, date) and why it is significant.
 
