@@ -25,3 +25,6 @@ This week we will learn about imaging and OCR tools for converting images of com
 - [Letters of Comment: Then and Now](https://iu.instructure.com/courses/2120676/discussion_topics/12496900)
 
 ## In class
+
+- Lecture and demo: In the first half of the class I will demo text analysis tools that you read about this week: Voyant, AntConc, and Mallet.
+- Lab work: In the second half of class use any or all of these tools to explore your own text corpus, the texts in our [data](https://iu.instructure.com/courses/2120676/files#) folder in Canvas, or other texts you may find online. 
