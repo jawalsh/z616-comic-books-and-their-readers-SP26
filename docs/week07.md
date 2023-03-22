@@ -26,7 +26,7 @@ With your own texts related to your final project or with the text corpora below
 - [AntConc](https://www.laurenceanthony.net/software/antconc/)
 - [Mallet](https://mimno.github.io/Mallet/)
 	- See also this [tutorial on topic modelling with Mallet](https://programminghistorian.org/en/lessons/topic-modeling-and-mallet) by Shawn Graham, Scott Weingart, and Ian Milligan.
-- Text analysis on the command line with common Unix/Linux tools from [Unix for Poets](https://www.cs.upc.edu/~padro/Unixforpoets.pdf).
+- Text analysis on the command line with common Unix/Linux tools from [Unix for Poets](https://iu.instructure.com/files/154473586/download?download_frd=1).
 - Named Entity Recognition with [python](https://wiki.python.org/moin/BeginnersGuide/Download)
 	- Tutorial: [The Best Way to do Named Entity Recognition (NER)](https://pythonalgos.com/the-best-way-to-do-named-entity-recognition-ner/)
 	- Focus on the first two options (spaCy and NLTK) using open source tools; the final option uses the author’s API tool, which encourages a subscription.
