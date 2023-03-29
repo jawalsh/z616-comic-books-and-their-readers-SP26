@@ -13,6 +13,9 @@ This week we will gain hands-on experience with some data visualization tools an
 - Install Microsoft Excel (see <https://iuware.iu.edu/>).
 - Create a [Flourish](https://flourish.studio/) account.
 - Create a [Tableau](https://www.tableau.com/academic/students) account.
+
+
+-  [Information Visualization Discussion and Evaluation](https://iu.instructure.com/courses/2120676/discussion_topics/12496903)
  
 ## In class
 
