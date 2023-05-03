@@ -15,6 +15,6 @@ For this assignment, you will participate in a fan activity, for example by:
 	- more at <https://comic-cons.xyz> and <http://www.conventionscene.com/schedules/comicbookconventions/>
 - engaging in (substantive) online conversation with one or more comic book creators or fans, on Twitter, Facebook, or other social media or online forum.
 
-For the assignment, you will submit documentation of your activity (copies of the submitted letter(s)/email(s) or online discussion, a list of events you attended at a comic book convention.
+For the assignment, **you must submit documentation of your activity. For example, include a copy of the submitted letter(s)/email(s), screenshots of the online discussion, photographs of you at the event, a photo or scan of your attendance badge from a convention, etc.)**
 
 In addition to documenting your activity, you will submit a short essay (about 500 words) describing your experience.
