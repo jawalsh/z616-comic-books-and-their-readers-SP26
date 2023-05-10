@@ -162,6 +162,7 @@ _Gif by [Callen](https://kerrycallen.blogspot.com/2012/10/animated-kirby-machine
 * [The Marvel and DC Characters Dataset][87] from [Kaggle][88]
 * [Manga 109: Japanese Manga Dataset](http://www.manga109.org/en/)
 * [eBDtheque: a representative database of comics](https://ebdtheque.univ-lr.fr/registration/)
+* [Grand Comics Database](http://www.comics.org/download/)
 * [More…](https://iapr-tc10.univ-lr.fr/?page_id=71#comic-book-datasets)
 
 ## Text Analysis Tools
