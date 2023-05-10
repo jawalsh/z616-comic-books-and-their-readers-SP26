@@ -6,10 +6,10 @@ Final project is a research paper and class presentation. Based upon your analys
 
 ## Rubric
 
-- 4—Exceptional
-- 3—Good
-- 2—Acceptable
-- 1-Unacceptable 
+- 4 — Exceptional
+- 3 — Good
+- 2 — Acceptable
+- 1 — Unacceptable 
 
 | Element | Score |
 | :---    | :---  |
