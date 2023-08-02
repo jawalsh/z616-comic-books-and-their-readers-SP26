@@ -136,6 +136,7 @@ _Gif by [Callen](https://kerrycallen.blogspot.com/2012/10/animated-kirby-machine
 ## Library research guides and readers advisories
 * [A Readers Advisory Guide Autobiographical Graphic Novels][67]
 * [Graphic Novels and Comics][69]
+  
 ## Museums and archives
 * [American Heritage Center, University of Wyoming][70]
 * [Billy Ireland Cartoon Library and Museum, Ohio State University][71]
