@@ -8,6 +8,17 @@ This week we will go over some of the course basics, syllabus, and assignments. 
 - _Discuss_ our own experience as comic book readers or consumers/fans of other media.
 - _identify_ research methods that may be applied to the study of comic book readership and fandom.
 - _outline_ a broad history of the comic book, as presented in Hatfield’s chapter.
+
+### Define and identify the following terms
+- panel
+- word balloon, thought balloon
+- caption
+- writer, scripter
+- artist, penciller
+- inker
+- colorist
+- letterer
+
  
 ## Before class: Readings, resources, and tasks
 
