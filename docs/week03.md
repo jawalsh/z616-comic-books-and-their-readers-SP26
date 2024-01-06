@@ -1,4 +1,4 @@
-# Week 3: Comics culture
+# Week 3: Comics culture, ethnography, authoethnography
 
 ## Summary
 This week we will continue to explore the topics of comic book culture, fans, and readers.
