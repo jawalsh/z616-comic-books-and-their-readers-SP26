@@ -8,6 +8,9 @@ This week we will explore the topic of fandom studies as an academic discipline 
 - *apply* concepts and methods from Jenkins to other areas and manifestations of fandom.
 - *share* a fandom experience with the class to reflect on our own encounters with fandom.
 
+### Define and identify the following terms
+- acafan
+
 ## Before class: Readings, resources, and tasks-
 - Complete the “[Share: Please introduce yourself](https://iu.instructure.com/courses/2120676/assignments/14645016)”
 - Jenkins, H. (2012). [Introduction](https://iu.instructure.com/files/149239572/download?download_frd=1). *Textual Poachers* (2nd ed.) (pp. 1-8). New York, NY: Routledge.
