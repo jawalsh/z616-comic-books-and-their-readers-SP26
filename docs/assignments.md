@@ -11,3 +11,4 @@
 | [Final Project](assignment-final-project.md)                   | 30     | 4/28/2023  |
 | Lab exercises and other activities                             | 10     | n/a        |
 | [Participation](assignment-participation.md)                  | 10     | n/a        |
+| [Leading Discussion](assignment-leading-discussion.md)         | X |    n/a          |
