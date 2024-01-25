@@ -1,6 +1,6 @@
 {% include_relative header.md %}
 
-# Assignments (100 points total)
+# Assignments (1000 points total)
 
 | Assignment                                                     | Points | Due Date   |
 | ---------------------------------------------------------------| ---    | ---------- |
