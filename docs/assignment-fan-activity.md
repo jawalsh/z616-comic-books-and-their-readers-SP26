@@ -18,3 +18,5 @@ For this assignment, you will participate in a fan activity, for example by:
 For the assignment, **you must submit documentation of your activity. For example, include a copy of the submitted letter(s)/email(s), screenshots of the online discussion, photographs of you at the event, a photo or scan of your attendance badge from a convention, etc.)**
 
 In addition to documenting your activity, you will submit a short essay (about 500 words) describing your experience.
+
+Submit your assignment materials as a PDF or Word document in Canvas.
