@@ -25,7 +25,9 @@ You will submit a report, approximately 300-600 words, describing the methodolog
 - obituaries
 - Facebook or LinkedIn profiles
 
-Your submission should be professionally formated, with name, date, title, page numbers, captions for figures and images, etc. Submit document as a PDF or Word document.
+Your submission should be professionally formated, with name, date, title, page numbers, captions for figures and images, etc. 
+
+Submit your assignment materials as a PDF or Word document in Canvas.
 
 Examples from prior semesters:
 
