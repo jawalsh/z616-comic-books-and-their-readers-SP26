@@ -14,4 +14,6 @@ You should be prepared to pose [discussion-worthy questions](https://www.eduflow
     - A bibliographic citation (any style) for each reading followed by approximately 3-5 bullet points summarizing the main points of the reading
     - Your discussion questions (aim for 4-6)
 
+Submit your assignment materials as a PDF or Word document in Canvas.
+
 *Adapted with permission from Prof. Allan Martell.*
