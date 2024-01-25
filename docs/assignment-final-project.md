@@ -12,6 +12,8 @@ Your audience consists of academics and library professionals, but they likely d
 
 Please reach out to us if you are interested in presenting your work in some alternative format or media other than the traditional research paper.
 
+Submit your assignment materials as a PDF or Word document in Canvas.
+
 ## Rubric
 
 - 4 — Exceptional
