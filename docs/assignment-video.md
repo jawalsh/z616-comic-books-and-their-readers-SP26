@@ -25,7 +25,7 @@ You may record yourself and your screen (for slides) together by using a tool li
 
 ## Here's how to submit your work…
 
-In the [Canvas discussion](https://iu.instructure.com/courses/2120676/discussion_topics/12496904):
+In the [Canvas discussion](https://iu.instructure.com/courses/2204459/discussion_topics/13437191):
 
 - Hit **`Reply`** below to a reply editing form in which you can upload your video.
 - To upload your video, click on the small media icon (![canvas media button](images/canvas_media.png)) and select **`Upload/Record Media`**
