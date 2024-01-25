@@ -9,6 +9,6 @@ Spring 2024
 
 
 
-[home](index.html) \| [general information](general.html) \| [assignments](assignments.html) \| [discussions]() \| [resources](comics-studies-resources.html)
+[home](index.html) \| [general information](general.html) \| [assignments](assignments.html) \| [resources](comics-studies-resources.html)
 
 ---
