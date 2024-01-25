@@ -77,7 +77,7 @@ _Gif by [Callen](https://kerrycallen.blogspot.com/2012/10/animated-kirby-machine
 * [_Inks: The Journal of the Comics Studies Society_][24]
 * [_The Comics Grid: Journal of Comics Scholarship_][25]
 * [_The Comics Journal_][26]
-* [_ImageText_][27]
+* [_ImageText_](https://imagetextjournal.com)
 * [_Studies in Comics_][28]
 * [_European Comic Art_](https://www.berghahnjournals.com/view/journals/eca/eca-overview.xml)
 * [_Journal of Popular Culture_][31]
@@ -192,12 +192,11 @@ _Gif by [Callen](https://kerrycallen.blogspot.com/2012/10/animated-kirby-machine
 [19]: https://www.whatwerecomics.com
 [20]: http://cbldf.org
 [21]: http://www.comicsstudies.org/
-[22]: http://pcaaca.org
-[23]: http://www.tandfonline.com/toc/rcom20/current
+[22]: https://pcaaca.org
+[23]: https://www.tandfonline.com/toc/rcom20/current
 [24]: https://ohiostatepress.org/Inks.html
 [25]: https://www.comicsgrid.com/
 [26]: http://www.tcj.com/author/ryan-holmberg/
-[27]: http://www.english.ufl.edu/imagetext/
 [28]: https://www.intellectbooks.co.uk/journals/view-Journal,id=168/
 [31]: https://www.journalofpopularculture.com
 [32]: http://ojs.arts.kuleuven.be/index.php/imagenarrative/index
@@ -212,7 +211,7 @@ _Gif by [Callen](https://kerrycallen.blogspot.com/2012/10/animated-kirby-machine
 [41]: http://www.comicsbeat.com/
 [42]: http://comicsreporter.com
 [44]: https://comicsartsconference.wp.txstate.edu/
-[45]: http://pcaaca.org/national-conference/
+[45]: https://pcaaca.org/national-conference/
 [46]: https://fanstudies.org
 [47]: https://fsn-northamerica.org
 [48]: https://www.facebook.com/comicsresearchbibliography
