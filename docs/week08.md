@@ -11,11 +11,11 @@ This week we will explore the topic of data, data sets (especially those related
 - *clean* and *transform* data
 
 ## Define and identify the following terms
-data
-datasets
-structured data
-unstructured data
-data paper
+data  
+datasets  
+structured data  
+unstructured data  
+data paper  
 
 ## Before class: Readings, resources, and tasks
 - Owens, T. (2011). Defining Data for Humanists: Text, Artifact, Information or Evidence? Journal of Digital Humanities. _Journal of Digital Humanities_, _1_(1). [https://journalofdigitalhumanities.org/1-1/defining-data-for-humanists-by-trevor-owens/](https://journalofdigitalhumanities.org/1-1/defining-data-for-humanists-by-trevor-owens/)
