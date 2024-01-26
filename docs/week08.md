@@ -1,21 +1,22 @@
 # Week 8: Data sets and information visualization
 
 ## Summary
-This week we will explore the topic of informaiotn visualization, more comics-related data sets, and tools for visualizing data.
+This week we will explore the topic of data, data sets (especially those related to comics), and data papers
 
 ## Weekly Learning Objectives
 
-- *articulate* and *explain* fundamental concepts and principals of information visualization.
-- *explore* and *discuss* the effectiveness of an information visualization.
-- *Use* existing datasets and visualization tools to *create* information visualization.
+- *articulate* and *explain* fundamental concepts of data, particularly from a humanities point of view.
+- *think* critically about data and its construction and aggregation into datasets
+- *explore* and *evaluate* datasets
+- *clean* and *transform* data
  
 ## Before class: Readings, resources, and tasks
+- Owens, T. (2011). Defining Data for Humanists: Text, Artifact, Information or Evidence? Journal of Digital Humanities. _Journal of Digital Humanities_, _1_(1). [https://journalofdigitalhumanities.org/1-1/defining-data-for-humanists-by-trevor-owens/](https://journalofdigitalhumanities.org/1-1/defining-data-for-humanists-by-trevor-owens/)
+- Schöch, C. (2013). Big? Smart? Clean? Messy? Data in the Humanities. _Journal of Digital Humanities_, _2_(3), 2–13. (See Canvas)
+- Sosulski, K. (2019). The Data. In _Data visualization made simple: Insights into becoming visual_ (pp. 72–96). Routledge. [https://doi-org.proxyiub.uits.iu.edu/10.4324/9781315146096](https://doi-org.proxyiub.uits.iu.edu/10.4324/9781315146096)
+- Swinburne data paper draft
 
-- Naiman, C. (2020) [Lecture1 IntroDataviz](https://youtu.be/gZlQUVnM1EI).  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gZlQUVnM1EI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-- Theibault, J. (2012). Visualizations and historical arguments. Retrieved from <http://writinghistory.trincoll.edu/evidence/theibault-2012-spring/>
-- McCandless, D. (2010). The beauty of data visualization. Retrieved from <https://www.ted.com/talks/david_mccandless_the_beauty_of_data_visualization>
-- Bathhurst, R., et al. Visualization. Digital Humanities: A Primer. Retrieved from <https://carletonu.pressbooks.pub/digh5000/chapter/chapter-1/>
-- Bathhurst, R., et al. Mapping. Digital Humanities: A Primer. Retrieved from <https://carletonu.pressbooks.pub/digh5000/chapter/chapter-two/>
- 
 ## In class
+- OpenRefine
+- Data set exploration
+- Pivot tables
