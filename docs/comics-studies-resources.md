@@ -96,7 +96,7 @@ _Gif by [Callen](https://kerrycallen.blogspot.com/2012/10/animated-kirby-machine
 ## Conferences
 * [Comics Studies Society Annual Conference](https://comicsstudies.org/)
 * [Comics Arts Conference][44]
-* [Popular Culture Association][45]
+* [Popular Culture Association](https://pcaaca.org/page/nationalconference)
 * [Fan Studies Network][46] (UK)
 * [Fan Studies Network North America][47]
 
@@ -211,7 +211,7 @@ _Gif by [Callen](https://kerrycallen.blogspot.com/2012/10/animated-kirby-machine
 [41]: http://www.comicsbeat.com/
 [42]: http://comicsreporter.com
 [44]: https://comicsartsconference.wp.txstate.edu/
-[45]: https://pcaaca.org/national-conference/
+
 [46]: https://fanstudies.org
 [47]: https://fsn-northamerica.org
 [48]: https://www.facebook.com/comicsresearchbibliography
