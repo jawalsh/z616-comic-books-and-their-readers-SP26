@@ -12,12 +12,12 @@ This week we will gain hands-on experience with some data visualization tools an
 - _create_ data visualizations in Tableau.
 
 ## Define and identify the following terms
-visualization
-abstraction
-complexity
-representation
-design
- 
+visualization  
+abstraction  
+complexity  
+representation  
+design  
+  
 ## Before class: Readings, resources, and tasks
 - Install Microsoft Excel (see <https://iuware.iu.edu/>).
 - Create a [Flourish](https://flourish.studio/) account.
