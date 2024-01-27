@@ -2,7 +2,17 @@
 
 # Final Project
 
-Final project is a research paper and class presentation. Based upon your analysis of specific examples from one or more forms of reader participation, write a research paper (approximately 2500-5000 words) in which you describe a community of comic readers and their practices of participatory culture. Your audience consists of academics and library professionals, but they likely do not have expertise in comic books or participatory comic book culture. Please reach out to me if you are interested in presenting your work in some other format or media other than the traditional research paper.
+The final project is a hybrid research paper/[data paper](https://openhumanitiesdata.metajnl.com) and a [short video presentation](assignment-video.md). 
+
+You will write a research paper, with a data paper component, that explores some aspect or manifestation of comic book fandom or readership. 
+
+Your exploration should include an analysis of relevant data that you generate or that you acquire from existing sources, and those data should be well documented and made available (for instance on [GitHub](https://github.com) or OneDrive).
+
+Your audience consists of academics and library professionals, but they likely do not have expertise in comic books or participatory comic book culture and you should provide necessary context for readers who are not comics experts. 
+
+Please reach out to us if you are interested in presenting your work in some alternative format or media other than the traditional research paper.
+
+Submit your assignment materials as a PDF or Word document in Canvas.
 
 ## Rubric
 
