@@ -21,12 +21,20 @@ This week we will explore the topic of comic book fan mail and learn techniques 
 * Shoemaker, M. (2020). [Text Analytics.](https://guides.temple.edu/c.php?g=78518&p=505212). Temple University Libraries.
 * Wermer-Colan, A. (2020). [Computational Textual Analysis.](https://guides.temple.edu/corpusanalysis). Temple University Libraries.
 * Underwood, T. (2015). Seven ways humanists are using computers to understand text. Retrieved from [https://tedunderwood.com/2015/06/04/seven-ways-humanists-are-using-computers-to-understand-text/.](https://tedunderwood.com/2015/06/04/seven-ways-humanists-are-using-computers-to-understand-text/)
-* Walsh, J. A., Martin, S., & St. Germain, J. (2018). [“The Spider’s Web”: An analysis of fan mail from Amazing Spider-Man, 1963–1995](https://iu.instructure.com/files/149751843/download?download_frd=1). In J. Laubrock, J. Wildfeuer, & A. Dunst (Eds.), _Empirical comics research: Digital, multimodal, and cognitive methods_. New York: Routledge.
-* Walsh, J. A, Martin, S., & St. Germain, J. (2017) [“The Spider’s Web”: An analysis of fan mail from _Amazing Spider-Man_, 1963–1995](https://iu.instructure.com/files/153834504/download?download_frd=1). Poster presented at the Comics Arts Conference / Comic-Con International, San Diego, CA, July 22, 2017.
+* Walsh, J. A., Martin, S., & St. Germain, J. (2018). [“The Spider’s Web”: An analysis of fan mail from Amazing Spider-Man, 1963–1995](https://iu.instructure.com/files/169194295/download?download_frd=1). In J. Laubrock, J. Wildfeuer, & A. Dunst (Eds.), _Empirical comics research: Digital, multimodal, and cognitive methods_ (pp. 62-84). New York: Routledge.
+* Walsh, J. A, Martin, S., & St. Germain, J. (2017) [“The Spider’s Web”: An analysis of fan mail from _Amazing Spider-Man_, 1963–1995](https://iu.instructure.com/files/169194295/download?download_frd=1). Poster presented at the Comics Arts Conference / Comic-Con International, San Diego, CA, July 22, 2017.
 
 
-### Discussion
-- [Paratext show and tell](https://iu.instructure.com/courses/2120676/discussion_topics/12496899)
+### Discussion: Paratext show and tell
+
+Browse through the comics in our "z672 Comics" folder on OneDrive or any other comics or related documents, and find an interesting paratext. In the discussion, describe your paratext. Your example may be a peritext (in the comic book) or an epitext (located outside the comic book).
+
+In one or more paragraphs:
+- Explain what the paratext is, its function, and its location. 
+- Discuss how the paratext relates (or does not relate) to the comics content. 
+- Include an image or screen capture of the paratext.
+- Respond with substantive comments or questions to at least one peers.
+- Submit your work in the Canvas [discussion](https://iu.instructure.com/courses/2204459/discussion_topics/13437195)
 
 ### IT Skills
 
