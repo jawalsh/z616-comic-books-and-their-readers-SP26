@@ -11,8 +11,12 @@ This week we will explore the topic of the paratext and examine more closely par
 ## Before class: Readings, resources, and tasks
 -  Macksey, R. (1997). [Foreward](https://iu.instructure.com/files/169194249/download?download_frd=1) (J. E. Lewin, Trans.). In G. Genette, *Paratexts: Thresholds of interpretation* (J. E. Lewin, Trans.) (pp. xi-xxii). Cambridge: Cambridge UP. (Original work published 1987)
 - Genette, G. (1997). [Introduction](https://iu.instructure.com/files/169194241/download?download_frd=1). *Paratexts: Thresholds of interpretation* (J. E. Lewin, Trans.) (pp. 1-15). Cambridge: Cambridge UP. (Original work published 1987)
-- Stein, D. (2013). [Superhero comics and the authorizing functions of the comic book paratext](https://iu.instructure.com/files/169194240/download?download_frd=1). In D. Stein & J.-N. Thon (Eds.), *From comic strips to graphic novels: Contributions to the theory and history of graphic narrative* (pp. 155-189). Berlin: De Gruyter.
 - Barker, M. (2017). Speaking of ‘paratexts’: A theoretical revisitation. *Journal of Fandom Studies, 5*(3), 235-249. Retrieved from <https://iu.instructure.com/files/169194256/download?download_frd=1>
+
+<!-- 42 pp. -->
+### Recommended but optional reading
+- Stein, D. (2013). [Superhero comics and the authorizing functions of the comic book paratext](https://iu.instructure.com/files/169194240/download?download_frd=1). In D. Stein & J.-N. Thon (Eds.), *From comic strips to graphic novels: Contributions to the theory and history of graphic narrative* (pp. 155-189). Berlin: De Gruyter.
+
 
 ## In class
 
