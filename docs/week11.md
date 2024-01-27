@@ -16,3 +16,5 @@ This week we will learn about the history of comics fanzines and prozines and, i
 - Schelly, W. (2003). [Fanzine maniaActions](https://iu.instructure.com/files/149239588/download?download_frd=1) . _The golden age of comic fandom_ (Rev. ed.). Seattle, WA: Hamster P
 
 ## In class
+
+- **_Course evaluations_**
