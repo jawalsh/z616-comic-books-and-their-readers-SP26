@@ -10,15 +10,36 @@ This week we will go over some of the course basics, syllabus, and assignments. 
 - _outline_ a broad history of the comic book, as presented in Hatfield’s chapter.
 
 ### Define and identify the following terms
+#### comics components and structure
 - panel
 - word balloon, thought balloon
 - caption
+
+#### comics creator roles
 - writer, scripter
 - artist, penciller
 - inker
 - colorist
 - letterer
 
+####
+- floppy
+- trade paperback
+- underground comix
+- pulps / pulp magazines
+- direct market
+
+#### Periodization
+- Platinum Age
+- Golden Age
+- Silver Age
+- Bronze Age
+
+#### People
+- Fredric Wertham
+- _Seduction of the Innocent_ (1954)
+
+Hatfield, Charles; Beaty, Bart. Comics Studies: A Guidebook (p. 32). Rutgers University Press. Kindle Edition. 
  
 ## Before class: Readings, resources, and tasks <!-- 57 pp. -->
 
