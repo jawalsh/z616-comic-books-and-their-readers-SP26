@@ -22,24 +22,24 @@ This week we will go over some of the course basics, syllabus, and assignments. 
 - colorist
 - letterer
 
-####
-- floppy
-- trade paperback
-- underground comix
-- pulps / pulp magazines
-- direct market
-
 #### Periodization
+
 - Platinum Age
 - Golden Age
 - Silver Age
 - Bronze Age
 
-#### People
+- floppy
+- trade paperback
+- underground comix
+- pulps / pulp magazines
+- direct market
+- fanzine
+
+
 - Fredric Wertham
 - _Seduction of the Innocent_ (1954)
-
-Hatfield, Charles; Beaty, Bart. Comics Studies: A Guidebook (p. 32). Rutgers University Press. Kindle Edition. 
+- Comics Code and Comics Code Authority
  
 ## Before class: Readings, resources, and tasks <!-- 57 pp. -->
 
