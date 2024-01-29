@@ -50,6 +50,5 @@ This week we will go over some of the course basics, syllabus, and assignments. 
 ## In class
 - introductions
 - review of syllabus and assignments
-- review research methods for studying comic book readership and fandom
-- [GitHub](https://github.com)
+- Discussion of week 1 readings
 - look ahead at [week 2](week02.md)
