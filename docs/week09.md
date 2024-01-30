@@ -1,4 +1,4 @@
-# Week 8: Data sets and information visualization
+# Week 9: Data sets and information visualization
 
 ## Summary
 This week we will explore the topic of data, data sets (especially those related to comics), and data papers
@@ -22,6 +22,7 @@ data paper
 - Schöch, C. (2013). Big? Smart? Clean? Messy? Data in the Humanities. _Journal of Digital Humanities_, _2_(3), 2–13. (See Canvas)
 - Sosulski, K. (2019). The Data. In _Data visualization made simple: Insights into becoming visual_ (pp. 72–96). Routledge. [https://doi-org.proxyiub.uits.iu.edu/10.4324/9781315146096](https://doi-org.proxyiub.uits.iu.edu/10.4324/9781315146096)
 - Swinburne data paper draft (See Canvas)
+- Shroff, L. (2023). Datasets as Imagination. _Reboot_. [https://joinreboot.org/p/artist-datasets](https://joinreboot.org/p/artist-datasets)
 
 ## In class
 - OpenRefine
