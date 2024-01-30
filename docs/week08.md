@@ -1,4 +1,4 @@
-# Week 7: Text analysis lab
+# Week 8: Text analysis lab
 
 ## Summary
 Today we will spend the class period using and experimenting with text analysis tools we learned about before the break.
