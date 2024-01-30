@@ -1,4 +1,4 @@
-# Week 5: Fan mail and corpus-building
+# Week 6: Fan mail and corpus-building
 
 ## Summary
 This week we will explore the topic of comic book fan mail and learn techniques for building a corpus of fan mail for research investigations.  
