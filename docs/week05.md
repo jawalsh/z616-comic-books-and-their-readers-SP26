@@ -1,4 +1,4 @@
-# Week 10: Comics in special collections and archives
+# Week 5: Comics in special collections and archives
 
 ## Summary
 This week we will explore comics in special collections and archives and how such collections can facilitate research into comic book readership and fandom. Our class time this week will be spent at Indiana University’s Lilly Library exploring their comics-related holdings.
