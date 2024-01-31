@@ -20,10 +20,10 @@ This week we will explore the topic of comic book fan mail and learn techniques 
 * Kashtan, A. (2020). How can a comic book’s use of paratexts help it appeal to young readers? in [Reading Comics at the Threshold: A Round Table on Letter Columns & Other Comics Paratexts (Part 3).](https://themiddlespaces.com/2020/09/29/reading-comics-at-the-threshold-part-3/). Ed. L. Misemer. [The Middle Spaces: Comics. Music. Culture..](https://themiddlespaces.com/) <!-- 8 pp. -->
 * Shoemaker, M. (2020). [Text Analytics.](https://guides.temple.edu/c.php?g=78518&p=505212). Temple University Libraries.
 * Wermer-Colan, A. (2020). [Computational Textual Analysis.](https://guides.temple.edu/corpusanalysis). Temple University Libraries.
-* Walsh, J. A., Martin, S., & St. Germain, J. (2018). [“The Spider’s Web”: An analysis of fan mail from Amazing Spider-Man, 1963–1995](https://iu.instructure.com/files/169194293/download?download_frd=1). In J. Laubrock, J. Wildfeuer, & A. Dunst (Eds.), _Empirical comics research: Digital, multimodal, and cognitive methods_ (pp. 62-84). New York: Routledge. <!-- 23 pp. -->
+* Walsh, J. A., Martin, S., & St. Germain, J. (2018). [“The Spider’s Web”: An analysis of fan mail from Amazing Spider-Man, 1963–1995](https://f001.backblazeb2.com/file/gnrlfs/tr/Walsh+et+al+2018.pdf). In J. Laubrock, J. Wildfeuer, & A. Dunst (Eds.), _Empirical comics research: Digital, multimodal, and cognitive methods_ (pp. 62-84). New York: Routledge. <!-- 23 pp. -->
 
 #### Recommended but optional reading
-* Walsh, J. A, Martin, S., & St. Germain, J. (2017) [“The Spider’s Web”: An analysis of fan mail from _Amazing Spider-Man_, 1963–1995](https://iu.instructure.com/files/169194295/download?download_frd=1). Poster presented at the Comics Arts Conference / Comic-Con International, San Diego, CA, July 22, 2017.
+* Walsh, J. A, Martin, S., & St. Germain, J. (2017) [“The Spider’s Web”: An analysis of fan mail from _Amazing Spider-Man_, 1963–1995](https://f001.backblazeb2.com/file/gnrlfs/tr/walsh2017.pdf). Poster presented at the Comics Arts Conference / Comic-Con International, San Diego, CA, July 22, 2017.
 * Underwood, T. (2015). Seven ways humanists are using computers to understand text. Retrieved from [https://tedunderwood.com/2015/06/04/seven-ways-humanists-are-using-computers-to-understand-text/.](https://tedunderwood.com/2015/06/04/seven-ways-humanists-are-using-computers-to-understand-text/) <!-- 9 pp. -->
 
 ### Discussion: Paratext show and tell
