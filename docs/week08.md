@@ -26,17 +26,17 @@ With your own texts related to your final project or with the text corpora below
 - [AntConc](https://www.laurenceanthony.net/software/antconc/)
 - [Mallet](https://mimno.github.io/Mallet/)
 	- See also this [tutorial on topic modelling with Mallet](https://programminghistorian.org/en/lessons/topic-modeling-and-mallet) by Shawn Graham, Scott Weingart, and Ian Milligan.
-- Text analysis on the command line with common Unix/Linux tools from [Unix for Poets](https://iu.instructure.com/files/154473586/download?download_frd=1).
+- Text analysis on the command line with common Unix/Linux tools from [Unix for Poets](https://f001.backblazeb2.com/file/gnrlfs/tr/Unixforpoets.pdf).
 - Named Entity Recognition with [python](https://wiki.python.org/moin/BeginnersGuide/Download)
 	- Tutorial: [The Best Way to do Named Entity Recognition (NER)](https://pythonalgos.com/the-best-way-to-do-named-entity-recognition-ner/)
 	- Focus on the first two options (spaCy and NLTK) using open source tools; the final option uses the author’s API tool, which encourages a subscription.
 - Named Entity Recognition (NER) with the [Stanford Named Entity Recognizer](https://nlp.stanford.edu/software/CRF-NER.html)
 
 ### Comics-related text corpora
-- “The Spider’s Web” fan mail from _Amazing Spider-Man_, 1964-1995: [spiders_web_1963-1995_txt.zip](https://iu.instructure.com/files/149239570/download?download_frd=1)
-- Mallet topic modeling output of “The Spider’s Web” fan mail from _Amazing Spider-Man_, 1964-1995: [asm_topic_model_mallet_output.zip](https://iu.instructure.com/files/149239594/download?download_frd=1)
+- “The Spider’s Web” fan mail from _Amazing Spider-Man_, 1964-1995: [spiders_web_1963-1995_txt.zip](https://iu.instructure.com/files/169194255/download?download_frd=1)
+- Mallet topic modeling output of “The Spider’s Web” fan mail from _Amazing Spider-Man_, 1964-1995: [asm_topic_model_mallet_output.zip](https://f001.backblazeb2.com/file/gnrlfs/tr/asm_topic_model_mallet_output.zip)
 
 ### Other text corpora
-- [The Bible (Authorized, or King James, version)](https://iu.instructure.com/files/150016767/download?download_frd=1)
-- [The Poems of Algernon Charles Swinburne, 6 vols. (London: Chatto and Windus, 1904)](https://iu.instructure.com/files/150016768/download?download_frd=1)
+- [The Bible (Authorized, or King James, version)](https://f001.backblazeb2.com/file/gnrlfs/tr/kjv.zip)
+- [The Poems of Algernon Charles Swinburne, 6 vols. (London: Chatto and Windus, 1904)](https://f001.backblazeb2.com/file/gnrlfs/tr/swinburne_poems_1904_txt.zip)
 - [The Folger Shakespeare](https://shakespeare.folger.edu/downloads/txt/shakespeares-works_TXT_FolgerShakespeare.zip)
