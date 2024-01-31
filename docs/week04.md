@@ -1,4 +1,4 @@
-# Week 4: Paratexts and fan mail
+# Week 4: Comic Book Paratexts
 
 ## Summary
 This week we will explore the topic of the paratext and examine more closely paratexts in comics.
@@ -12,6 +12,7 @@ This week we will explore the topic of the paratext and examine more closely par
 -  Macksey, R. (1997). [Foreward](https://iu.instructure.com/files/169194249/download?download_frd=1) (J. E. Lewin, Trans.). In G. Genette, *Paratexts: Thresholds of interpretation* (J. E. Lewin, Trans.) (pp. xi-xxii). Cambridge: Cambridge UP. (Original work published 1987)
 - Genette, G. (1997). [Introduction](https://iu.instructure.com/files/169194241/download?download_frd=1). *Paratexts: Thresholds of interpretation* (J. E. Lewin, Trans.) (pp. 1-15). Cambridge: Cambridge UP. (Original work published 1987)
 - Barker, M. (2017). Speaking of ‘paratexts’: A theoretical revisitation. *Journal of Fandom Studies, 5*(3), 235-249. Retrieved from <https://iu.instructure.com/files/169194256/download?download_frd=1>
+- Browse [Comic Book Paratexts](https://biblicon.org/cbp/)
 
 <!-- 42 pp. -->
 ### Recommended but optional reading

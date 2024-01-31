@@ -14,14 +14,11 @@ This week we will explore the topic of comic book fan mail and learn techniques 
 
 ### Readings
 
-* [Comic book letter column.](https://en.wikipedia.org/wiki/Comic_book_letter_column). _[Wikipedia.](http://wikipedia.org/)_.
-* [Letterhack.](https://en.wikipedia.org/wiki/Letterhack). _[Wikipedia.](http://wikipedia.org/)_.
-* Misemer, L. (2020). [Reading Comics at the Threshold: A Round Table on Letter Columns & Other Comics Paratexts (Part 1).](https://themiddlespaces.com/2020/09/15/reading-comics-at-the-threshold-part-1/). [The Middle Spaces: Comics. Music. Culture.](https://themiddlespaces.com/)
-* Kashtan, A. (2020). How can a comic book’s use of paratexts help it appeal to young readers? in [Reading Comics at the Threshold: A Round Table on Letter Columns & Other Comics Paratexts (Part 3).](https://themiddlespaces.com/2020/09/29/reading-comics-at-the-threshold-part-3/). Ed. L. Misemer. [The Middle Spaces: Comics. Music. Culture..](https://themiddlespaces.com/)
-* Shoemaker, M. (2020). [Text Analytics.](https://guides.temple.edu/c.php?g=78518&p=505212). Temple University Libraries.
-* Wermer-Colan, A. (2020). [Computational Textual Analysis.](https://guides.temple.edu/corpusanalysis). Temple University Libraries.
-* Underwood, T. (2015). Seven ways humanists are using computers to understand text. Retrieved from [https://tedunderwood.com/2015/06/04/seven-ways-humanists-are-using-computers-to-understand-text/.](https://tedunderwood.com/2015/06/04/seven-ways-humanists-are-using-computers-to-understand-text/)
-* Walsh, J. A., Martin, S., & St. Germain, J. (2018). [“The Spider’s Web”: An analysis of fan mail from Amazing Spider-Man, 1963–1995](https://iu.instructure.com/files/169194295/download?download_frd=1). In J. Laubrock, J. Wildfeuer, & A. Dunst (Eds.), _Empirical comics research: Digital, multimodal, and cognitive methods_ (pp. 62-84). New York: Routledge.
+* [Comic book letter column.](https://en.wikipedia.org/wiki/Comic_book_letter_column). _[Wikipedia.](http://wikipedia.org/)_. <!-- 8 pp. -->
+* [Letterhack.](https://en.wikipedia.org/wiki/Letterhack). _[Wikipedia.](http://wikipedia.org/)_. <!-- 1 pp. -->
+* Misemer, L. (2020). [Reading Comics at the Threshold: A Round Table on Letter Columns & Other Comics Paratexts (Part 1).](https://themiddlespaces.com/2020/09/15/reading-comics-at-the-threshold-part-1/). [The Middle Spaces: Comics. Music. Culture.](https://themiddlespaces.com/) <!-- 9 pp. -->
+* Kashtan, A. (2020). How can a comic book’s use of paratexts help it appeal to young readers? in [Reading Comics at the Threshold: A Round Table on Letter Columns & Other Comics Paratexts (Part 3).](https://themiddlespaces.com/2020/09/29/reading-comics-at-the-threshold-part-3/). Ed. L. Misemer. [The Middle Spaces: Comics. Music. Culture..](https://themiddlespaces.com/) <!-- 8 pp. -->
+* Walsh, J. A., Martin, S., & St. Germain, J. (2018). [“The Spider’s Web”: An analysis of fan mail from Amazing Spider-Man, 1963–1995](https://iu.instructure.com/files/169194293/download?download_frd=1). In J. Laubrock, J. Wildfeuer, & A. Dunst (Eds.), _Empirical comics research: Digital, multimodal, and cognitive methods_ (pp. 62-84). New York: Routledge. <!-- 23 pp. -->
 * Walsh, J. A, Martin, S., & St. Germain, J. (2017) [“The Spider’s Web”: An analysis of fan mail from _Amazing Spider-Man_, 1963–1995](https://iu.instructure.com/files/169194295/download?download_frd=1). Poster presented at the Comics Arts Conference / Comic-Con International, San Diego, CA, July 22, 2017.
 
 
@@ -45,7 +42,7 @@ In one or more paragraphs:
 #### Screenshots (Windows)
 
 
-*   <https://techcommunity.microsoft.com/t5/windows-11/how-to-take-a-screenshot-in-windows-11-4-ways/m-p/2849736>.
+- <https://techcommunity.microsoft.com/t5/windows-11/how-to-take-a-screenshot-in-windows-11-4-ways/m-p/2849736>.
 - <https://support.microsoft.com/en-us/windows/use-snipping-tool-to-capture-screenshots-00246869-1843-655f-f220-97299b865f6b>
 - <https://support.microsoft.com/en-us/office/copy-the-window-or-screen-contents-98c41969-51e5-45e1-be36-fb9381b32bb7>
 
