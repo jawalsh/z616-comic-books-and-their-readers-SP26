@@ -10,19 +10,16 @@ This week we will go over some of the course basics, syllabus, and assignments. 
 - _outline_ a broad history of the comic book, as presented in Hatfield’s chapter.
 
 ### Define and identify the following terms
-#### comics components and structure
+
 - panel
 - word balloon, thought balloon
 - caption
 
-#### comics creator roles
 - writer, scripter
 - artist, penciller
 - inker
 - colorist
 - letterer
-
-#### Periodization
 
 - Platinum Age
 - Golden Age
@@ -36,10 +33,16 @@ This week we will go over some of the course basics, syllabus, and assignments. 
 - direct market
 - fanzine
 
-
 - Fredric Wertham
+- Percival Chubb
 - _Seduction of the Innocent_ (1954)
 - Comics Code and Comics Code Authority
+- the “Dell Pledge”
+- the _kawaii_ aesthetic
+- Graphix
+- TOON Books
+- _Classics Illustrated_
+- funny animal comics
  
 ## Before class: Readings, resources, and tasks <!-- 57 pp. -->
 
