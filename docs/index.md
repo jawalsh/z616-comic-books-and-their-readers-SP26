@@ -17,12 +17,12 @@ _Charles “Teenie” Harris. [Girl reading “Mickey Mouse and the Submarine Pi
 - [Week 2](week02.md) _(2024-02-07)_: Fan studies
 - [Week 3](week03.md) _(2024-02-14)_: Comics culture
 - [Week 4](week04.md) _(2024-02-21)_: Paratexts and fan mail
-- [Week 5](week05.md) _(2024-02-28)_: Building a corpus
-- [Week 6](week06.md) _(2024-03-06)_: Text analysis
+- [Week 5](week05.md) _(2024-02-28)_: Comics in special collections and archives
+- [Week 6](week06.md) _(2024-03-06)_: Building a corpus
 - Spring Break _(2024-03-13)_: No Class.
-- [Week 7](week07.md) _(2024-03-20)_: Text analysis lab
-- [Week 8](week08.md) _(2024-03-27)_: Data sets and visualization
-- [Week 9](week09.md) _(2024-04-03)_: Data visualization lab
-- [Week 10](week10.md) _(2024-04-10)_: Comics in special collections and archives
+- [Week 7](week07.md) _(2024-03-20)_: Text analysis
+- [Week 8](week08.md) _(2024-03-27)_: Text analysis lab
+- [Week 9](week09.md) _(2024-04-03)_: Data sets and visualization
+- [Week 10](week10.md) _(2024-04-10)_: Data visualization lab
 - [Week 11](week11.md) _(2024-04-17)_: Fanzines and maker culture
 - [Week 12](week12.md) _(2024-04-24)_: Fandom on social media

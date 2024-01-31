@@ -9,7 +9,7 @@ You should be prepared to pose [discussion-worthy questions](https://www.eduflow
 ## To turn in
 - A preliminary draft of the discussion questions should be emailed to the AI (Alex) by Sunday at 11:59pm of the week you co-lead.
     - You are encouraged to set up a meeting with Alex via Zoom either before or after you submit your preliminary draft to discuss your questions.
-- A summary handout (no more than 1 double-sided page or 2 single-sided pages) of the readings/videos for that week to be turned in to Canvas on Tuesday at 11:59pm. You must also bring 20 paper copies to class on Wednesday (enough for both instructors and all students). The summary handout should contain:
+- A summary handout (between 1 and 2 double-sided pages) of the readings/videos for that week to be turned in to Canvas on Tuesday at 11:59pm. You must also bring 20 paper copies to class on Wednesday (enough for both instructors and all students). The summary handout should contain:
     - You and your partner's names and the week number
     - A bibliographic citation (any style) for each reading followed by approximately 3-5 bullet points summarizing the main points of the reading
     - Your discussion questions (aim for 4-6)

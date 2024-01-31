@@ -1,30 +1,92 @@
-# Week 6: text analysis
+# Week 6: Fan mail and corpus-building
 
 ## Summary
-This week we will learn about imaging and OCR tools for converting images of comics, fanzines, and similar documents to searchable text, and we will learn about and use a few text analysis tools to analyze textual data about comics and comics readers.
+This week we will explore the topic of comic book fan mail and learn techniques for building a corpus of fan mail for research investigations.  
 
 ## Weekly Learning Objectives
-- *Use* image-capture and OCR tools to *convert* images of comic book letters of comment pages into searchable text.
-- *Use* Voyant to *analyze* a corpus of letters of comment.
-- *Use* AntConc to *analyze* a corpus of letters of comment
-- *Use* Mallet to *generate* topic models from a corpus of letters of comment.
+- *define* key terms, such as *letter of comment*, *letterhack*, and *text analysis*.
+- *discuss* scholarship on comic books fan mail and other paratexts.
+- *express* basic concepts and goals of computational text analysis.
+- *analyze* a small set of fan mails examples from different decades.
+- *use* software tools to convert images of comic book fan mail into searchable digital text. 
 
 ## Before class: Readings, resources, and tasks
 
 ### Readings
 
- *   [Webinar on text analysis with Voyant Tools by their developer Professor Geoffrey Rockwell](https://youtu.be/ToEu8e7pKi4)  
-     <iframe width="560" height="315" src="https://www.youtube.com/embed/ToEu8e7pKi4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-*   Anthony, L. (2022). [AncConc 4 Tutorials](https://youtube.com/playlist?list=PLiRIDpYmiC0R3Vv5NncOuIqaUcyLLW7Ae). _Watch **all** the tutorials_; in total they run about 90 minutes.
-*   Froehlich, H. (2015, 2022). [Corpus Analysis with Antconc](https://programminghistorian.org/en/lessons/corpus-analysis-with-antconc). *[Programming Historian](https://programminghistorian.org/)*.
-*   Underwood, T. (2012). Topic modeling made just simple enough. Retrieved from <http://tedunderwood.com/2012/04/07/topic-modeling-made-just-simple-enough/>
-*   Goldstone, G., & Underwood, T. (2012). What can topic models of PMLA teach us about the history of literary scholarship? Retrieved from <https://tedunderwood.com/2012/12/14/what-can-topic-models-of-pmla-teach-us-about-the-history-of-literary-scholarship/>
-*   Graham, S., Weingart, S., & Milligan, I. (2012). Getting Started with Topic Modeling and MALLET. Retrieved from <http://programminghistorian.org/lessons/topic-modeling-and-mallet>
+* [Comic book letter column.](https://en.wikipedia.org/wiki/Comic_book_letter_column). _[Wikipedia.](http://wikipedia.org/)_.
+* [Letterhack.](https://en.wikipedia.org/wiki/Letterhack). _[Wikipedia.](http://wikipedia.org/)_.
+* Misemer, L. (2020). [Reading Comics at the Threshold: A Round Table on Letter Columns & Other Comics Paratexts (Part 1).](https://themiddlespaces.com/2020/09/15/reading-comics-at-the-threshold-part-1/). [The Middle Spaces: Comics. Music. Culture.](https://themiddlespaces.com/)
+* Kashtan, A. (2020). How can a comic book’s use of paratexts help it appeal to young readers? in [Reading Comics at the Threshold: A Round Table on Letter Columns & Other Comics Paratexts (Part 3).](https://themiddlespaces.com/2020/09/29/reading-comics-at-the-threshold-part-3/). Ed. L. Misemer. [The Middle Spaces: Comics. Music. Culture..](https://themiddlespaces.com/)
+* Shoemaker, M. (2020). [Text Analytics.](https://guides.temple.edu/c.php?g=78518&p=505212). Temple University Libraries.
+* Wermer-Colan, A. (2020). [Computational Textual Analysis.](https://guides.temple.edu/corpusanalysis). Temple University Libraries.
+* Underwood, T. (2015). Seven ways humanists are using computers to understand text. Retrieved from [https://tedunderwood.com/2015/06/04/seven-ways-humanists-are-using-computers-to-understand-text/.](https://tedunderwood.com/2015/06/04/seven-ways-humanists-are-using-computers-to-understand-text/)
+* Walsh, J. A., Martin, S., & St. Germain, J. (2018). [“The Spider’s Web”: An analysis of fan mail from Amazing Spider-Man, 1963–1995](https://iu.instructure.com/files/169194295/download?download_frd=1). In J. Laubrock, J. Wildfeuer, & A. Dunst (Eds.), _Empirical comics research: Digital, multimodal, and cognitive methods_ (pp. 62-84). New York: Routledge.
+* Walsh, J. A, Martin, S., & St. Germain, J. (2017) [“The Spider’s Web”: An analysis of fan mail from _Amazing Spider-Man_, 1963–1995](https://iu.instructure.com/files/169194295/download?download_frd=1). Poster presented at the Comics Arts Conference / Comic-Con International, San Diego, CA, July 22, 2017.
 
-### Discussion
-- [Letters of Comment: Then and Now](https://iu.instructure.com/courses/2120676/discussion_topics/12496900)
+
+### Discussion: Paratext show and tell
+
+Browse through the comics in our "z672 Comics" folder on OneDrive or any other comics or related documents, and find an interesting paratext. In the discussion, describe your paratext. Your example may be a peritext (in the comic book) or an epitext (located outside the comic book).
+
+In one or more paragraphs:
+- Explain what the paratext is, its function, and its location. 
+- Discuss how the paratext relates (or does not relate) to the comics content. 
+- Include an image or screen capture of the paratext.
+- Respond with substantive comments or questions to at least one peers.
+- Submit your work in the Canvas [discussion](https://iu.instructure.com/courses/2204459/discussion_topics/13437195)
+
+### IT Skills
+
+#### Converting a scan to searchable text with Adobe Acrobat
+- <https://www.linkedin.com/learning-login/share?redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Facrobat-dc-essential-training-2021%2Fconvert-a-scan-to-searchable-text%3Ftrk%3Dshare_video_url%26shareId%3DIJ7LVWeQTJiTyaNE1zczEQ%253D%253D>
+
+
+#### Screenshots (Windows)
+
+
+*   <https://techcommunity.microsoft.com/t5/windows-11/how-to-take-a-screenshot-in-windows-11-4-ways/m-p/2849736>.
+- <https://support.microsoft.com/en-us/windows/use-snipping-tool-to-capture-screenshots-00246869-1843-655f-f220-97299b865f6b>
+- <https://support.microsoft.com/en-us/office/copy-the-window-or-screen-contents-98c41969-51e5-45e1-be36-fb9381b32bb7>
+
+#### Screenshots (Mac)
+
+*   <https://support.apple.com/en-us/HT201361>.
+
+#### Screenshots (iPadOS/iOS)
+
+*   iPadOS: <https://support.apple.com/en-us/HT210781>.
+*   iOS: <https://support.apple.com/en-us/HT200289>.
+
+#### Public Domain Comics / Downloadable Comics
+
+*   [Digital Comic Museum.](http://digitalcomicmuseum.com/)(DCM)
+*   [Comic Book +.](https://comicbookplus.com/)
+*   [Internet Archive](http://archive.org/)
+
 
 ## In class
 
-- Lecture and demo: In the first half of the class I will demo text analysis tools that you read about this week: Voyant, AntConc, and Mallet.
-- Lab work: In the second half of class use any or all of these tools to explore your own text corpus, the texts in our [data](https://iu.instructure.com/courses/2120676/files#) folder in Canvas, or other texts you may find online. 
+- Lecture and tech demo
+- Creating screen shots
+- Performing OCR with Acrobate, FineReader, and Tesseract
+
+### Exploring fanmail activity
+
+We will spend time in class individually looking for interesting examples of fan mail. Try to find two or three distinct examples. 
+
+Keep notes on:
+
+- Source of the fan mail: title, issue, date;
+- topics discussed, e.g., story, plot, dialogue, art, characters, creators, process, current events, mistakes, criticisms, etc.;
+- details the writers reveal about themselves, e.g., gender, occupation, etc.
+
+After working individual, we will get together in small groups to share our findings, and then groups will report back to the full class.
+
+#### Sources for finding fan mail
+- comics in our shared OneDrive folder
+* [Digital Comic Museum](http://digitalcomicmuseum.com/) (DCM)
+* [Comic Book +](https://comicbookplus.com)
+* [Internet Archive](http://archive.org)
+
+

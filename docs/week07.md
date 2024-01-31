@@ -1,42 +1,30 @@
-# Week 7: Text analysis lab
+# Week 7: text analysis
 
 ## Summary
-Today we will spend the class period using and experimenting with text analysis tools we learned about before the break.
-
-Explore a text corpus using the text analysis tools we have learned about in class (Voyant, AntConc, Mallet), or other tools you may have found on your own. You may use your own text corpus that you may be assembling for your final project, the _Amazing Spider-Man_ fanmail (“The Spider’s Web”) corpus, or another set of texts available on the Web. You may work alone or in small groups of two or three. 
-
-Another possible activity is to view your Mallet topic model results in Excel or another spreadsheet program and experiment with creating charts or visualizations of the data. If you are having difficulty installing or running Mallet on your computer, you may use these pre-generated topic models.
+This week we will learn about imaging and OCR tools for converting images of comics, fanzines, and similar documents to searchable text, and we will learn about and use a few text analysis tools to analyze textual data about comics and comics readers.
 
 ## Weekly Learning Objectives
+- *Use* image-capture and OCR tools to *convert* images of comic book letters of comment pages into searchable text.
+- *Use* Voyant to *analyze* a corpus of letters of comment.
+- *Use* AntConc to *analyze* a corpus of letters of comment
+- *Use* Mallet to *generate* topic models from a corpus of letters of comment.
 
-- *explore* one or more text corpora using a one or more text anlaysis tools
-- *acquire* hands on experience with one or more text analysis tools
- 
 ## Before class: Readings, resources, and tasks
-- review tools, readings, and tutorials from [last week](week06.md).
-- prepare, for use in class, a text corpus relevant to your final project or another corpus of interest. 
- 
+
+### Readings
+
+ *   [Webinar on text analysis with Voyant Tools by their developer Professor Geoffrey Rockwell](https://youtu.be/ToEu8e7pKi4)  
+     <iframe width="560" height="315" src="https://www.youtube.com/embed/ToEu8e7pKi4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+*   Anthony, L. (2022). [AncConc 4 Tutorials](https://youtube.com/playlist?list=PLiRIDpYmiC0R3Vv5NncOuIqaUcyLLW7Ae). _Watch **all** the tutorials_; in total they run about 90 minutes.
+*   Froehlich, H. (2015, 2022). [Corpus Analysis with Antconc](https://programminghistorian.org/en/lessons/corpus-analysis-with-antconc). *[Programming Historian](https://programminghistorian.org/)*.
+*   Underwood, T. (2012). Topic modeling made just simple enough. Retrieved from <http://tedunderwood.com/2012/04/07/topic-modeling-made-just-simple-enough/>
+*   Goldstone, G., & Underwood, T. (2012). What can topic models of PMLA teach us about the history of literary scholarship? Retrieved from <https://tedunderwood.com/2012/12/14/what-can-topic-models-of-pmla-teach-us-about-the-history-of-literary-scholarship/>
+*   Graham, S., Weingart, S., & Milligan, I. (2012). Getting Started with Topic Modeling and MALLET. Retrieved from <http://programminghistorian.org/lessons/topic-modeling-and-mallet>
+
+### Discussion
+- [Letters of Comment: Then and Now](https://iu.instructure.com/courses/2120676/discussion_topics/12496900)
+
 ## In class
 
-With your own texts related to your final project or with the text corpora below, spend the class period exploring the texts with any or all of the tools listed below and sharing your findings with me and your fellow students.
-
-### Text Analysis Tools
-
-- [Voyant Tools](https://voyant-tools.org)
-- [AntConc](https://www.laurenceanthony.net/software/antconc/)
-- [Mallet](https://mimno.github.io/Mallet/)
-	- See also this [tutorial on topic modelling with Mallet](https://programminghistorian.org/en/lessons/topic-modeling-and-mallet) by Shawn Graham, Scott Weingart, and Ian Milligan.
-- Text analysis on the command line with common Unix/Linux tools from [Unix for Poets](https://iu.instructure.com/files/154473586/download?download_frd=1).
-- Named Entity Recognition with [python](https://wiki.python.org/moin/BeginnersGuide/Download)
-	- Tutorial: [The Best Way to do Named Entity Recognition (NER)](https://pythonalgos.com/the-best-way-to-do-named-entity-recognition-ner/)
-	- Focus on the first two options (spaCy and NLTK) using open source tools; the final option uses the author’s API tool, which encourages a subscription.
-- Named Entity Recognition (NER) with the [Stanford Named Entity Recognizer](https://nlp.stanford.edu/software/CRF-NER.html)
-
-### Comics-related text corpora
-- “The Spider’s Web” fan mail from _Amazing Spider-Man_, 1964-1995: [spiders_web_1963-1995_txt.zip](https://iu.instructure.com/files/149239570/download?download_frd=1)
-- Mallet topic modeling output of “The Spider’s Web” fan mail from _Amazing Spider-Man_, 1964-1995: [asm_topic_model_mallet_output.zip](https://iu.instructure.com/files/149239594/download?download_frd=1)
-
-### Other text corpora
-- [The Bible (Authorized, or King James, version)](https://iu.instructure.com/files/150016767/download?download_frd=1)
-- [The Poems of Algernon Charles Swinburne, 6 vols. (London: Chatto and Windus, 1904)](https://iu.instructure.com/files/150016768/download?download_frd=1)
-- [The Folger Shakespeare](https://shakespeare.folger.edu/downloads/txt/shakespeares-works_TXT_FolgerShakespeare.zip)
+- Lecture and demo: In the first half of the class I will demo text analysis tools that you read about this week: Voyant, AntConc, and Mallet.
+- Lab work: In the second half of class use any or all of these tools to explore your own text corpus, the texts in our [data](https://iu.instructure.com/courses/2120676/files#) folder in Canvas, or other texts you may find online. 
