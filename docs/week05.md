@@ -11,10 +11,7 @@ This week we will explore comics in special collections and archives and how suc
 - _find_ specific items in major comics-related collections
  
 ## Before class: Readings, resources, and tasks
-  - Miller, R. (2018). From the Archives: The Queer Zine Archive Project. Inks, 2(3), 369–389. <https://doi.org/10.1353/ink.2018.0025>
-  - Pflug, W. (2021). From the Archives: Vernon E. Grant Collection. Inks, 5(2), 209–224. <https://doi.org/10.1353/ink.2021.0011>
+  - Miller, R. (2018). From the Archives: The Queer Zine Archive Project. _Inks, 2_(3), 369–389. <https://doi.org/10.1353/ink.2018.0025>
+  - Pflug, W. (2021). From the Archives: Vernon E. Grant Collection. _Inks, 5_(2), 209–224. <https://doi.org/10.1353/ink.2021.0011>
 
-
-
-]
 ## In class
