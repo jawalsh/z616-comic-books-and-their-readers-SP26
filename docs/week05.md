@@ -1,5 +1,7 @@
 # Week 5: Comics in special collections and archives
 
+**Important!: Class will meet at the [Lilly Library](https://maps.apple.com/?address=1200%20E%20Seventh%20St,%20Bloomington,%20IN%20%2047405,%20United%20States&auid=1366294706055500952&ll=39.167851,-86.519029&lsp=9902&q=Lilly%20Library) this week!**
+
 ## Summary
 This week we will explore comics in special collections and archives and how such collections can facilitate research into comic book readership and fandom. Our class time this week will be spent at Indiana University’s Lilly Library exploring their comics-related holdings.
 

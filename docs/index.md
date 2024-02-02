@@ -17,7 +17,8 @@ _Charles “Teenie” Harris. [Girl reading “Mickey Mouse and the Submarine Pi
 - [Week 2](week02.md) _(2024-02-07)_: Fan studies
 - [Week 3](week03.md) _(2024-02-14)_: Comics culture
 - [Week 4](week04.md) _(2024-02-21)_: Paratexts and fan mail
-- [Week 5](week05.md) _(2024-02-28)_: Comics in special collections and archives
+- [Week 5](week05.md) _(2024-02-28)_: Comics in special collections and archives   
+**(Class will meet at the [Lilly Library](https://maps.apple.com/?address=1200%20E%20Seventh%20St,%20Bloomington,%20IN%20%2047405,%20United%20States&auid=1366294706055500952&ll=39.167851,-86.519029&lsp=9902&q=Lilly%20Library))**
 - [Week 6](week06.md) _(2024-03-06)_: Building a corpus
 - Spring Break _(2024-03-13)_: No Class.
 - [Week 7](week07.md) _(2024-03-20)_: Text analysis
