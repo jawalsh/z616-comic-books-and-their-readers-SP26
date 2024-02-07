@@ -13,6 +13,8 @@ This week we will explore the topic of fandom studies as an academic discipline 
 ### Define and identify the following terms
 - acafan
 - participatory culture
+- [Fandom Forward](https://fandomforward.org) (formerly, the Harry Potter Alliance)
+- Trekkie
 
 ## Before class: Readings, resources, and tasks
 - Jenkins, H. (2012). [Introduction](https://iu.instructure.com/files/169194267/download?download_frd=1). *Textual Poachers* (2nd ed.) (pp. 1-8). New York, NY: Routledge.
