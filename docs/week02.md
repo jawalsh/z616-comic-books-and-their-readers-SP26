@@ -22,7 +22,7 @@ This week we will explore the topic of fandom studies as an academic discipline 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/1gPm-c1wRsQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="max-width:80%; margin:auto;"></iframe>
  
 ## In class
-- review class comic archive and [online collections](z604-z672-comic-books-and-their-readers-SP24/comics-studies-resources.html#digital-comics-collections)
+- review class comic archive and [online collections](comics-studies-resources.html#digital-comics-collections)
 - Interview another student about their fandom, and report back to the class. Start with 
 “What type of fandom do you want to tell me about (comics, film, manga, music, pokemon, etc.)?” and adapt the questions below as necessary.   
 Questions from Duncan, R., Smith, M. J., &amp; Levitz, P. (2015). [The Comic Book Readers](https://iu.instructure.com/files/169194280/download?download_frd=1). _The Power of Comics_ (2nd ed.) (pp. 297-326). London: Bloomsbury.
