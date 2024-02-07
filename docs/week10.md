@@ -1,3 +1,5 @@
+{% include_relative header.md %}
+
 # Week 10: Data visualization lab
 
 ## Summary

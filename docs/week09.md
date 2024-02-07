@@ -1,3 +1,5 @@
+{% include_relative header.md %}
+
 # Week 9: Data sets and information visualization
 
 ## Summary

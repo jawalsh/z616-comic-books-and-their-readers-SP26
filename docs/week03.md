@@ -1,3 +1,5 @@
+{% include_relative header.md %}
+
 # Week 3: Comics culture, ethnography, authoethnography
 
 ## Summary

@@ -1,3 +1,5 @@
+{% include_relative header.md %}
+
 # Week 1: Introductions
 
 ## Summary

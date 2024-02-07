@@ -1,3 +1,5 @@
+{% include_relative header.md %}
+
 # Week 7: text analysis
 
 ## Summary

@@ -1,3 +1,5 @@
+{% include_relative header.md %}
+
 # Week [x]: [topic]
 
 ## Summary

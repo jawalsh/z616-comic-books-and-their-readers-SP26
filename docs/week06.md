@@ -1,3 +1,5 @@
+{% include_relative header.md %}
+
 # Week 6: Fan mail and corpus-building
 
 ## Summary

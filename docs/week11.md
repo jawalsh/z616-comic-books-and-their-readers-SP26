@@ -1,3 +1,5 @@
+{% include_relative header.md %}
+
 # Week 11: Fanzines and maker culture
 
 ## Summary

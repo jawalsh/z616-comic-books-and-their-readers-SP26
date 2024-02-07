@@ -1,3 +1,5 @@
+{% include_relative header.md %}
+
 # Week 8: Text analysis lab
 
 ## Summary
