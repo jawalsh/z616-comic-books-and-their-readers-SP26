@@ -31,5 +31,5 @@ Submit your assignment materials as a PDF or Word document in Canvas.
 
 Examples from prior semesters:
 
-- [tales\_from\_the\_crypt\_sampleA.pdf](https://iu.instructure.com/courses/2035442/files/135787530?wrap=1)
-- [tales\_from\_the\_crypt\_sampleB.pdf](https://iu.instructure.com/courses/2035442/files/135787529?wrap=1)
+- [tales\_from\_the\_crypt\_sampleA.pdf](https://iu.instructure.com/files/169194294/download?download_frd=1)
+- [tales\_from\_the\_crypt\_sampleB.pdf](https://iu.instructure.com/files/169194291/download?download_frd=1)
