@@ -23,6 +23,7 @@ This week we will explore the topic of the paratext and examine more closely par
 
 ## In class
 
+- Discussion
 - Paratext lecture and comics examples
 
 ### Exploring paratexts activity
@@ -44,4 +45,6 @@ After working individual, we will get together in small groups to share our find
 * [Digital Comic Museum](http://digitalcomicmuseum.com/) (DCM)
 * [Comic Book +](https://comicbookplus.com)
 * [Internet Archive](http://archive.org)
+
+- Next week
 

@@ -19,3 +19,7 @@ This week we will explore comics in special collections and archives and how suc
   - Pflug, W. (2021). From the Archives: Vernon E. Grant Collection. _Inks, 5_(2), 209–224. <https://doi.org/10.1353/ink.2021.0011>
 
 ## In class
+
+- Lilly Library Program
+- Discussion
+- Next week
