@@ -23,6 +23,7 @@ This week we will explore the topic of the paratext and examine more closely par
 
 ## In class
 
+- Upcoming assignment: [Tales from the Crypt](assignment-tales-from-the-crypt.md)
 - Discussion
 - Paratext lecture and comics examples
 
