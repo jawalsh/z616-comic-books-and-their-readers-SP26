@@ -25,7 +25,7 @@ This week we will explore the topic of the paratext and examine more closely par
 
 - Upcoming assignment: [Tales from the Crypt](assignment-tales-from-the-crypt.md)
 - Discussion
-- Paratext lecture and comics examples
+- [Paratext lecture and comics examples](https://f001.backblazeb2.com/file/gnrlfs/tr/walsh_comic_book_paratexts.pdf)
 - **Exploring paratexts activity**  
 
 	We will spend time in class individually looking for interesting examples of comic book paratexts. Try to find two or three distinct examples. 
