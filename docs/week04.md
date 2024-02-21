@@ -26,26 +26,24 @@ This week we will explore the topic of the paratext and examine more closely par
 - Upcoming assignment: [Tales from the Crypt](assignment-tales-from-the-crypt.md)
 - Discussion
 - Paratext lecture and comics examples
+- **Exploring paratexts activity**  
 
-### Exploring paratexts activity
+	We will spend time in class individually looking for interesting examples of comic book paratexts. Try to find two or three distinct examples. 
 
-We will spend time in class individually looking for interesting examples of comic book paratexts. Try to find two or three distinct examples. 
+	Consider the paratexts as evidence of:
 
-Consider the paratexts as evidence of:
+	- the commercial and cultural context of the comic books (e.g., advertisements);
+	- the creation and production of comic books (e.g., editorial and promotional materials);
+	
+	Keep notes about your paratext regarding where it came from (title, issue, date) and why it is significant.
 
-- the commercial and cultural context of the comic books (e.g., advertisements);
-- the creation and production of comic books (e.g., editorial and promotional materials);
-- reader engagement with comic books (e.g., fan club advertisements, fan mail).
+	After working individually, we will get together in small groups to share our findings, and then groups will report back to the full class.
 
-Keep notes about your paratext regarding where it came from (title, issue, date) and why it is significant.
-
-After working individual, we will get together in small groups to share our findings, and then groups will report back to the full class.
-
-#### Sources for finding paratexts
-- comics in our shared OneDrive folder
-* [Digital Comic Museum](http://digitalcomicmuseum.com/) (DCM)
-* [Comic Book +](https://comicbookplus.com)
-* [Internet Archive](http://archive.org)
+	Sources for finding paratexts: 
+	- comics in our shared OneDrive folder
+	* [Digital Comic Museum](http://digitalcomicmuseum.com/) (DCM)
+	* [Comic Book +](https://comicbookplus.com)
+	* [Internet Archive](http://archive.org)
 
 - Next week
 
