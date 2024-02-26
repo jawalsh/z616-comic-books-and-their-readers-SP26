@@ -28,17 +28,6 @@ This week we will explore the topic of comic book fan mail and learn techniques 
 * Walsh, J. A, Martin, S., & St. Germain, J. (2017) [“The Spider’s Web”: An analysis of fan mail from _Amazing Spider-Man_, 1963–1995](https://f001.backblazeb2.com/file/gnrlfs/tr/walsh2017.pdf). Poster presented at the Comics Arts Conference / Comic-Con International, San Diego, CA, July 22, 2017.
 * Underwood, T. (2015). Seven ways humanists are using computers to understand text. Retrieved from [https://tedunderwood.com/2015/06/04/seven-ways-humanists-are-using-computers-to-understand-text/.](https://tedunderwood.com/2015/06/04/seven-ways-humanists-are-using-computers-to-understand-text/) <!-- 9 pp. -->
 
-### Discussion: Paratext show and tell
-
-Browse through the comics in our "z672 Comics" folder on OneDrive or any other comics or related documents, and find an interesting paratext. In the discussion, describe your paratext. Your example may be a peritext (in the comic book) or an epitext (located outside the comic book).
-
-In one or more paragraphs:
-- Explain what the paratext is, its function, and its location. 
-- Discuss how the paratext relates (or does not relate) to the comics content. 
-- Include an image or screen capture of the paratext.
-- Respond with substantive comments or questions to at least one peers.
-- Submit your work in the Canvas [discussion](https://iu.instructure.com/courses/2204459/discussion_topics/13437195)
-
 ### IT Skills
 
 #### Converting a scan to searchable text with Adobe Acrobat
