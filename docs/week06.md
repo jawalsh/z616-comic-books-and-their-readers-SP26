@@ -1,5 +1,9 @@
 {% include_relative header.md %}
 
+[acrobat]: https://iuware.iu.edu "Adobe Acrobat on IUWare"
+[finereader]: https://pdf.abbyy.com "ABBYY FineReader"
+[tesseract]: https://tesseract-ocr.github.io/tessdoc/Installation.html "Tesseract docs"
+
 # Week 6: Fan mail and corpus-building
 
 ## Summary
@@ -31,7 +35,7 @@ This week we will explore the topic of comic book fan mail and learn techniques 
 ### IT Skills
 
 #### Converting a scan to searchable text with Adobe Acrobat
-- <https://www.linkedin.com/learning-login/share?redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Facrobat-dc-essential-training-2021%2Fconvert-a-scan-to-searchable-text%3Ftrk%3Dshare_video_url%26shareId%3DIJ7LVWeQTJiTyaNE1zczEQ%253D%253D>
+- [LinkedIn Learning: “Acrobat DC Essential Training: Convert a scan to searchable text](https://www.linkedin.com/learning/acrobat-dc-essential-training-2021/convert-a-scan-to-searchable-text)
 
 
 #### Screenshots (Windows)
@@ -56,12 +60,20 @@ This week we will explore the topic of comic book fan mail and learn techniques 
 *   [Comic Book +.](https://comicbookplus.com/)
 *   [Internet Archive](http://archive.org/)
 
+#### Tools used for today’s activities
+* [Adobe Acrobat][acrobat] (Part of Adobe Creative Cloud, available at <https://iuware.iu.edu>.)
+* [ABBYY FineReader][finereader]
+* [Tesseract][tesseract]
+* [qpdf](https://qpdf.sourceforge.io)
+
 
 ## In class
 
 - Lecture and tech demo
 - Creating screen shots
-- Performing OCR with Acrobate, FineReader, and Tesseract
+- Performing OCR with [Adobe Acrobat][acrobat], [ABBYY FineReader][finereader], and [Tesseract][tesseract]
+- Exploring fanmail activity
+- Discussion
 
 ### Exploring fanmail activity
 
