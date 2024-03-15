@@ -18,6 +18,7 @@ _Gif by [Callen](https://kerrycallen.blogspot.com/2012/10/animated-kirby-machine
 - [Conferences](#conferences)
 - [Bibliographies](#bibliographies)
 - [Digital Comics Collections](#digital-comics-collections)
+- [Digital Comics Readers](#digital-comics-readers)
 - [Archive and Library Supplies](#archive-and-library-supplies)
 - [Creators](#creators)
 - [Library Research Guides And Readers Advisories](#library-research-guides-and-readers-advisories)
@@ -108,6 +109,10 @@ _Gif by [Callen](https://kerrycallen.blogspot.com/2012/10/animated-kirby-machine
 * [Digital Comic Museum](http://digitalcomicmuseum.com/) (DCM)
 * [Comic Book +](https://comicbookplus.com)
 * [Internet Archive](http://archive.org)
+
+## Digital Comics Readers
+* [Simple Comic](https://github.com/MaddTheSane/Simple-Comic/) (GitHub site)
+* [OpenComic](https://github.com/ollm/OpenComic)
 
 ## Archive and Library Supplies
 * [E. Gerber][52]
