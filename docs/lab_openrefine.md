@@ -9,4 +9,5 @@ In this lab, you will work on cleaning data in some portions of one of the [raw 
 	2. You can choose to focus on a single column or work on several.
 ## To turn in
 - A document stating which CSV file you were working with and the steps you took
+  
 Turn in to the "Week 9 Lab" assignment alongside the files for the other lab you chose.
