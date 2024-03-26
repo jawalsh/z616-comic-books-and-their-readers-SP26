@@ -14,4 +14,5 @@ In this lab, you will code a corpus of 5 comics-related documents (comic books, 
 ## To turn in
 - A CSV or Excel file of a matrix query of your corpus with the files in rows and the codes in columns
 - A text file with 2-4 sentences describing your corpus, what you chose to code, and why
+  
 These two files should be turned in to the "Week 9 Lab" assignment alongside the files for the other lab you chose.
