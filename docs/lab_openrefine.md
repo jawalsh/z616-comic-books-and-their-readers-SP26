@@ -1,3 +1,4 @@
+{% include_relative header.md %}
 # OpenRefine Lab
 ## Instructions
 In this lab, you will work on cleaning data in some portions of one of the [raw Comics as data CSV files](https://github.com/ktopham/comics-as-data/tree/master/MARC_data_raw)
