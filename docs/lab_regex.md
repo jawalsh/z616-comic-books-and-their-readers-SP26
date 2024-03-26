@@ -18,4 +18,5 @@ In this lab, you'll practice creating regular expressions (regex). In a Word doc
 8. Write a regex which matches all the days of the week in English beginning with T, assuming a list of days on separate lines.
 ## To turn in
 - A document containing your answers (You can keep the questions in or not)
+  
 Turn in to the "Week 9 Lab" assignment alongside the files for the other lab you chose.
