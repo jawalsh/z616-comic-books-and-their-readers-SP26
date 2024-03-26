@@ -17,4 +17,5 @@ You will use Tableau to create 1 visualization based on [data from the Cooper Co
 ## To turn in
 - A Word document containing the visualization and an explanation of the visualization
 - There are 5 possible bonus points if you turn in a second visualization and explanation (need both components!).
+  
 Turn in to the Week 10 Lab assignment on Canvas, either as part of the same document or a different document from the visualizations you generated in Excel.
