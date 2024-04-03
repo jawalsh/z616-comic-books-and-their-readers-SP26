@@ -1,6 +1,6 @@
 # NVivo Walkthrough
 1. Download your corpus to your computer
-2. Create new project in NVivo
+2. Create new project in NVivo; fill out information for project
 3. Import > Files
 4. Double click on file to open it
 5. Creating codes
