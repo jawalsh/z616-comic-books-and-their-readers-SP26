@@ -33,6 +33,7 @@ This week we will explore the topic of data, data sets (especially those related
 ## In class
 - Discussion
 - Presentation of NVivo, regular expressions (regex), and OpenRefine
+    - [Regex walk through](tutorial_regex.md)
 - Choice of 2 of 3 labs; labs due to Canvas Week 9 Lab assignment
     - [NVivo Lab](lab_nvivo.md)
     - [Regex Lab](lab_regex.md)
