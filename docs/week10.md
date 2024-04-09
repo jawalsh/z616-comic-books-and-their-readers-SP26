@@ -35,7 +35,9 @@ This week we will gain hands-on experience with some data visualization tools an
 ## In class
 - Discussion
 - Presentation of data manipulation, pivot tables, and visualization in Excel
+  - [Excel walkthrough](tutorial_excel.md)
 - Presentation of visualization in Tableau
+  - [Tableau walkthrough](tutorial_tableau.md)
 - Completion of labs; labs due to Canvas Week 10 Lab assignment
   - [Excel lab](lab_excel.md)
   - [Tableau lab](lab_tableau.md)
