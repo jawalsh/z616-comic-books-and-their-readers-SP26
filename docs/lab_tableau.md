@@ -14,6 +14,7 @@ You will use Tableau to create 1 visualization based on [data from the Cooper Co
 	- Export your visualization as an image from Tableau
 5. Contextualize your visualization
 	- In a Word document, insert the image of your visualization and write 2-4 sentences explaining what this visualization tell us.
+
 ## To turn in
 - A Word document containing the visualization and an explanation of the visualization
 - There are 5 possible bonus points if you turn in a second visualization and explanation (need both components!).
