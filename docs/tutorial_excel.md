@@ -45,7 +45,7 @@ But how many comic books have 36 pages compared to those with a 100 pages? We co
 21. This adds content into the first row of the sheet. Click the dropdown next to "All." Click "Funny Animal." Now only the data for Funny Animal comics is shown.  
 ![filter](./images/excel_pivot10.png)
 ![filter](./images/excel_pivot11.png)
-23. You can also filter the rows and columns values without adding them as an additional filter. Use the dropdowns next to "Row Labels" and "Column Labels."
+23. You can also filter the rows and columns values without adding them as an additional filter. Use the dropdowns next to "Row Labels" and "Column Labels."  
 ![filter](./images/excel_pivot12.png)
 ## Visualizations
 Using the data aggregated from the PivotTable, we can start do some visualizations of our data. 
@@ -53,7 +53,7 @@ Using the data aggregated from the PivotTable, we can start do some visualizatio
 ![filter](./images/excel_viz1.png)  
 3. Select the values in the table, and copy and paste them into a new sheet.  
 ![filter](./images/excel_viz2.png)  
-5. Add column headings and "unknown" for the row where there's no value for the page count. 
+5. Add column headings and "unknown" for the row where there's no value for the page count.  
 ![filter](./images/excel_viz3.png)  
 7. This is the data we're going to visualize. What types of charts make sense?
     - Pie charts are bad for comparison. Humans aren't good at judging ratios of angles.
