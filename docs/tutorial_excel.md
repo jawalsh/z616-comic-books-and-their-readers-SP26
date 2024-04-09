@@ -30,3 +30,19 @@ But how many comic books have 36 pages compared to those with a 100 pages? We co
 13. This adds content into the first row of the sheet. Click the dropdown next to "All." Click "Funny Animal." Now only the data for Funny Animal comics is shown.
 14. You can also filter the rows and columns values without adding them as an additional filter. Use the dropdowns next to "Row Labels" and "Column Labels."
 ## Visualizations
+Using the data aggregated from the PivotTable, we can start do some visualizations of our data. 
+1. Modify the Pivot Table so that the number of pages in a book is displayed in the rows and the count of books is the values of the pivot table.
+2. Select the values in the table, and copy and paste them into a new sheet.
+3. Add column headings and "unknown" for the row where there's no value for the page count.
+4. This is the data we're going to visualize. What types of charts make sense?
+  - Pie charts are bad for comparison. Humans aren't good at judging ratios of angles.
+  - It's not time-based data, so line graphs don't make sense either.
+  - Bar chart or something similar best bet here.
+5. Select all your data and then go to the Insert tab > Charts and then choose one of the bar or column charts.
+6. Now you have a graph. When the graph is selected, Excel provides a "Chart Design" tab and "Format" tab for modifying your graph.
+7. In "Chart Design" go to Add Chart Element > Axis Titles > Primary Horizontal. This inserts a text box for the x-axis. Add a descriptive title for what the x-axis represents. Repeat for the y-axis, selecting "Primary Vertical" instead.
+8. You can also edit the chart title by double clicking on the title in the chart.
+9. Selecting other elements of the chart will bring up a right sidebar with formatting options. For example, we can change the major units of the x-axis to 25 instead of 50 which means the x-axis counts by 25 instead of 50. You can also format the colors, font, and other aspects of the text using the font options in the Home tab as you would for normal text.
+10. Explore the different elements and options in the Format sidebar to see what else you can change.
+
+
