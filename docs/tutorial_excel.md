@@ -19,6 +19,7 @@ Filtering lets you specify which data you want to see while you're looking at a 
 ![filter](./images/excel_filter.gif)
 15. Filtering also allows you to sort your data. With Column M (No. Pages - Book), we can sort "smallest to largest" or "largest to smallest" since they are numbers. Text columns can be sorted A-Z to Z-A.  
 ![filter](./images/excel_filter4.png)
+
 ## Pivot tables
 But how many comic books have 36 pages compared to those with a 100 pages? We could count sort smallest to largest and then count how many of each in the column. Or we could make the computer do it for us. That's what pivot tables are for!
 1. Select all of the data in the "Cooper Collection Books" sheet.
@@ -47,6 +48,7 @@ But how many comic books have 36 pages compared to those with a 100 pages? We co
 ![filter](./images/excel_pivot11.png)
 23. You can also filter the rows and columns values without adding them as an additional filter. Use the dropdowns next to "Row Labels" and "Column Labels."  
 ![filter](./images/excel_pivot12.png)
+
 ## Visualizations
 Using the data aggregated from the PivotTable, we can start do some visualizations of our data. 
 1. Modify the Pivot Table so that the number of pages in a book is displayed in the rows and the count of books is the values of the pivot table.  
