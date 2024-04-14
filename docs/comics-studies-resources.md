@@ -73,11 +73,12 @@ _Gif by [Callen](https://kerrycallen.blogspot.com/2012/10/animated-kirby-machine
 * [Popular Culture Association][22]
 * Indiana University’s student-run [Comic Book Book Club](https://beinvolved.indiana.edu/organization/comicbooks)
 
-## Journals
+## Journals and Magazines
 * [Journal of Graphic Novels and Comics][23]  
 * [_Inks: The Journal of the Comics Studies Society_][24]
 * [_The Comics Grid: Journal of Comics Scholarship_][25]
 * [_The Comics Journal_][26]
+* [_Hogan’s Alley: The Magazine of the Cartoon Arts](https://www.hoganmag.com)
 * [_ImageText_](https://imagetextjournal.com)
 * [_Studies in Comics_][28]
 * [_European Comic Art_](https://www.berghahnjournals.com/view/journals/eca/eca-overview.xml)
@@ -106,9 +107,10 @@ _Gif by [Callen](https://kerrycallen.blogspot.com/2012/10/animated-kirby-machine
 * [Bonner Online-Bibliographie zur Comicforschung](https://www.bobc.uni-bonn.de/)
 		 
 ## Digital Comics Collections
-* [Digital Comic Museum](http://digitalcomicmuseum.com/) (DCM)
 * [Comic Book +](https://comicbookplus.com)
+* [Digital Comic Museum](http://digitalcomicmuseum.com/) (DCM)
 * [Internet Archive](http://archive.org)
+* [kwakk.info](https://kwakk.info) (“comics magazine [fanzine] search engine”)
 
 ## Digital Comics Readers
 * [Simple Comic](https://github.com/MaddTheSane/Simple-Comic/) (GitHub site)
@@ -123,6 +125,7 @@ _Gif by [Callen](https://kerrycallen.blogspot.com/2012/10/animated-kirby-machine
 * [The Comic Book Project][53]
 
 ## Creators
+* [Jack Bradbury](https://jbrad.org)
 * [Guy Delisle][55]
 * [Lucy Knisley][56]
 * [G. Willow Wilson][54]
@@ -159,19 +162,23 @@ _Gif by [Callen](https://kerrycallen.blogspot.com/2012/10/animated-kirby-machine
 * [Heritage Auctions](https://comics.ha.com/)
 
 ## Digital Comics Formats
-* [Comic Book Archive][79]
+* [Comic Book Archive][7
 * [Comic Book Markup Language][80]
 
-## Data Sets
-* [The Stephen Cooper Comic Book Collection][81]
-	* Omeka collections with links to data-driven [student projects][82] and related [data set][83] about the collection.
-* Michigan State University Libraries [Comics as Data: North America][84]
+## Data Sets and Databases
+* [Carl Barks](https://www.cbarks.dk)
+* [Kees Kousemaker'S Comiclopedia](https://www.lambiek.net/comiclopedia/artist-compendium.html)
+* [eBDtheque: a representative database of comics](https://ebdtheque.univ-lr.fr/registration/)
+* Grand Comics Database. See <https://docs.comics.org/wiki/Data_Distribution>
+* [I.N.D.U.C.K.S.: The Disney Comics Database](https://inducks.org/index.php)
+* [Manga 109: Japanese Manga Dataset](http://www.manga109.org/en/)
 * [The Marvel Universe Social Network Dataset][85] from [Kaggle][86]
 	* This dataset only provides connections among the superheroes in Marvel Universe, villains are omitted.
 * [The Marvel and DC Characters Dataset][87] from [Kaggle][88]
-* [Manga 109: Japanese Manga Dataset](http://www.manga109.org/en/)
-* [eBDtheque: a representative database of comics](https://ebdtheque.univ-lr.fr/registration/)
-* Grand Comics Database. See <https://docs.comics.org/wiki/Data_Distribution>
+* Michigan State University Libraries [Comics as Data: North America][84]
+* [The Stephen Cooper Comic Book Collection][81]
+	* Omeka collections with links to data-driven [student projects][82] and related [data set][83] about the collection.
+* [Don Markstein’s Toonopedia](https://www.toonopedia.com)
 * [More…](https://iapr-tc10.univ-lr.fr/?page_id=71#comic-book-datasets)
 
 ## Text Analysis Tools
@@ -263,3 +270,18 @@ _Gif by [Callen](https://kerrycallen.blogspot.com/2012/10/animated-kirby-machine
 [90]: http://www.laurenceanthony.net/software.html
 [91]: https://flourish.studio/
 [92]: https://public.tableau.com/
+
+<!--
+
+Don Gilford’s Mad Cover Site: https://madcoversite.com/index.html
+Comic Book Historians: https://comicbookhistorians.com/
+International Catalogue of Superheroes: http://www.internationalhero.co.uk/
+The Timely-Atlas Comics Blog: https://timely-atlas-comics.blogspot.com/
+The Horrors of It All: https://thehorrorsofitall.blogspot.com/
+Atlas Tales: https://www.atlastales.com/
+Ace Horror: http://aces-of-ace.de/
+Charm of Charlton Horror: http://charm-of-charlton.de/
+Charlton Reading Library: https://charltonlibrary.blogspot.com/
+The Big Blog of Kid’s Comics: http://www.bigblogcomics.com/
+
+-->
