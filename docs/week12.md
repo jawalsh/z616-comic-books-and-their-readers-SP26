@@ -1,6 +1,6 @@
 {% include_relative header.md %}
 
-# Week 12: Fandom on social media
+# Week 12: Readers as funders: Crowdsourcing comics and fandom on social media
 
 ## Summary
 This week we explore fandom on social media and tools for analyzing social media data. 
@@ -26,3 +26,6 @@ This week we explore fandom on social media and tools for analyzing social media
 - [mentionmapp](https://analytics.mentionmapp.com/)
 
 ## In class
+
+- Mark Bell, comics creator (See examples of Mark’s work in our comics folder on OneDrive)
+- Discussion
