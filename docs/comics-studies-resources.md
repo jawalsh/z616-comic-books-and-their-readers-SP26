@@ -68,6 +68,7 @@ _Gif by [Callen](https://kerrycallen.blogspot.com/2012/10/animated-kirby-machine
 * [What Were Comics?][19]
 
 ## Professional Societies and Organizations
+* [American Library Association Graphic Novels & Comics Round Table](https://www.ala.org/gncrt)
 * [Comic Book Legal Defense Fund][20]
 * [Comics Studies Society][21]
 * [Popular Culture Association][22]
