@@ -62,6 +62,7 @@ _Gif by [Callen](https://kerrycallen.blogspot.com/2012/10/animated-kirby-machine
 * Wells, John. _American Comic Book Chronicles: The 1960s 1965-1969_. Raleigh, NC: TwoMorrows, 2014.
 
 ## Academic
+* [Comics Studies Programs](https://spinweaveandcut.com/comics-programs/)
 * [Comic Art in Scholarly Writing: A Citation Guide][15]
 * [Comic Book Markup Language][16] (CBML)
 * [Comix-Scholars Discussion List](https://comics.english.ufl.edu/comic-scholars-discussion-list/)
