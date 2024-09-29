@@ -13,17 +13,17 @@ _Charles “Teenie” Harris. [Girl reading “Mickey Mouse and the Submarine Pi
 - [Resources](comics-studies-resources.html)
 
 # Schedule
-- [Week 1](week01.md) _(2024-01-31)_: Introductions
-- [Week 2](week02.md) _(2024-02-07)_: Fan studies
-- [Week 3](week03.md) _(2024-02-14)_: Comics culture
-- [Week 4](week04.md) _(2024-02-21)_: Paratexts and fan mail
-- [Week 5](week05.md) _(2024-02-28)_: Comics in special collections and archives   
+- [Week 1](week01.md) _(2025-02-04)_: Introductions
+- [Week 2](week02.md) _(2025-02-12)_: Fan studies
+- [Week 3](week03.md) _(2025-02-19)_: Comics culture
+- [Week 4](week04.md) _(2025-02-26)_: Paratexts and fan mail
+- [Week 5](week05.md) _(2025-03-05)_: Comics in special collections and archives   
 **(Class will meet at the [Lilly Library](https://maps.apple.com/?address=1200%20E%20Seventh%20St,%20Bloomington,%20IN%20%2047405,%20United%20States&auid=1366294706055500952&ll=39.167851,-86.519029&lsp=9902&q=Lilly%20Library))**
-- [Week 6](week06.md) _(2024-03-06)_: Building a corpus
-- Spring Break _(2024-03-13)_: No Class.
-- [Week 7](week07.md) _(2024-03-20)_: Text analysis
-- [Week 8](week08.md) _(2024-03-27)_: Text analysis lab
-- [Week 9](week09.md) _(2024-04-03)_: Data sets and visualization
-- [Week 10](week10.md) _(2024-04-10)_: Data visualization lab
-- [Week 11](week11.md) _(2024-04-17)_: Fanzines and maker culture
-- [Week 12](week12.md) _(2024-04-24)_: Fandom on social media
+- [Week 6](week06.md) _(2025-03-12)_: Building a corpus
+- Spring Break _(2025-03-19)_: No Class.
+- [Week 7](week07.md) _(2025-03-26)_: Text analysis
+- [Week 8](week08.md) _(2025-04-02)_: Text analysis lab
+- [Week 9](week09.md) _(2025-04-09)_: Data sets and visualization
+- [Week 10](week10.md) _(2025-04-16)_: Data visualization lab
+- [Week 11](week11.md) _(2025-04-23)_: Fanzines and maker culture
+- [Week 12](week12.md) _(2025-04-30)_: Fandom on social media
