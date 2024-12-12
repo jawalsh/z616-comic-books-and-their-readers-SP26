@@ -6,7 +6,7 @@ Mondays, 12:45 - 15:20
 Radio-Television Center (TV), Room 186  
 1229 E 7TH ST, BLOOMINGTON, IN 47405-5501
 
-*Instructor:* Associate Professor [John A. Walsh](http://johnwalsh.name/), [jawalsh@indiana.edu](mailto:jawalsh@indiana.edu).  
+*Instructor:* Associate Professor [John A. Walsh](http://johnwalsh.name/), [jawalsh@iu.edu](mailto:jawalsh@iu.edu).  
 *Office Hours:* Schedule at <https://fantastical.app/jawalsh-r1Wz/office-hours>.  
 
 *Associate Instructor:* [](), []()  
