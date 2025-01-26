@@ -4,5 +4,5 @@
 @import "{{ site.theme }}";
 
 td:first-of-type {
-text-align: left;
+  text-align: left !important;
 }
