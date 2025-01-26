@@ -1,43 +1,42 @@
 {% include_relative header.md %}
 
-# Week 10: Data visualization lab
+# Week 9: Data sets and information visualization
 
 ## Summary
-This week we will gain hands-on experience with some data visualization tools and create visualizations from comics-related data sets.
+This week we will explore the topic of data, data sets (especially those related to comics), and data papers
 
 ## Weekly Learning Objectives
 
-- *articulate* and *explain* fundamental concepts and principals of information visualization.
-- *explore* and *discuss* the effectiveness of an information visualization.
-- *Use* existing datasets and visualization tools to *create* information visualization.
-- _create_ data visualizations in Excel.
-- _create_ data visualizations in Tableau.
+- *articulate* and *explain* fundamental concepts of data, particularly from a humanities point of view.
+- *think* critically about data and its construction and aggregation into datasets
+- *explore* and *evaluate* datasets
+- *clean* and *transform* data
 
 ## Define and identify the following terms
-- visualization  
-- abstraction  
-- complexity  
-- representation  
-- design  
-  
+- data  
+- datasets  
+- structured data  
+- unstructured data  
+- data paper  
+
 ## Before class: Readings, resources, and tasks
 ### Read
-- McCandless, D. (2010). The beauty of data visualization. Retrieved from [https://www.ted.com/talks/david_mccandless_the_beauty_of_data_visualization](https://www.ted.com/talks/david_mccandless_the_beauty_of_data_visualization)
-- Braun, S. (2019). Critically engaging with data visualization through an information literacy framework. _Digital Humanities Quarterly_, _012_(4). https://www.digitalhumanities.org/dhq/vol/12/4/000402/000402.html
-- Shilling, J. (2022). A design process for dataviz. _Nightingale_. [https://nightingaledvs.com/a-design-process-for-dataviz/](https://nightingaledvs.com/a-design-process-for-dataviz/)
-- Porter, D. (2022). (More) Books of Hours as Transformative Works. _Dot Porter Digital (personal blog)_. [http://www.dotporterdigital.org/more-books-of-hours-as-transformative-works/](http://www.dotporterdigital.org/more-books-of-hours-as-transformative-works/)
-- Look at three types of graphs on [From Data to Viz](https://www.data-to-viz.com/) (For discussion leaders, does not need to be included on summary sheet)
-### Download/Install
-- Install Microsoft Excel (see <https://iuware.iu.edu/>).
-- Create a [Tableau](https://www.tableau.com/academic/students) account, and install Tableau.
-  - You will have to verify your student status.
- 
+- Owens, T. (2011). Defining Data for Humanists: Text, Artifact, Information or Evidence? Journal of Digital Humanities. _Journal of Digital Humanities_, _1_(1). [https://journalofdigitalhumanities.org/1-1/defining-data-for-humanists-by-trevor-owens/](https://journalofdigitalhumanities.org/1-1/defining-data-for-humanists-by-trevor-owens/)
+- Schöch, C. (2013). Big? Smart? Clean? Messy? Data in the Humanities. _Journal of Digital Humanities_, _2_(3), 2–13. (See Canvas)
+- Sosulski, K. (2019). The Data. In _Data visualization made simple: Insights into becoming visual_ (pp. 72–96). Routledge. [https://doi-org.proxyiub.uits.iu.edu/10.4324/9781315146096](https://doi-org.proxyiub.uits.iu.edu/10.4324/9781315146096)
+- Swinburne data paper draft (See Canvas)
+- Shroff, L. (2023). Datasets as Imagination. _Reboot_. [https://joinreboot.org/p/artist-datasets](https://joinreboot.org/p/artist-datasets)
+### Download
+- [OpenRefine](https://openrefine.org/download.html)
+- [NVivo](https://iuware.iu.edu/Windows/title/4186); you will have to make an account with QSR
+
 ## In class
 - Discussion
-- Presentation of data manipulation, pivot tables, and visualization in Excel
-  - [Excel walkthrough](tutorial_excel.md)
-- Presentation of visualization in Tableau
-  - [Tableau walkthrough](tutorial_tableau.md)
-- Completion of labs; labs due to Canvas Week 10 Lab assignment
-  - [Excel lab](lab_excel.md)
-  - [Tableau lab](lab_tableau.md)
+- Presentation of NVivo, regular expressions (regex), and OpenRefine
+    - [NVivo walk through](tutorial_nvivo.md)
+    - [Regex walk through](tutorial_regex.md)
+    - OpenRefine demo and [Programming Historian OpenRefine Tutorial](http://programminghistorian.org/en/lessons/cleaning-data-with-openrefine)
+- Choice of 2 of 3 labs; labs due to Canvas Week 9 Lab assignment
+    - [NVivo Lab](lab_nvivo.md)
+    - [Regex Lab](lab_regex.md)
+    - [OpenRefine Lab](lab_openrefine.md)

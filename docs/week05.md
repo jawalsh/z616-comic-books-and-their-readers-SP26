@@ -1,36 +1,49 @@
 {% include_relative header.md %}
 
-# Week 5: Comics in special collections and archives
-
-**Important!: Class will meet at the [Lilly Library](https://maps.apple.com/?address=1200%20E%20Seventh%20St,%20Bloomington,%20IN%20%2047405,%20United%20States&auid=1366294706055500952&ll=39.167851,-86.519029&lsp=9902&q=Lilly%20Library) this week!**
+# Week 4: Comic Book Paratexts
 
 ## Summary
-This week we will explore comics in special collections and archives and how such collections can facilitate research into comic book readership and fandom. Our class time this week will be spent at Indiana University’s Lilly Library exploring their comics-related holdings.
-
-[Lilly Library on Apple Maps](https://maps.apple.com/?address=1200%20E%20Seventh%20St,%20Bloomington,%20IN%20%2047405,%20United%20States&auid=1366294706055500952&ll=39.167851,-86.519029&lsp=9902&q=Lilly%20Library&t=m).
+This week we will explore the topic of the paratext and examine more closely paratexts in comics.
 
 ## Weekly Learning Objectives
-- _identify_ important collections relevant to comics research
-- _discover_ the comics-related collections in Indiana University’s Lilly Library
-- _find_ specific items in major comics-related collections
- 
+- *define* key terms, such as paratext, epitext, and peritext.
+- *identify* examples of comic book paratexts.
+- *describe* and *illustrate* the concept of paratext in comics with specific examples.
+
 ## Before class: Readings, resources, and tasks
-  - Miller, R. (2018). From the Archives: The Queer Zine Archive Project. _Inks, 2_(3), 369–389. <https://doi.org/10.1353/ink.2018.0025>
-  - Pflug, W. (2021). From the Archives: Vernon E. Grant Collection. _Inks, 5_(2), 209–224. <https://doi.org/10.1353/ink.2021.0011>
-  
-## Discussion: Paratext show and tell
+-  Macksey, R. (1997). [Foreword](https://iu.instructure.com/files/169194249/download?download_frd=1) (J. E. Lewin, Trans.). In G. Genette, *Paratexts: Thresholds of interpretation* (J. E. Lewin, Trans.) (pp. xi-xxii). Cambridge: Cambridge UP. (Original work published 1987)
+- Genette, G. (1997). [Introduction](https://iu.instructure.com/files/169194241/download?download_frd=1). *Paratexts: Thresholds of interpretation* (J. E. Lewin, Trans.) (pp. 1-15). Cambridge: Cambridge UP. (Original work published 1987)
+- Barker, M. (2017). Speaking of ‘paratexts’: A theoretical revisitation. *Journal of Fandom Studies, 5*(3), 235-249. Retrieved from <https://iu.instructure.com/files/169194256/download?download_frd=1>
+- Browse [Comic Book Paratexts](https://biblicon.org/cbp/)
 
-Browse through the comics in our "z672 Comics" folder on OneDrive or any other comics or related documents, and find an interesting paratext. In the discussion, describe your paratext. Your example may be a peritext (in the comic book) or an epitext (located outside the comic book).
+<!-- 42 pp. -->
+### Recommended but optional reading
+- Stein, D. (2013). [Superhero comics and the authorizing functions of the comic book paratext](https://iu.instructure.com/files/169194240/download?download_frd=1). In D. Stein & J.-N. Thon (Eds.), *From comic strips to graphic novels: Contributions to the theory and history of graphic narrative* (pp. 155-189). Berlin: De Gruyter.
 
-In one or more paragraphs:
-- Explain what the paratext is, its function, and its location. 
-- Discuss how the paratext relates (or does not relate) to the comics content. 
-- Include an image or screen capture of the paratext.
-- Respond with substantive comments or questions to at least one peers.
-- Submit your work in the Canvas [discussion](https://iu.instructure.com/courses/2204459/discussion_topics/13437195)
 
 ## In class
 
-- Lilly Library Program
+- Upcoming assignment: [Tales from the Crypt](assignment-tales-from-the-crypt.md)
 - Discussion
+- [Paratext lecture and comics examples](https://f001.backblazeb2.com/file/gnrlfs/tr/walsh_comic_book_paratexts.pdf)
+- **Exploring paratexts activity**  
+
+	We will spend time in class individually looking for interesting examples of comic book paratexts. Try to find two or three distinct examples. 
+
+	Consider the paratexts as evidence of:
+
+	- the commercial and cultural context of the comic books (e.g., advertisements);
+	- the creation and production of comic books (e.g., editorial and promotional materials);
+	
+	Keep notes about your paratext regarding where it came from (title, issue, date) and why it is significant.
+
+	After working individually, we will get together in small groups to share our findings, and then groups will report back to the full class.
+
+	Sources for finding paratexts: 
+	- comics in our shared OneDrive folder
+	* [Digital Comic Museum](http://digitalcomicmuseum.com/) (DCM)
+	* [Comic Book +](https://comicbookplus.com)
+	* [Internet Archive](http://archive.org)
+
 - Next week
+

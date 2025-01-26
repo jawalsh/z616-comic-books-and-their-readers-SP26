@@ -1,49 +1,29 @@
 {% include_relative header.md %}
 
-# Week 4: Comic Book Paratexts
+# Week 11: Fanzines and maker culture
 
 ## Summary
-This week we will explore the topic of the paratext and examine more closely paratexts in comics.
+This week we will learn about the history of comics fanzines and prozines and, in small groups, create small fanzines in class.
 
 ## Weekly Learning Objectives
-- *define* key terms, such as paratext, epitext, and peritext.
-- *identify* examples of comic book paratexts.
-- *describe* and *illustrate* the concept of paratext in comics with specific examples.
 
+- *define* the terms fanzine and prozine and *list* examples of each from comics and other fandoms.
+- *explain* the origins and history of comic book fanzines and *identify* some of the major figures and publications.
+- *create* a small, simple fanzine.
+- *design* fanzine-related programming and workshops.
+ 
 ## Before class: Readings, resources, and tasks
--  Macksey, R. (1997). [Foreword](https://iu.instructure.com/files/169194249/download?download_frd=1) (J. E. Lewin, Trans.). In G. Genette, *Paratexts: Thresholds of interpretation* (J. E. Lewin, Trans.) (pp. xi-xxii). Cambridge: Cambridge UP. (Original work published 1987)
-- Genette, G. (1997). [Introduction](https://iu.instructure.com/files/169194241/download?download_frd=1). *Paratexts: Thresholds of interpretation* (J. E. Lewin, Trans.) (pp. 1-15). Cambridge: Cambridge UP. (Original work published 1987)
-- Barker, M. (2017). Speaking of ‘paratexts’: A theoretical revisitation. *Journal of Fandom Studies, 5*(3), 235-249. Retrieved from <https://iu.instructure.com/files/169194256/download?download_frd=1>
-- Browse [Comic Book Paratexts](https://biblicon.org/cbp/)
+- O’Brien, E. (2012). Zines: A personal history. New England Review, 33(2), 89–99. Retrieved from <https://muse.jhu.edu/article/484798>
+- Radway, J. (2020). Zines, half-lives, and afterlives: On the temporalities of social and political change. PMLA, 126, 140–150. Retrieved from <https://doi.org/10.1632/pmla.2011.126.1.140>
+- Schelly, W. (2003). [Fanzine Mania](https://iu.instructure.com/files/169780273/download?download_frd=1) . _The golden age of comic fandom_ (Rev. ed.). Seattle, WA: Hamster Press.
 
-<!-- 42 pp. -->
-### Recommended but optional reading
-- Stein, D. (2013). [Superhero comics and the authorizing functions of the comic book paratext](https://iu.instructure.com/files/169194240/download?download_frd=1). In D. Stein & J.-N. Thon (Eds.), *From comic strips to graphic novels: Contributions to the theory and history of graphic narrative* (pp. 155-189). Berlin: De Gruyter.
-
+### Fanzine production activity
+- Prepare for the fanzine production activity:
+	- Communicate with your group about fanzine topics, features, and ideas
+	- Generate text and gather images for your fanzine
+	- Bring any crafting supplies you'd like to work with in class as you make your fanzine with your group. I will bring large sheets of blank paper, markers, crayons, scissors, and a few old comics to cut up, but feel free to bring additional supplies.
 
 ## In class
 
-- Upcoming assignment: [Tales from the Crypt](assignment-tales-from-the-crypt.md)
-- Discussion
-- [Paratext lecture and comics examples](https://f001.backblazeb2.com/file/gnrlfs/tr/walsh_comic_book_paratexts.pdf)
-- **Exploring paratexts activity**  
-
-	We will spend time in class individually looking for interesting examples of comic book paratexts. Try to find two or three distinct examples. 
-
-	Consider the paratexts as evidence of:
-
-	- the commercial and cultural context of the comic books (e.g., advertisements);
-	- the creation and production of comic books (e.g., editorial and promotional materials);
-	
-	Keep notes about your paratext regarding where it came from (title, issue, date) and why it is significant.
-
-	After working individually, we will get together in small groups to share our findings, and then groups will report back to the full class.
-
-	Sources for finding paratexts: 
-	- comics in our shared OneDrive folder
-	* [Digital Comic Museum](http://digitalcomicmuseum.com/) (DCM)
-	* [Comic Book +](https://comicbookplus.com)
-	* [Internet Archive](http://archive.org)
-
-- Next week
-
+- **_[Course evaluations](https://coursequestionnaire.iu.edu/Blue/)_**
+- Fanzine production
