@@ -1,6 +1,6 @@
 {% include_relative header.md %}
 
-# Week 7: text analysis
+# Week 8: text analysis
 
 ## Summary
 This week we will learn about imaging and OCR tools for converting images of comics, fanzines, and similar documents to searchable text, and we will learn about and use a few text analysis tools to analyze textual data about comics and comics readers.

@@ -1,6 +1,6 @@
 {% include_relative header.md %}
 
-# Week 10: Data visualization lab
+# Week 11: Data visualization lab
 
 ## Summary
 This week we will gain hands-on experience with some data visualization tools and create visualizations from comics-related data sets.

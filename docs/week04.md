@@ -1,6 +1,6 @@
 {% include_relative header.md %}
 
-# Week 11: Fanzines and maker culture
+# Week 4: Fanzines and maker culture
 
 ## Summary
 This week we will learn about the history of comics fanzines and prozines and, in small groups, create small fanzines in class.

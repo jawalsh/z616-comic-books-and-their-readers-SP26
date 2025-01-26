@@ -1,6 +1,6 @@
 {% include_relative header.md %}
 
-# Week 9: Data sets and information visualization
+# Week 10: Data sets and information visualization
 
 ## Summary
 This week we will explore the topic of data, data sets (especially those related to comics), and data papers

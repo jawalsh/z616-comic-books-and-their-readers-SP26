@@ -1,6 +1,6 @@
 {% include_relative header.md %}
 
-# Week 4: Comic Book Paratexts
+# Week 5: Comic Book Paratexts
 
 ## Summary
 This week we will explore the topic of the paratext and examine more closely paratexts in comics.
