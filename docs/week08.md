@@ -26,7 +26,7 @@ This week we will learn about imaging and OCR tools for converting images of com
 <!-- 33 pp. + videos -->
 
 ### Discussion
-- [Letters of Comment: Then and Now](https://iu.instructure.com/courses/2204459/discussion_topics/13437194)
+- [Letters of Comment: Then and Now](https://iu.instructure.com/courses/2287248/assignments/17352623)
 
 ## In class
 
