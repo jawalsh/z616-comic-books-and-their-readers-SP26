@@ -33,6 +33,7 @@ This week we will gain hands-on experience with some data visualization tools an
   - You will have to verify your student status.
  
 ## In class
+- **_[Course evaluations](https://coursequestionnaire.iu.edu/Blue/)_**
 - Discussion
 - Presentation of data manipulation, pivot tables, and visualization in Excel
   - [Excel walkthrough](tutorial_excel.md)

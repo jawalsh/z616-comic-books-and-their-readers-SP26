@@ -13,13 +13,13 @@ This week we will continue to explore the topics of comic book culture, fans, an
 
 ## Before class: Readings, resources, and tasks
 - Woo, B., Beaty, B., & Campbell, M. (2020). [Theorizing comic cons](https://iu.instructure.com/files/169194227/download?download_frd=1). Journal of Fandom Studies 8(1), 9-31. <https://doi.org/10.1386/jfs_00007_1>
-- Woo, B. (2021). [Asking fans questions: The ethnographic interview](https://iu.instructure.com/files/169194283/download?download_frd=1). *A Fan Studies Primer : Method, Research, Ethics* (pp. 97-110). Iowa City: University of Iowa Press.
-- Hills, M. (2021). [Fan studies’ autoethnography: A Method for Self-Learning and Limit-Testing in Neoliberal Times?](https://iu.instructure.com/files/169194282/download?download_frd=1). *A Fan Studies Primer : Method, Research, Ethics* (pp. 144-160). Iowa City: University of Iowa Press.
+- Woo, B. (2021). [Asking fans questions: The ethnographic interview](https://iu.instructure.com/files/185344041/download?download_frd=1). *A Fan Studies Primer : Method, Research, Ethics* (pp. 97-110). Iowa City: University of Iowa Press.
+- Hills, M. (2021). [Fan studies’ autoethnography: A Method for Self-Learning and Limit-Testing in Neoliberal Times?](https://iu.instructure.com/files/185344024/download?download_frd=1). *A Fan Studies Primer : Method, Research, Ethics* (pp. 144-160). Iowa City: University of Iowa Press.
 
 <!-- 54pp. w/o Pustz -->
 
 ### Recommended but optional reading
-- Pustz, M. (1999). [Discovering comic book culture](https://iu.instructure.com/files/169194250/download?download_frd=1). *Comic book culture: Fanboys and true believers*. Jackson: University Press of Mississippi.
+- Pustz, M. (1999). [Discovering comic book culture](https://iu.instructure.com/files/185343993/download?download_frd=1). *Comic book culture: Fanboys and true believers*. Jackson: University Press of Mississippi.
 
 
 ## In class
