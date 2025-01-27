@@ -3,12 +3,22 @@
 
 @import "{{ site.theme }}";
 
+@font-face {
+   font-family: 'vtc_letterer_proregular';
+         url('../fonts/VTC_letterer_pro-webfont.woff') format('woff'),
+    font-weight: normal;
+    font-style: normal;
+
+}
+
 header h1 {
   font-size: 32px;
+  font-family: 'vtc_letterer_proregular';
 }
 
 header h2 {
   font-size: 18px;
+  font-family: 'vtc_letterer_proregular';
 }
 
 td:first-of-type {
