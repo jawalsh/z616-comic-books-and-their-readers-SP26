@@ -5,10 +5,9 @@
 
 @font-face {
    font-family: 'vtc_letterer_proregular';
-         url('../fonts/VTC_letterer_pro-webfont.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-
+   src: url('../fonts/VTC_letterer_pro-webfont.woff') format('woff');
+   font-weight: normal;
+   font-style: normal;
 }
 
 header h1 {
