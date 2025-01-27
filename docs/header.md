@@ -1,3 +1,3 @@
-<nav>[home](index.html) \| [general information](general.html) \| [assignments](assignments.html) \| [resources](comics-studies-resources.html)</nav>  
+<nav><a href="index.html">home</a> | <a href="general.html">general information</a> | <a href="assignments.html">assignments</a> | <a href="comics-studies-resources.html">resources</a></nav>  
 
 ---
