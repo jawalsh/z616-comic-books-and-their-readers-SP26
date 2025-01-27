@@ -3,6 +3,14 @@
 
 @import "{{ site.theme }}";
 
+header h1 {
+  font-size: 24px;
+}
+
+header h2 {
+  font-size: 16px;
+}
+
 td:first-of-type {
   text-align: left !important;
   padding-left: 2rem;
