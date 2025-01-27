@@ -31,7 +31,6 @@ _Gif by [Callen](https://kerrycallen.blogspot.com/2012/10/animated-kirby-machine
 - [Visualization Tools](#visualization-tools)
 
 ## General
-* [Avengers, Assembled][1]
 * [Broken Pencil][36]
 * [Comic Cartography][3]
 * [Comichron][4]
@@ -190,7 +189,6 @@ _Gif by [Callen](https://kerrycallen.blogspot.com/2012/10/animated-kirby-machine
 * [Flourish][91]
 * [Tableau][92]
 
-[1]: https://www.jerthorp.com/avengersassembled
 [3]: https://comiccartography.tumblr.com/
 [4]: http://comichron.com/
 [5]: http://noflyingnotights.com
