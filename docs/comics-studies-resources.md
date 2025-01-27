@@ -100,7 +100,7 @@ _Gif by [Callen](https://kerrycallen.blogspot.com/2012/10/animated-kirby-machine
 ## Conferences
 * [Comics Studies Society Annual Conference](https://comicsstudies.org/)
 * [Comics Arts Conference][44]
-* [Popular Culture Association](https://pcaaca.org/page/nationalconference)
+* [Popular Culture Association][22]
 * [Fan Studies Network][46] (UK)
 * [Fan Studies Network North America][47]
 
@@ -146,7 +146,6 @@ _Gif by [Callen](https://kerrycallen.blogspot.com/2012/10/animated-kirby-machine
 * [TwoMorrows][66]
 
 ## Library research guides and readers advisories
-* [A Readers Advisory Guide Autobiographical Graphic Novels][67]
 * [Graphic Novels and Comics][69]
 
 
@@ -206,7 +205,7 @@ _Gif by [Callen](https://kerrycallen.blogspot.com/2012/10/animated-kirby-machine
 [16]: http://cbml.org
 [17]: http://dissimilitudes.lip6.fr:8182/#/
 [19]: https://www.whatwerecomics.com
-[20]: http://cbldf.org
+[20]: https://cbldf.org
 [21]: http://www.comicsstudies.org/
 [22]: https://pcaaca.org
 [23]: https://www.tandfonline.com/toc/rcom20/current
