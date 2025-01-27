@@ -15,7 +15,7 @@ _Charles “Teenie” Harris. [Girl reading “Mickey Mouse and the Submarine Pi
 
 # Schedule
 - [Week 1](week01.md) _(2025-02-03)_: Introductions
-- [Week 2](week02.md) _(2025-02-10_: Fan studies
+- [Week 2](week02.md) _(2025-02-10)_: Fan studies
 - [Week 3](week03.md) _(2025-02-17)_: Comics culture
 - [Week 4](week04.md) _(2025-02-24)_: Fanzines and maker culture
 - [Week 5](week05.md) _(2025-03-03)_: Paratexts and fan mail
