@@ -36,7 +36,6 @@ _Gif by [Callen](https://kerrycallen.blogspot.com/2012/10/animated-kirby-machine
 * [Comic Cartography][3]
 * [Comichron][4]
 * [del Ray Cabero, E., Goodrum, M., &amp; Morlesín, J. M. _How to Study Comics &amp; Graphic Novels: A Graphic Introduction to Clomic s Studies_](https://www.torch.ox.ac.uk/files/howtostudycomicsgraphicnovels-agraphicintroductiontocomicsstudiespdf)
-- [inkt&#x01C0;art](https://inktart.org)
 * [No Flying No Tights][5]
 * [The Complete Marvel Reading Order][6] (CMRO)
 * [The Grand Comic Book Database][7] (GCD)
