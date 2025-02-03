@@ -5,10 +5,10 @@ Radio-Television Center (TV), Room 186
 1229 E 7th St, Bloomington, IN 47405-5501
 
 *Instructor:* Associate Professor [John A. Walsh](http://johnwalsh.name/), [jawalsh@iu.edu](mailto:jawalsh@iu.edu).  
-*Office Hours:* Schedule at <https://fantastical.app/jawalsh-r1Wz/office-hours>.  
+*Office Hours:* Thursdays, 3:00pm - 5:00pm, schedule at <https://fantastical.app/jawalsh-r1Wz/office-hours>. Email to schedule an appointment outside those hours.
 
 *Associate Instructor:* Sasha Goryl <!-- [Sasha Goryl](), []() -->  
-*Office Hours:* <!-- Thursdays, 1:30pm-2:45pm, and by appointment ([click Zoom link in Alex's profile](https://iu.instructure.com/courses/2204459/users/6407854)) -->
+*Office Hours:*  Mondays, 10:00am - 12:00pm, and by appointment, either by zoom or in the ILS Department on the Second Floor of Luddy Hall ([**use Zoom link in Sasha’s Canvas profile**](https://iu.instructure.com/courses/2287248/users/6254266))
 
 ![Charles “Teenie” Harris photograph of girl reading comic book.](images/5202-1680.jpg)
 _Charles “Teenie” Harris. [Girl reading “Mickey Mouse and the Submarine Pirates” comic book with small dog lying across her lap, inGeorge Harris’s confectionery store, 2121 Wylie Avenue, Hill District](https://collection.cmoa.org/objects/c0c9fc36-1f44-4f08-ad24-6fdc69f61a30). 1947._
