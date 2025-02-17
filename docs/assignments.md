@@ -4,7 +4,7 @@
 
 | Assignment                                                     | Points  | Due Date   |
 | ---------------------------------------------------------------| ---     | ---------- |
-| Fanzine                                                        | 100     | 3/6/2025   |
+| [Fanzine](assignment-fanzine.md)                                                        | 100     | 3/6/2025   |
 | [Tales from the Crypt](assignment-tales-from-the-crypt.md)     | 100     | 3/13/2025  |
 | [Final Project Proposals](assignment-final-project-proposal.md)|  50     | 3/27/2025  |
 | [Fan Activity and Reflection](assignment-fan-activity.md)      | 150     | 4/3/2024   |
