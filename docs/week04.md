@@ -19,9 +19,11 @@ This week we will learn about the history of comics fanzines and prozines and, i
 
 ### Fanzine production activity
 - Prepare for the fanzine production activity:
-	- Communicate with your group about fanzine topics, features, and ideas
-	- Generate text and gather images for your fanzine
-	- Bring any crafting supplies you'd like to work with in class as you make your fanzine with your group. I will bring large sheets of blank paper, markers, crayons, scissors, and a few old comics to cut up, but feel free to bring additional supplies.
+	- You may use the time in class to brainstorm, plan, organize, and gather materials form the internet for your fanzine.
+	- If you want to actually work on making the fanzine in class:  
+		- If working with a partner, communicate with your partner about fanzine topics, features, and ideas
+		- Generate text and gather images for your fanzine
+		- Bring any crafting supplies you'd like to work with in class as you make your fanzine with your group. I will bring large sheets of blank paper, markers, crayons, scissors, and a few old comics to cut up, but feel free to bring additional supplies.
 
 ## In class
 
