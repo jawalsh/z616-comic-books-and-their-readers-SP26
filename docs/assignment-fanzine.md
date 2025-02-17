@@ -10,7 +10,7 @@ For this assignment, alone or with a partner, you will produce a single issue of
 - Including cover, introduction, table of contents, and three or more content items, your fanzine should have at least twelve pages.
 - If you work with a partner, also submit, on a separate piece of paper, a paragraph that explains each student’s contribution.
 
-Submit your assignment materials as a PDF or Word document in Canvas.
+Submit your assignment materials in class.
 
 Here are some sample ’zines created by students :
 
