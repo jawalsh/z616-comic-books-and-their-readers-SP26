@@ -57,4 +57,7 @@ This week we will go over some of the course basics, syllabus, and assignments. 
 - introductions
 - review of syllabus and assignments
 - Discussion of week 1 readings
+- Walsh, J. A. (2019). [Katy, Millie, Misty, and me: Participatory culture in teen fashion and humor
+comics](https://scholarworks.iu.edu/dspace/bitstreams/6a9df169-1505-40cd-a85d-2d0be24a7d73/download). Paper presented at Bedephilia since the 1960s: Sub-culture and shared culture, Cit´e
+internationale de la bande dessin´ee et de l’Image, Angoulˆeme, France, June 27, 2019.
 - look ahead at [week 2](week02.md)
