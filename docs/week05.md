@@ -40,10 +40,11 @@ This week we will explore the topic of the paratext and examine more closely par
 	After working individually, we will get together in small groups to share our findings, and then groups will report back to the full class.
 
 	Sources for finding paratexts: 
-	- comics in our shared OneDrive folder
+	* comics in our shared OneDrive folder
 	* [Digital Comic Museum](http://digitalcomicmuseum.com/) (DCM)
 	* [Comic Book +](https://comicbookplus.com)
 	* [Internet Archive](http://archive.org)
 
-- Next week
+- Discuss [final project proposal](assignment-final-project-proposal.md)
+- [Next week](week06.md)
 
