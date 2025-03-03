@@ -10,3 +10,5 @@ Submit an proposal, of approximately 300-500 words, in which outline your plans 
 * the form you expect your final project to take (e.g., research paper, blog post, [data paper](https://en.wikipedia.org/wiki/Data_publishing#Data_papers), contextualized [digital collection](https://collectionbuilder.github.io))
 
 Submit your proposal as a PDF or Word document in Canvas.
+
+{% include_relative assignment-final-project-examples.md %}
