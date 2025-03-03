@@ -107,11 +107,13 @@ _Gif by [Callen](https://kerrycallen.blogspot.com/2012/10/animated-kirby-machine
 * [Comics Research Bibliography][48]
 * [Bonner Online-Bibliographie zur Comicforschung](https://www.bobc.uni-bonn.de/)
 		 
-## Digital Comics Collections
+## Digital Comics and Fanzine Collections
 * [Comic Book +](https://comicbookplus.com)
 * [Digital Comic Museum](http://digitalcomicmuseum.com/) (DCM)
 * [Internet Archive](http://archive.org)
 * [kwakk.info](https://kwakk.info) (“comics magazine [fanzine] search engine”)
+* [The Fanac Fan History Project](https://www.fanac.org)
+* [eFanzines.com: Science fiction fanzines online](https://efanzines.com)
 
 ## Digital Comics Readers
 * [Simple Comic](https://github.com/MaddTheSane/Simple-Comic/) (GitHub site)
