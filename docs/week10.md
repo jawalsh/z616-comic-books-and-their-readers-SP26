@@ -28,7 +28,7 @@ This week we will explore the topic of data, data sets (especially those related
 - Shroff, L. (2023). Datasets as Imagination. _Reboot_. [https://joinreboot.org/p/artist-datasets](https://joinreboot.org/p/artist-datasets)
 ### Download
 - [OpenRefine](https://openrefine.org/download.html)
-- [NVivo](https://iuware.iu.edu/Windows/title/4186); you will have to make an account with QSR
+- [NVivo](https://iuware.iu.edu/) (search IUWare for `nvivo`); you will have to make an account with QSR
 
 ## In class
 - Discussion
@@ -36,7 +36,7 @@ This week we will explore the topic of data, data sets (especially those related
     - [NVivo walk through](tutorial_nvivo.md)
     - [Regex walk through](tutorial_regex.md)
     - OpenRefine demo and [Programming Historian OpenRefine Tutorial](http://programminghistorian.org/en/lessons/cleaning-data-with-openrefine)
-- Choice of 2 of 3 labs; labs due to Canvas Week 9 Lab assignment
+- Choice of 2 of 3 labs; labs due to Canvas Week 10 Lab assignment
     - [NVivo Lab](lab_nvivo.md)
     - [Regex Lab](lab_regex.md)
     - [OpenRefine Lab](lab_openrefine.md)
