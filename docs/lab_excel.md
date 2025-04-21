@@ -21,4 +21,4 @@ You will use Excel to create 1 pivot table and 1 visualization based on [data fr
 - A Word document containing the result of the pivot table, the visualization, and an explanation of the visualization
 - There are 5 possible bonus points if you turn in a second pivot table, visualization, and explanation (need all three components!).
   
-Turn in to the Week 10 Lab assignment on Canvas, either as part of the same document or a different document from the visualizations you will generate in the Tableau lab.
+Turn in to the Week 11 Lab assignment on Canvas, either as part of the same document or a different document from the visualizations you will generate in the Tableau lab.
