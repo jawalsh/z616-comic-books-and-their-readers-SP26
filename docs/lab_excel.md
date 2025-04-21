@@ -17,6 +17,7 @@ You will use Excel to create 1 pivot table and 1 visualization based on [data fr
 7. Contextualize your visualization
 	- In the Word document, below the table and the visualization write 2-4 sentences explaining what this visualization tell us.  
 ## To turn in
+
 - A Word document containing the result of the pivot table, the visualization, and an explanation of the visualization
 - There are 5 possible bonus points if you turn in a second pivot table, visualization, and explanation (need all three components!).
   
