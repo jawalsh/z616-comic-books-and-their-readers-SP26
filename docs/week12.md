@@ -3,15 +3,21 @@
 # Week 12: Readers as funders: Crowdsourcing comics and fandom on social media
 
 ## Summary
-This week we explore fandom on social media and tools for analyzing social media data. 
+This week will be meeting with local comics creator [Mark Bell](https://www.kickstarter.com/profile/1214207061/created?ref=project_creator_tab). 
+
 
 ## Weekly Learning Objectives
-- *illustrate* social media research with examples from various domains.
-- *list* example topics that may be analyzed through social media data.
-- *list*, *explain*, and *discuss* pros and cons of three methods for obtaining social media data.
-- *use* one or more methods discussed in class to obtain comics- or fandom-related social media data.
+- *Interact* with local comics creator to discuss issues such as:
+	- moving from comics fandom to comics creation
+	- the fan’s role in financing comics
+	- creator-fan interactions online and in person as events like comic conventions
 
-## Before class: Readings, resources, and tasks
+## Before class: 
+
+Familiarize yourself with Mark Bell’s work. Examples are available in our shared Z616 OneDrive folder.
+
+<!--
+Readings, resources, and tasks
  Weekly learning objectives
  
  - Dill-Shackleford, K. E., Hopper-Losenicky, K., Vinney, C., Swain, L. F., & Hogg, J. L. (2015). - Mad Men fans speak via social media: What fan voices reveal about the social construction of reality via dramatic fiction. Journal of Fandom Studies, 3(2), 151-170. <Retrieved from https://proxyiub.uits.iu.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=cms&AN=103531154&site=ehost-live&scope=site>
@@ -24,6 +30,7 @@ This week we explore fandom on social media and tools for analyzing social media
 - [foller.me](https://foller.me/)
 - [twitonomy](https://www.twitonomy.com/)
 - [mentionmapp](https://analytics.mentionmapp.com/)
+-->
 
 ## In class
 
