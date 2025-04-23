@@ -3,7 +3,7 @@
 # Week 12: Readers as funders: Crowdsourcing comics and fandom on social media
 
 ## Summary
-This week will be meeting with local comics creator [Mark Bell](https://www.kickstarter.com/profile/1214207061/created?ref=project_creator_tab). 
+This week will be meeting with local comics creator [Mark Bell](https://plaguedoctorpress.com/). 
 
 
 ## Weekly Learning Objectives
