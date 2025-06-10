@@ -22,6 +22,26 @@ Here are some sample ’zines created by students :
 - [Akbari, R.](https://thecreativeindependent.com/people/rona-akbari/) (2018). “[How to Make a Zine](https://thecreativeindependent.com/guides/how-to-make-a-zine/).”
 - [@brattyxbre](https://www.youtube.com/@brattyxbre) (2024). “[How to Make a Zine the Old Fashioned Way](https://youtu.be/XTkvDHZmJ0A).”
 
+## 🎯 Assignment Goal
+
+The purpose of the Fanzine project is to immerse students in an authentic fandom practice—creating a self-published, book-like artifact that demonstrates both creative and scholarly engagement with comics culture. In crafting a physical fanzine, students will gain hands-on experience with participatory fan activities and explore the materiality of fandom, understanding how tangible media—zines—serve as vessels for fan identity, community expression, and cultural production.
+
+## 📌 Learning Outcomes
+
+By completing this assignment, students will be able to:
+
+- **Design and produce a multi-page physical fanzine**, including essential book-like components (e.g., cover, title page, table of contents, introduction, multiple content pieces), demonstrating understanding of material structure and narrative coherence.
+
+- **Curate meaningful content** (such as fan fiction, graphic art, essays, reviews, interviews, letters) that reflects an informed engagement with a chosen comics fandom, showing thematic cohesion and alignment with fan discourse.
+
+- **Apply document design principles**, integrating text and visuals in layouts that balance aesthetic appeal with readability, and incorporating proper citation of sources—both primary fan content and secondary research.
+
+- **Reflect critically on the materiality of fan artifacts**, articulating how creating, circulating, and handling physical media shapes reader experience, fosters community connection, and sustains participatory culture.
+
+- **Engage with digital and print reference resources**, researching fan practices and fandom history to inform the fanzine’s content and approach, thereby deepening their analytical familiarity with comics studies tools and archives.
+
+- **Plan and manage a creative project**, whether working independently or collaboratively, by mapping workflow, assigning responsibilities, and delivering a cohesive finished artifact—mirroring real-world fan publishing processes.  
+
 ## Rubric
 
 - 4 — Exceptional
