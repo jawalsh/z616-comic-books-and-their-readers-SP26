@@ -11,7 +11,7 @@ Radio-Television Center (TV), Room 186
 *Office Hours:*  Mondays, 10:00am - 12:00pm, and by appointment, either by zoom or in the ILS Department on the Second Floor of Luddy Hall ([**use Zoom link in Sasha’s Canvas profile**](https://iu.instructure.com/courses/2287248/users/6254266))
 
 ![Charles “Teenie” Harris photograph of girl reading comic book.](images/5202-1680.jpg)
-_Charles “Teenie” Harris. [Girl reading “Mickey Mouse and the Submarine Pirates” comic book with small dog lying across her lap, inGeorge Harris’s confectionery store, 2121 Wylie Avenue, Hill District](https://collection.cmoa.org/objects/c0c9fc36-1f44-4f08-ad24-6fdc69f61a30). 1947._
+_Charles “Teenie” Harris. [Girl reading “Mickey Mouse and the Submarine Pirates” comic book with small dog lying across her lap, in George Harris’s confectionery store, 2121 Wylie Avenue, Hill District](https://collection.cmoa.org/objects/c0c9fc36-1f44-4f08-ad24-6fdc69f61a30). 1947._
 
 # Schedule
 - [Week 1](week01.md) _(2025-02-03)_: Introductions
