@@ -1,0 +1,8 @@
+# Rubric: Fanzine Project
+
+| Criteria | 4 – Exceptional | 3 – Good | 2 – Acceptable | 1 – Unacceptable |
+|---------|------------------|----------|----------------|------------------|
+| **Integration of Research and Analysis** | Engages deeply with course themes or fan culture topics; incorporates critical insight and original analysis; research is woven into creative content meaningfully. | Demonstrates sound understanding and analysis with some connection to course content or fan culture. | Includes minimal analysis; connections to course concepts are weak or superficial. | Little to no critical engagement; lacks relevance to course material. |
+| **Creative Execution and Design** | Strong visual design, layout, and organization; demonstrates clear attention to zine aesthetics and multimodal storytelling. | Well-constructed and readable; some attention to visual impact and form. | Some effort at visual composition but uneven or underdeveloped. | Disorganized or minimal effort in design or visual presentation. |
+| **Purpose, Audience, and Voice** | Clear sense of audience and purpose; writing and design choices are well-matched to intended readership. | Purpose and audience are mostly clear; style generally supports communication. | Purpose and audience somewhat unclear or inconsistently addressed. | No clear sense of intended audience or rhetorical strategy. |
+| **Professionalism and Mechanics** | Polished, proofread, free of errors; sources cited where appropriate. | Few minor errors; mostly professional in tone and appearance. | Frequent minor errors; lacks polish. | Significant grammar, spelling, or formatting issues. |

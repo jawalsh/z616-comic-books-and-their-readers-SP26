@@ -1,0 +1,8 @@
+# Rubric: Tales from the Crypt Assignment
+
+| Criteria | 4 – Exceptional | 3 – Good | 2 – Acceptable | 1 – Unacceptable |
+|---------|------------------|----------|----------------|------------------|
+| **Depth and Originality of Research** | Uncovers substantial information using multiple sources; demonstrates creative and persistent inquiry into a relatively obscure figure. | Good research effort with a variety of sources; shows some originality or synthesis. | Basic research conducted; sources are limited or lack depth. | Minimal research; heavy reliance on a single source or includes unverifiable claims. |
+| **Critical Engagement with Fandom/History** | Strong contextualization of subject’s role in fandom or comics history; thoughtful reflection on cultural and historical dimensions. | Includes relevant context with some critical reflection. | Limited engagement with historical or fan context. | Lacks meaningful contextualization or critical thinking. |
+| **Documentation and Citation** | Includes well-organized documentation (letters, obituaries, media, etc.) with proper attribution. | Includes relevant documentation; mostly cited correctly. | Some documentation included; inconsistent attribution. | Little or no documentation; citations missing or unclear. |
+| **Structure and Presentation** | Professionally formatted and clearly written; appropriate use of headings, images, captions. | Mostly well-organized with a few inconsistencies. | Understandable but lacks polish or formatting. | Difficult to follow; lacks structure or visual coherence. |
