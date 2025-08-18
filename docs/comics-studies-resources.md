@@ -27,8 +27,7 @@ _Gif by [Callen](https://kerrycallen.blogspot.com/2012/10/animated-kirby-machine
 - [Auction Houses](#auction-houses)
 - [Digital Comics Formats](#digital-comics-formats)
 - [Data Sets](#data-sets)
-- [Text Analysis Tools](#text-analysis-tools)
-- [Visualization Tools](#visualization-tools)
+
 
 ## General
 <a id="general"/>
