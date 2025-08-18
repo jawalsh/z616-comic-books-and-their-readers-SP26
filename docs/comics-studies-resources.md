@@ -31,6 +31,7 @@ _Gif by [Callen](https://kerrycallen.blogspot.com/2012/10/animated-kirby-machine
 - [Visualization Tools](#visualization-tools)
 
 ## General
+<a id="general"/>
 * [Broken Pencil][36]
 * [Comic Cartography][3]
 * [Comichron][4]
@@ -50,6 +51,7 @@ _Gif by [Callen](https://kerrycallen.blogspot.com/2012/10/animated-kirby-machine
 
 
 ## Histories
+<a id="histories"/>
 * Dallas, Keith. _American Comic Book Chronicles: The 1980s 1980-1989_. Raleigh, NC: TwoMorrows, 2013.
 * Levitz, Paul. _75 Years of DC Comics: The Art of Modern Mythmaking_. Hohenzollernring: Taschen, 2010.
 * Sabin, Roger. _Comixs, Comix, & Graphic Novels: A History of Comic Art_. London: Phaidon, 1996.
@@ -61,6 +63,7 @@ _Gif by [Callen](https://kerrycallen.blogspot.com/2012/10/animated-kirby-machine
 * Wells, John. _American Comic Book Chronicles: The 1960s 1965-1969_. Raleigh, NC: TwoMorrows, 2014.
 
 ## Academic
+<a id="academic"/>
 * [Comics Studies Programs](https://spinweaveandcut.com/comics-programs/)
 * [Comic Art in Scholarly Writing: A Citation Guide][15]
 * [Comic Book Markup Language][16] (CBML)
@@ -68,6 +71,7 @@ _Gif by [Callen](https://kerrycallen.blogspot.com/2012/10/animated-kirby-machine
 * [What Were Comics?][19]
 
 ## Professional Societies and Organizations
+<a id="professional-societies-and-organizations"/>
 * [American Library Association Graphic Novels & Comics Round Table](https://www.ala.org/gncrt)
 * [Comic Book Legal Defense Fund][20]
 * [Comics Studies Society][21]
@@ -75,6 +79,7 @@ _Gif by [Callen](https://kerrycallen.blogspot.com/2012/10/animated-kirby-machine
 * Indiana University’s student-run [Comic Book Book Club](https://beinvolved.indiana.edu/organization/comicbooks)
 
 ## Journals and Magazines
+<a id="journals"/>
 * [Journal of Graphic Novels and Comics][23]  
 * [_Inks: The Journal of the Comics Studies Society_][24]
 * [_The Comics Grid: Journal of Comics Scholarship_][25]
@@ -90,6 +95,7 @@ _Gif by [Callen](https://kerrycallen.blogspot.com/2012/10/animated-kirby-machine
 * See also the Fan Studies Network’s list of [Fan Studies Journals][35]
 
 ## News
+<a id="news"/>
 * [Comic Book Resources][38]
 * [Comic Vine][39]
 * [Comics Book Daily][40]
@@ -97,17 +103,22 @@ _Gif by [Callen](https://kerrycallen.blogspot.com/2012/10/animated-kirby-machine
 * [The Comics Reporter][42]
 
 ## Conferences
+<a id="conferences"/>
 * [Comics Studies Society Annual Conference](https://comicsstudies.org/)
 * [Comics Arts Conference][44]
+* [Cartoon Crossroads Columbus](https://cartooncrossroadscolumbus.org) (CXC)
+* [The International Comic Arts Forum](http://www.internationalcomicartsforum.org) (ICAF)
 * [Popular Culture Association][22]
 * [Fan Studies Network][46] (UK)
 * [Fan Studies Network North America][47]
 
 ## Bibliographies
+<a id="bibliographies"/>
 * [Comics Research Bibliography][48]
 * [Bonner Online-Bibliographie zur Comicforschung](https://www.bobc.uni-bonn.de/)
 		 
 ## Digital Comics and Fanzine Collections
+<a id="digital-comics-collections"/>
 * [Comic Book +](https://comicbookplus.com)
 * [Digital Comic Museum](http://digitalcomicmuseum.com/) (DCM)
 * [Internet Archive](http://archive.org)
@@ -116,25 +127,31 @@ _Gif by [Callen](https://kerrycallen.blogspot.com/2012/10/animated-kirby-machine
 * [eFanzines.com: Science fiction fanzines online](https://efanzines.com)
 
 ## Digital Comics Readers
+<a id="digital-comics-readers"/>
 * [Simple Comic](https://github.com/MaddTheSane/Simple-Comic/) (GitHub site)
 	* [Simple Comic](https://apps.apple.com/us/app/simple-comic/id1497435571) (Mac App Store) 
 	* [Simple Comic](
 * [OpenComic](https://github.com/ollm/OpenComic)
 
 ## Archive and Library Supplies
+<a id="archive-and-library-supplies"/>
 * [E. Gerber][52]
+* [Bags Unlimited](https://www.bagsunlimited.com/all/comic-book-supplies)
 
 ## Youth
 * [The Comic Book Project][53]
 
-## Creators
+## Creators (a small sampling)
+<a id="creators"/>
 * [Jack Bradbury](https://jbrad.org)
+* [Kelly Sue DeConnick](https://linktr.ee/kellysued)
 * [Guy Delisle][55]
 * [Lucy Knisley][56]
 * [G. Willow Wilson][54]
 * [Gene Luen Yang](https://geneyang.com)
 
 ## Publishers
+<a id="publishers"/>
 * [Boom! Studios][57]
 * [Dark Horse][58]
 * [DC][59]
@@ -147,10 +164,12 @@ _Gif by [Callen](https://kerrycallen.blogspot.com/2012/10/animated-kirby-machine
 * [TwoMorrows][66]
 
 ## Library research guides and readers advisories
+<a id="library-research-guides-and-readers-advisories"/>
 * [Graphic Novels and Comics][69]
 
 
 ## Museums and archives
+<a id="museums-and-archives"/>
 * [American Heritage Center, University of Wyoming][70]
 * [Billy Ireland Cartoon Library and Museum, Ohio State University][71]
 * [Comic Art Collection, Michigan State University][72]
@@ -161,13 +180,16 @@ _Gif by [Callen](https://kerrycallen.blogspot.com/2012/10/animated-kirby-machine
 * [University of Iowa Special Collections][77] 
 
 ## Auction houses
+<a id="auction-houses"/>
 * [Heritage Auctions](https://comics.ha.com/)
 
 ## Digital Comics Formats
-* [Comic Book Archive][7
-* [Comic Book Markup Language][80]
+<a id="digital-comics-formats"/>
+* [Comic Book Archive](https://en.wikipedia.org/wiki/Comic_book_archive)
+* [Comic Book Markup Language](https://cbml.org) (CBML)
 
 ## Data Sets and Databases
+<a id="data-sets"/>
 * [Carl Barks](https://www.cbarks.dk)
 * [Kees Kousemaker'S Comiclopedia](https://www.lambiek.net/comiclopedia/artist-compendium.html)
 * [eBDtheque: a representative database of comics](https://ebdtheque.univ-lr.fr/registration/)
@@ -182,14 +204,6 @@ _Gif by [Callen](https://kerrycallen.blogspot.com/2012/10/animated-kirby-machine
 	* Omeka collections with links to data-driven [student projects][82] and related [data set][83] about the collection.
 * [Don Markstein’s Toonopedia](https://www.toonopedia.com)
 * [More…](https://iapr-tc10.univ-lr.fr/?page_id=71#comic-book-datasets)
-
-## Text Analysis Tools
-* [Voyant][89]
-* [AntConc][90]
-
-## Visualization Tools
-* [Flourish][91]
-* [Tableau][92]
 
 [3]: https://comiccartography.tumblr.com/
 [4]: http://comichron.com/
