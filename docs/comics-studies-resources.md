@@ -91,6 +91,7 @@ _Gif by [Callen](https://kerrycallen.blogspot.com/2012/10/animated-kirby-machine
 * [_Image \[&\] Narrative_][32]
 * [_Sane journal: Sequential Art Narrative in Education_][33]
 * [_Journal of Comics and Culture_][34]
+* [_Transformative Works and Culture_](https://journal.transformativeworks.org/)
 * See also the Fan Studies Network’s list of [Fan Studies Journals][35]
 
 ## News
