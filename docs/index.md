@@ -5,7 +5,7 @@ Biology Building (JH), Room A105
 1001 E 3rd St, Bloomington, IN 47405
 
 *Instructor:* Associate Professor [John A. Walsh](http://johnwalsh.name/), [jawalsh@iu.edu](mailto:jawalsh@iu.edu).  
-*Office Hours:* Wednesdays 2pm - 4pm; schedule an appointment at <https://fantastical.app/jawalsh-r1Wz/office-hours>. Email to schedule an appointment outside those hours.
+*Office Hours:* Wednesdays 2pm - 4pm; schedule an appointment at <[https://fantastical.app/jawalsh-r1Wz/office-hours](https://fantastical.app/jawalsh/office-hours)>. Email to schedule an appointment outside those hours.
 
 <!--
 *Office Hours:*  Mondays, 10:00am - 12:00pm, and by appointment, either by zoom or in the ILS Department on the Second Floor of Luddy Hall ([**use Zoom link in Sasha’s Canvas profile**](https://iu.instructure.com/courses/2287248/users/6254266))
