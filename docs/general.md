@@ -5,22 +5,29 @@
 _Comics Code Authority announcement in_ Katy Keene Annual _#2 (Archie Comics, 1955-1956)_
 
 ## Course description<a id="desc"/>
-In this seminar we will study the many ways in which readers and fans engage with comic books and comic book culture. Modes of reader engagement include correspondence and communications through print fan mail columns and social media; cosplay; fanzine production; participation in fan clubs, comics-related contests, and comics conventions; blogs and podcasts; and more. We will survey several research methods for studying reader and fan engagement, including archival research, ethnography, and text data mining.
+In this seminar we will study the many ways in which readers and fans engage with comic books and comic book culture. This seminar is also a research methods course: we will survey and practice qualitative, quantitative, and digital methods for studying comic readers and fans. Modes of reader engagement include correspondence and communications through print fan mail columns and social media; cosplay; fanzine production; participation in fan clubs, comics-related contests, and comics conventions; blogs and podcasts; and more. We will survey several research methods for studying reader and fan engagement, including archival research, ethnography, and text data mining.
 
 The course is relevant both to students wishing to develop programs and resources to engage readers and others more generally interested in comics and fandom studies.
 
 Because we will be engaging with digital media and digital research methods, this course fulfills requirements for the ILS digital humanities specialization and the IU digital arts and humanities [Ph.D. minor and graduate certificate](https://idah.indiana.edu/training/certificate.html).
 
 ## Course goal
-By the end of this course students will be able to describe, analyze and engage with multiple forms of reader participation in comic book culture and fandom.
+By the end of the course, students will be able to design and carry out a small-scale research project on comic readers and fans using at least one qualitative or digital method covered in class.
 
 ## Learning outcomes
-- Students be able to *describe* and *illustrate* with examples the different types of participatory activities in which comic book readers and fans engage.
-- Students will be able to *create* and *document* data sets about participatory activities.
-- Students will be able to *analyze* data about participatory activities with appropriate qualitative and quantitative methods.
-- Students will be able to *create* visualizations (charts, graphs, maps) derived from data sets.
-- Students will be able to *explain* the ways in which participatory activities engage readers with content, creators, organizations, and other readers.
-- Students will be able to *use* a variety of digital and print reference resources to conduct research about the comics domain.
+
+By the end of this course, students will be able to:
+
+1. **Explain key concepts in fan and reader studies** (e.g., participatory culture, acafandom, paratext, prosumption) and apply them to comic book cultures.
+2. **Formulate researchable questions** about comic readers, fans, and fan practices (e.g., letter columns, conventions, fanzines, fan fiction, social media activity).
+3. **Select and justify appropriate methods** (e.g., qualitative content analysis, ethnography, autoethnography, digital text analysis, visualization) for a given fan-related research question.
+4. **Collect and document data** about reader and fan practices, both in print (archives, collections, fanzines, letters pages) and online (forums, social media, fanfiction platforms).
+5. **Analyze fan-related texts and practices** using at least one qualitative method (e.g., content analysis, ethnography/autoethnography, reception/reader-response).
+6. **Apply at least one digital/data-driven method** (e.g., text analysis, basic corpus building, coding/queries in NVivo, visualization in Excel/Tableau) to a comics/fandom dataset.
+7. **Communicate findings and datasets** to academic and professional audiences through:
+   - A **written hybrid research/data paper**, and
+   - A **short video presentation** that explains methods, data, and findings.
+8. **Reflect critically and ethically** on their own positionality as readers/fans and on issues of access, consent, and power in researching fan communities (especially online).
 
 ## About your instructor
 <img style="float:left;margin-right:1em;border:1px solid black;" alt="Photograph portrait of John Walsh" src="images/jawalsh.jpg"/>
