@@ -48,6 +48,30 @@ This week we will go over some of the course basics, syllabus, and assignments. 
  
 ## Before class: Readings, resources, and tasks <!-- 57 pp. -->
 
+### How to Read the Week 1 Materials
+
+These readings are assigned **before our first class meeting** and serve a specific purpose:
+
+They are **not methods readings**.
+
+Instead, they are meant to orient you to:
+- comics as a medium and cultural form,
+- comics readers as historically and socially situated,
+- the idea that readers and audiences are legitimate objects of scholarly study.
+
+As you read, focus on **big-picture understanding**, not mastery of details.
+
+In particular, consider the following questions:
+- How do these authors define *comics* and *comic books*?
+- What assumptions do they make about *who* comics readers are (or have been)?
+- What kinds of evidence do they use to talk about readers?
+- What kinds of evidence or voices seem absent?
+
+You do **not** need to memorize terms or arguments.  
+You *do* need a working familiarity with how comics studies frames its object and its audiences.
+
+Beginning in Week 2, we will shift our focus from *what comics and comics readers are* to *how scholars study fans and readers*, using specific research methods.
+
 - Hatfield, Charles (2020). [Comic Books](https://iu.instructure.com/files/185344027/download?download_frd=1). _Comics Studies: A Guidebook_ (pp. 25-39). New Brunswick, NJ: Rutgers University Press. <!-- 15 pp. -->
 - Nel, Philip (2020). [Children and Comics](https://iu.instructure.com/files/185344044/download?download_frd=1). _Comics Studies: A Guidebook_ (pp. 126-137). New Brunswick, NJ: Rutgers University Press. <!-- 12 pp. -->
 - Duncan, R., Smith, M. J., &amp; Levitz, P. (2015). [The Comic Book Readers](https://iu.instructure.com/files/185344047/download?download_frd=1). _The Power of Comics_ (2nd ed.) (pp. 297-326). London: Bloomsbury. <!-- 30 pp. -->
@@ -58,6 +82,6 @@ This week we will go over some of the course basics, syllabus, and assignments. 
 - review of syllabus and assignments
 - Discussion of week 1 readings
 - Walsh, J. A. (2019). [Katy, Millie, Misty, and me: Participatory culture in teen fashion and humor
-comics](https://scholarworks.iu.edu/dspace/bitstreams/6a9df169-1505-40cd-a85d-2d0be24a7d73/download). Paper presented at Bedephilia since the 1960s: Sub-culture and shared culture, Cit´e
-internationale de la bande dessin´ee et de l’Image, Angoulˆeme, France, June 27, 2019.
+comics](https://scholarworks.iu.edu/dspace/bitstreams/6a9df169-1505-40cd-a85d-2d0be24a7d73/download). Paper presented at Bedephilia since the 1960s: Sub-culture and shared culture, Cité
+internationale de la bande dessinée et de l’Image, Angoulême, France, June 27, 2019.
 - look ahead at [week 2](week02.md)
