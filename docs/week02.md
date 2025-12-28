@@ -17,9 +17,13 @@ This week we will explore the topic of fandom studies as an academic discipline 
 - Trekkie
 
 ## Before class: Readings, resources, and tasks
-- Jenkins, H. (2012). [Introduction](https://iu.instructure.com/files/185344043/download?download_frd=1). *Textual Poachers* (2nd ed.) (pp. 1-8). New York, NY: Routledge.
-- Jenkins, H. (2012). “[Get a Life!](https://iu.instructure.com/files/185344003/download?download_frd=1)”: Fans, Poachers, Nomads. *Textual Poachers* (2nd ed.) (pp. 9-49). New York, NY: Routledge.
-- Woo, B. (2020). [Readers, Audiences, and Fans](https://iu.instructure.com/files/185344025/download?download_frd=1). *Comics Studies: A Guidebook* (pp. 126-137). New Brunswick, NJ: Rutgers University Press.
+
+**Required:**
+Busse, K., & Gray, J. (2011). [Fan cultures and fan communities](https://iu.instructure.com/files/folder/users_3607307/readings?preview=199520020). In V. Nightingale (Ed.), *The handbook of media audiences* (pp. 425–443). Wiley-Blackwell.
+
+
+**Optional:**
+- Jenkins, H. (2012). “[Get a Life!](https://iu.instructure.com/files/folder/users_3607307/readings?preview=199505689)”: Fans, Poachers, Nomads. *Textual Poachers* (2nd ed.) (pp. 9-49). New York, NY: Routledge.
 - [Henry Jenkins on Participatory Culture](https://youtu.be/1gPm-c1wRsQ)  
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/1gPm-c1wRsQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="max-width:80%; margin:auto;"></iframe>
  
@@ -27,7 +31,7 @@ This week we will explore the topic of fandom studies as an academic discipline 
 - review class comic archive and [online collections](comics-studies-resources.html#digital-comics-collections)
 - Interview another student about their fandom, and report back to the class. Start with 
 “What type of fandom do you want to tell me about (comics, film, manga, music, pokemon, etc.)?” and adapt the questions below as necessary.   
-Questions from Duncan, R., Smith, M. J., &amp; Levitz, P. (2015). [The Comic Book Readers](https://iu.instructure.com/files/185344047/download?download_frd=1). _The Power of Comics_ (2nd ed.) (pp. 297-326). London: Bloomsbury.
+Questions from Duncan, R., Smith, M. J., &amp; Levitz, P. (2015). [The Comic Book Readers](https://iu.instructure.com/files/folder/users_3607307/readings?preview=199520035). _The Power of Comics_ (2nd ed.) (pp. 297-326). London: Bloomsbury.
 	- When did you begin reading comic books?
 	- Did you stop reading comic books at any point? If so, why? What prompted you to start again?
 	- What do you like about the comic book medium? How have you benefited from reading comic books?
