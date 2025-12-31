@@ -11,14 +11,17 @@ This week we will explore the topic of the paratext and examine more closely par
 - *describe* and *illustrate* the concept of paratext in comics with specific examples.
 
 ## Before class: Readings, resources, and tasks
--  Macksey, R. (1997). [Foreword](https://iu.instructure.com/files/185344010/download?download_frd=1) (J. E. Lewin, Trans.). In G. Genette, *Paratexts: Thresholds of interpretation* (J. E. Lewin, Trans.) (pp. xi-xxii). Cambridge: Cambridge UP. (Original work published 1987)
-- Genette, G. (1997). [Introduction](https://iu.instructure.com/files/185344019/download?download_frd=1). *Paratexts: Thresholds of interpretation* (J. E. Lewin, Trans.) (pp. 1-15). Cambridge: Cambridge UP. (Original work published 1987)
-- Barker, M. (2017). Speaking of ‘paratexts’: A theoretical revisitation. *Journal of Fandom Studies, 5*(3), 235-249. Retrieved from <https://iu.instructure.com/files/169194256/download?download_frd=1>
-- Browse [Comic Book Paratexts](https://biblicon.org/cbp/)
 
+**required**
+
+- Genette, G. (1997). [Introduction](https://iu.instructure.com/files/folder/users_3607307/readings?preview=199668171). *Paratexts: Thresholds of interpretation* (J. E. Lewin, Trans.) (pp. 1-15). Cambridge: Cambridge UP. (Original work published 1987)
+- Walsh, J. A. (2025). “‘“Here’s What You Get’:
+An Introduction to Comic Book Paratexts.” _Comic Book Paratexts_. Retrieved from <https://biblicon.org/cbp/cbp.html>.
+
+**optional**
 <!-- 42 pp. -->
-### Recommended but optional reading
-- Stein, D. (2013). [Superhero comics and the authorizing functions of the comic book paratext](https://iu.instructure.com/files/185344009/download?download_frd=1). In D. Stein & J.-N. Thon (Eds.), *From comic strips to graphic novels: Contributions to the theory and history of graphic narrative* (pp. 155-189). Berlin: De Gruyter.
+- Barker, M. (2017). [Speaking of ‘paratexts’: A theoretical revisitation](https://iu.instructure.com/files/folder/users_3607307/readings?preview=149972474). *Journal of Fandom Studies, 5*(3), 235-249.
+- Stein, D. (2013). [Superhero comics and the authorizing functions of the comic book paratext](https://iu.instructure.com/files/folder/users_3607307/readings?preview=199668170). In D. Stein & J.-N. Thon (Eds.), *From comic strips to graphic novels: Contributions to the theory and history of graphic narrative* (pp. 155-189). Berlin: De Gruyter.
 
 
 ## In class
