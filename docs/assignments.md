@@ -7,7 +7,6 @@
 | [Fanzine](assignment-fanzine.md)                               | 100     | 03/06/2026  |
 | [Final Project Proposals](assignment-final-project-proposal.md)|  50     | 03/27/2026  |
 | [Tales from the Crypt](assignment-tales-from-the-crypt.md)     | 100     | 04/03/2026  |
-
 | [Fan Activity and Reflection](assignment-fan-activity.md)      | 150     | 04/17/2026  |
 | [Final Project Video Presentation](assignment-video.md)        |  50     | 05/01/2026  |
 | [Final Project](assignment-final-project.md)                   | 250     | 05/01/2026  |
