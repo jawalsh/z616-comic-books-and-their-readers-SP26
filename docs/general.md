@@ -27,7 +27,7 @@ By the end of this course, students will be able to:
 7. **Communicate findings and datasets** to academic and professional audiences through:
    - A **written hybrid research/data paper**, and
    - A **short video presentation** that explains methods, data, and findings.
-8. **Reflect critically and ethically** on their own positionality as readers/fans and on issues of access, consent, and power in researching fan communities (especially online).
+8. **Reflect critically and ethically** on their own positionality as readers/fans and on issues of access, consent, and power in researching fan communities.
 
 ## About your instructor
 <img style="float:left;margin-right:1em;border:1px solid black;" alt="Photograph portrait of John Walsh" src="images/jawalsh.jpg"/>
