@@ -20,17 +20,21 @@ This week we will explore the topic of comic book fan mail and learn techniques 
 
 ### Readings
 
+* Grimmer, J., & Stewart, B. M. (2013). *Text as data: The promise and pitfalls of automatic content analysis methods for political texts*. *American Political Science Review, 107*(2), 267–297. <https://doi.org/10.1017/S000305541300007X>
+* Underwood, T. (2023). *Machine learning and human perspective*. *The Stone and the Shell*. <https://tedunderwood.com/2023/04/14/machine-learning-and-human-perspective/>
 * [Comic book letter column.](https://en.wikipedia.org/wiki/Comic_book_letter_column). _[Wikipedia.](http://wikipedia.org/)_. <!-- 8 pp. -->
 * [Letterhack.](https://en.wikipedia.org/wiki/Letterhack). _[Wikipedia.](http://wikipedia.org/)_. <!-- 1 pp. -->
+
+#### Recommended but optional reading
 * Misemer, L. (2020). [Reading Comics at the Threshold: A Round Table on Letter Columns & Other Comics Paratexts (Part 1).](https://themiddlespaces.com/2020/09/15/reading-comics-at-the-threshold-part-1/). [The Middle Spaces: Comics. Music. Culture.](https://themiddlespaces.com/) <!-- 9 pp. -->
 * Kashtan, A. (2020). How can a comic book’s use of paratexts help it appeal to young readers? in [Reading Comics at the Threshold: A Round Table on Letter Columns & Other Comics Paratexts (Part 3).](https://themiddlespaces.com/2020/09/29/reading-comics-at-the-threshold-part-3/). Ed. L. Misemer. [The Middle Spaces: Comics. Music. Culture..](https://themiddlespaces.com/) <!-- 8 pp. -->
+* Walsh, J. A, Martin, S., & St. Germain, J. (2017) [“The Spider’s Web”: An analysis of fan mail from _Amazing Spider-Man_, 1963–1995](https://f001.backblazeb2.com/file/gnrlfs/tr/walsh2017.pdf). Poster presented at the Comics Arts Conference / Comic-Con International, San Diego, CA, July 22, 2017.
+* Underwood, T. (2015). Seven ways humanists are using computers to understand text. Retrieved from [https://tedunderwood.com/2015/06/04/seven-ways-humanists-are-using-computers-to-understand-text/.](https://tedunderwood.com/2015/06/04/seven-ways-humanists-are-using-computers-to-understand-text/) <!-- 9 pp. -->
 * Shoemaker, M. (2020). [Text Analytics.](https://guides.temple.edu/c.php?g=78518&p=505212). Temple University Libraries.
 * Wermer-Colan, A. (2020). [Computational Textual Analysis.](https://guides.temple.edu/corpusanalysis). Temple University Libraries.
 * Walsh, J. A., Martin, S., & St. Germain, J. (2018). [“The Spider’s Web”: An analysis of fan mail from Amazing Spider-Man, 1963–1995](https://f001.backblazeb2.com/file/gnrlfs/tr/Walsh+et+al+2018.pdf). In J. Laubrock, J. Wildfeuer, & A. Dunst (Eds.), _Empirical comics research: Digital, multimodal, and cognitive methods_ (pp. 62-84). New York: Routledge. <!-- 23 pp. -->
 
-#### Recommended but optional reading
-* Walsh, J. A, Martin, S., & St. Germain, J. (2017) [“The Spider’s Web”: An analysis of fan mail from _Amazing Spider-Man_, 1963–1995](https://f001.backblazeb2.com/file/gnrlfs/tr/walsh2017.pdf). Poster presented at the Comics Arts Conference / Comic-Con International, San Diego, CA, July 22, 2017.
-* Underwood, T. (2015). Seven ways humanists are using computers to understand text. Retrieved from [https://tedunderwood.com/2015/06/04/seven-ways-humanists-are-using-computers-to-understand-text/.](https://tedunderwood.com/2015/06/04/seven-ways-humanists-are-using-computers-to-understand-text/) <!-- 9 pp. -->
+
 
 ### IT Skills
 

@@ -15,6 +15,7 @@ This week we will explore comics in special collections and archives and how suc
 - _find_ specific items in major comics-related collections
  
 ## Before class: Readings, resources, and tasks
+  - Yakel, E., & Torres, D. A. (2003). AI: Archival intelligence and user expertise. _American Archivist, 66_(1), 51–78.
   - Miller, R. (2018). From the Archives: The Queer Zine Archive Project. _Inks, 2_(3), 369–389. <https://doi.org/10.1353/ink.2018.0025>
   - Pflug, W. (2021). From the Archives: Vernon E. Grant Collection. _Inks, 5_(2), 209–224. <https://doi.org/10.1353/ink.2021.0011>
   
