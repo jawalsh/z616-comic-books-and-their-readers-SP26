@@ -14,14 +14,14 @@ This week we will explore the topic of the paratext and examine more closely par
 
 **required**
 
-- Genette, G. (1997). [Introduction](https://iu.instructure.com/files/folder/users_3607307/readings?preview=199668171). *Paratexts: Thresholds of interpretation* (J. E. Lewin, Trans.) (pp. 1-15). Cambridge: Cambridge UP. (Original work published 1987)
+- Genette, G. (1997). [Introduction](https://indiana.sharepoint.com/:b:/r/sites/msteams_36a456/Shared%20Documents/z616/genette1997.pdf). *Paratexts: Thresholds of interpretation* (J. E. Lewin, Trans.) (pp. 1-15). Cambridge: Cambridge UP. (Original work published 1987)
 - Walsh, J. A. (2025). “‘“Here’s What You Get’:
 An Introduction to Comic Book Paratexts.” _Comic Book Paratexts_. Retrieved from <https://biblicon.org/cbp/cbp.html>.
 
 **optional**
 <!-- 42 pp. -->
-- Barker, M. (2017). [Speaking of ‘paratexts’: A theoretical revisitation](https://iu.instructure.com/files/folder/users_3607307/readings?preview=149972474). *Journal of Fandom Studies, 5*(3), 235-249.
-- Stein, D. (2013). [Superhero comics and the authorizing functions of the comic book paratext](https://iu.instructure.com/files/folder/users_3607307/readings?preview=199668170). In D. Stein & J.-N. Thon (Eds.), *From comic strips to graphic novels: Contributions to the theory and history of graphic narrative* (pp. 155-189). Berlin: De Gruyter.
+- Barker, M. (2017). [Speaking of ‘paratexts’: A theoretical revisitation](https://indiana.sharepoint.com/:b:/r/sites/msteams_36a456/Shared%20Documents/z616/barker2017.pdf). *Journal of Fandom Studies, 5*(3), 235-249.
+- Stein, D. (2013). [Superhero comics and the authorizing functions of the comic book paratext](https://indiana.sharepoint.com/:b:/r/sites/msteams_36a456/Shared%20Documents/z616/stein2013.pdf). In D. Stein & J.-N. Thon (Eds.), *From comic strips to graphic novels: Contributions to the theory and history of graphic narrative* (pp. 155-189). Berlin: De Gruyter.
 
 
 ## In class

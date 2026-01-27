@@ -14,13 +14,13 @@ This week we will continue to explore the topics of comic book culture, fans, an
 ## Before class: Readings, resources, and tasks
 
 **required**
-- Woo, B. (2021). [Asking fans questions: The ethnographic interview](https://iu.instructure.com/files/folder/users_3607307/readings?preview=199536292). *A Fan Studies Primer : Method, Research, Ethics* (pp. 97-110). Iowa City: University of Iowa Press.
-- Ellis, C., Adams, T. E., & Bochner, A. P. (2011). *Autoethnography: An overview*. *Forum Qualitative Sozialforschung / Forum: Qualitative Social Research, 12*(1), Article 10. <https://iu.instructure.com/files/folder/users_3607307/readings?preview=199536293>
+- Woo, B. (2021). [Asking fans questions: The ethnographic interview](https://indiana.sharepoint.com/:b:/r/sites/msteams_36a456/Shared%20Documents/z616/woo2021.pdf). *A Fan Studies Primer : Method, Research, Ethics* (pp. 97-110). Iowa City: University of Iowa Press.
+- Ellis, C., Adams, T. E., & Bochner, A. P. (2011). [Autoethnography: An overview](https://indiana.sharepoint.com/:b:/r/sites/msteams_36a456/Shared%20Documents/z616/ellis2011.pdf). *Forum Qualitative Sozialforschung / Forum: Qualitative Social Research, 12*(1), Article 10. 
 
 **optional**
-- Woo, B., Beaty, B., & Campbell, M. (2020). [Theorizing comic cons](https://iu.instructure.com/files/185344006/download?download_frd=1). Journal of Fandom Studies 8(1), 9-31. <https://doi.org/10.1386/jfs_00007_1>
-- Hills, M. (2021). [Fan studies’ autoethnography: A Method for Self-Learning and Limit-Testing in Neoliberal Times?](https://iu.instructure.com/files/folder/users_3607307/readings?preview=199536290). *A Fan Studies Primer : Method, Research, Ethics* (pp. 144-160). Iowa City: University of Iowa Press.
-- Pustz, M. (1999). [Discovering comic book culture](https://iu.instructure.com/files/folder/users_3607307/readings?preview=199536289). *Comic book culture: Fanboys and true believers*. Jackson: University Press of Mississippi.
+- Woo, B., Beaty, B., & Campbell, M. (2020). [Theorizing comic cons](https://indiana.sharepoint.com/:b:/r/sites/msteams_36a456/Shared%20Documents/z616/woo2020.pdf). Journal of Fandom Studies 8(1), 9-31. <https://doi.org/10.1386/jfs_00007_1>
+- Hills, M. (2021). [Fan studies’ autoethnography: A Method for Self-Learning and Limit-Testing in Neoliberal Times?](https://indiana.sharepoint.com/:b:/r/sites/msteams_36a456/Shared%20Documents/z616/hills2021.pdf). *A Fan Studies Primer : Method, Research, Ethics* (pp. 144-160). Iowa City: University of Iowa Press.
+- Pustz, M. (1999). [Discovering comic book culture](https://indiana.sharepoint.com/:b:/r/sites/msteams_36a456/Shared%20Documents/z616/Pustz_ch2_1999.pdf). *Comic book culture: Fanboys and true believers*. Jackson: University Press of Mississippi.
 
 
 ## In class

@@ -19,11 +19,11 @@ This week we will explore the topic of fandom studies as an academic discipline 
 ## Before class: Readings, resources, and tasks
 
 **Required:**
-Busse, K., & Gray, J. (2011). [Fan cultures and fan communities](https://iu.instructure.com/files/folder/users_3607307/readings?preview=199520020). In V. Nightingale (Ed.), *The handbook of media audiences* (pp. 425–443). Wiley-Blackwell.
+Busse, K., & Gray, J. (2011). [Fan cultures and fan communities](https://indiana.sharepoint.com/:b:/r/sites/msteams_36a456/Shared%20Documents/z616/busse_and_gray_2011.pdf). In V. Nightingale (Ed.), *The handbook of media audiences* (pp. 425–443). Wiley-Blackwell.
 
 
 **Optional:**
-- Jenkins, H. (2012). “[Get a Life!](https://iu.instructure.com/files/folder/users_3607307/readings?preview=199505689)”: Fans, Poachers, Nomads. *Textual Poachers* (2nd ed.) (pp. 9-49). New York, NY: Routledge.
+- Jenkins, H. (2012). “[Get a Life!](https://indiana.sharepoint.com/:b:/r/sites/msteams_36a456/Shared%20Documents/z616/jenkins_get_a_life2012.pdf)”: Fans, Poachers, Nomads. *Textual Poachers* (2nd ed.) (pp. 9-49). New York, NY: Routledge.
 - [Henry Jenkins on Participatory Culture](https://youtu.be/1gPm-c1wRsQ)  
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/1gPm-c1wRsQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="max-width:80%; margin:auto;"></iframe>
  
@@ -31,7 +31,7 @@ Busse, K., & Gray, J. (2011). [Fan cultures and fan communities](https://iu.inst
 - review class comic archive and [online collections](comics-studies-resources.html#digital-comics-collections)
 - Interview another student about their fandom, and report back to the class. Start with 
 “What type of fandom do you want to tell me about (comics, film, manga, music, pokemon, etc.)?” and adapt the questions below as necessary.   
-Questions from Duncan, R., Smith, M. J., &amp; Levitz, P. (2015). [The Comic Book Readers](https://iu.instructure.com/files/folder/users_3607307/readings?preview=199520035). _The Power of Comics_ (2nd ed.) (pp. 297-326). London: Bloomsbury.
+Questions from Duncan, R., Smith, M. J., &amp; Levitz, P. (2021). [The Comic Book Readers](https://indiana.sharepoint.com/:b:/r/sites/msteams_36a456/Shared%20Documents/z616/duncan_comic_book_readers_2021.pdf). _The Power of Comics_ (2nd ed.) (pp. 297-326). London: Bloomsbury.
 	- When did you begin reading comic books?
 	- Did you stop reading comic books at any point? If so, why? What prompted you to start again?
 	- What do you like about the comic book medium? How have you benefited from reading comic books?
