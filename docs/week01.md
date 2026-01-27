@@ -72,9 +72,9 @@ You *do* need a working familiarity with how comics studies frames its object an
 
 Beginning in Week 2, we will shift our focus from *what comics and comics readers are* to *how scholars study fans and readers*, using specific research methods.
 
-- Hatfield, Charles (2020). [Comic Books](https://iu.instructure.com/files/folder/users_3607307/readings?preview=199520045). _Comics Studies: A Guidebook_ (pp. 25-39). New Brunswick, NJ: Rutgers University Press. <!-- 15 pp. -->
-- Nel, Philip (2020). [Children and Comics](https://iu.instructure.com/files/folder/users_3607307/readings?preview=199520040). _Comics Studies: A Guidebook_ (pp. 126-137). New Brunswick, NJ: Rutgers University Press. <!-- 12 pp. -->
-- Duncan, R., Smith, M. J., &amp; Levitz, P. (2015). [The Comic Book Readers](https://iu.instructure.com/files/folder/users_3607307/readings?preview=199520035). _The Power of Comics_ (2nd ed.) (pp. 297-326). London: Bloomsbury. <!-- 30 pp. -->
+- Hatfield, Charles (2020). [Comic Books](https://indiana.sharepoint.com/:b:/r/sites/msteams_36a456/Shared%20Documents/z616/hatfield2020.pdf). _Comics Studies: A Guidebook_ (pp. 25-39). New Brunswick, NJ: Rutgers University Press. <!-- 15 pp. -->
+- Nel, Philip (2020). [Children and Comics](https://indiana.sharepoint.com/:b:/r/sites/msteams_36a456/Shared%20Documents/z616/nel2020.pdf). _Comics Studies: A Guidebook_ (pp. 126-137). New Brunswick, NJ: Rutgers University Press. <!-- 12 pp. -->
+- Duncan, R., Smith, M. J., &amp; Levitz, P. (2015). [The Comic Book Readers](https://indiana.sharepoint.com/:b:/r/sites/msteams_36a456/Shared%20Documents/z616/duncan_comic_book_readers_2021.pdf). _The Power of Comics_ (2nd ed.) (pp. 297-326). London: Bloomsbury. <!-- 30 pp. -->
 <!-- 57 pp. -->
  
 ## In class
