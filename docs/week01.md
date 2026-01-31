@@ -78,10 +78,13 @@ Beginning in Week 2, we will shift our focus from *what comics and comics reader
 <!-- 57 pp. -->
  
 ## In class
-- introductions
-- review of syllabus and assignments
-- Discussion of week 1 readings
-- Walsh, J. A. (2019). [Katy, Millie, Misty, and me: Participatory culture in teen fashion and humor
-comics](https://scholarworks.iu.edu/dspace/bitstreams/6a9df169-1505-40cd-a85d-2d0be24a7d73/download). Paper presented at Bedephilia since the 1960s: Sub-culture and shared culture, Cité
-internationale de la bande dessinée et de l’Image, Angoulême, France, June 27, 2019.
-- look ahead at [week 2](week02.md)
+
+Class sessions will combine short lectures, discussion, and small-group activities.
+
+Week 1 will include:
+- Introductions and discussion of students’ own experiences as comics readers or media fans
+- Overview of course goals, syllabus, and major assignments
+- Guided discussion of the week’s readings, focusing on how comics studies defines comics and conceptualizes readers
+- Collaborative identification of key terms related to comics form, production, and historical periods
+- [Case study](https://scholarworks.iu.edu/dspace/bitstreams/6a9df169-1505-40cd-a85d-2d0be24a7d73/download): teen humor and fashion comics (Katy Keene, Millie the Model, Misty) and reader participation
+- Preview of the research methods we will explore beginning in [Week 2](week02.md)
