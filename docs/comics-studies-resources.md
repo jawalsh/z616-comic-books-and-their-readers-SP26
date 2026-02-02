@@ -16,6 +16,7 @@ _Gif by [Callen](https://kerrycallen.blogspot.com/2012/10/animated-kirby-machine
 - [Journals](#journals)
 - [News](#news)
 - [Conferences](#conferences)
+- [Conventions](#conventions)
 - [Bibliographies](#bibliographies)
 - [Digital Comics Collections](#digital-comics-collections)
 - [Digital Comics Readers](#digital-comics-readers)
@@ -111,6 +112,14 @@ _Gif by [Callen](https://kerrycallen.blogspot.com/2012/10/animated-kirby-machine
 * [Popular Culture Association][22]
 * [Fan Studies Network][46] (UK)
 * [Fan Studies Network North America][47]
+
+## Conventions
+<a id="conventions"/>
+* [The Unofficial Official Comic Convention List](https://comicconventionlist.com/)
+* [San Diego Comic-Con International](https://www.comic-con.org/cc/)
+* [Indiana Comic and Pop Culture Convention](https://indianacomicconvention.com)
+* [C2E2 Chicago Comic and Entertainment Expo](https://www.c2e2.com)
+* [New York Comic Con](https://www.newyorkcomiccon.com)
 
 ## Bibliographies
 <a id="bibliographies"/>
