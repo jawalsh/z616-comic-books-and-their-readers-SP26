@@ -28,7 +28,7 @@ Use this checklist **48–72 hours before class** and again the morning of class
 - [x] Duncan et al.  
 - [x] Readers & evidence comparison slide  
 - [x] Teen comics case study anchors (Katy / Millie / Misty)  
-- [ ] Week 2 preview slide  
+- [x] Week 2 preview slide  
 
 ---
 
