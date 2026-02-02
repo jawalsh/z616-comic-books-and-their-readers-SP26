@@ -5,9 +5,9 @@ Use this checklist **48–72 hours before class** and again the morning of class
 ---
 
 ## Course Logistics
-- [ ] Final syllabus (PDF) uploaded and links verified  
-- [ ] *IN CLASS* section reflects activity-forward language  
-- [ ] Assignment overview slide or 1-page handout prepared  
+- [x] Final syllabus (PDF) uploaded and links verified  
+- [x] *IN CLASS* section reflects activity-forward language  
+- [x] Assignment overview slide or 1-page handout prepared  
 
 ---
 
@@ -21,11 +21,13 @@ Use this checklist **48–72 hours before class** and again the morning of class
 ---
 
 ## Slides & Visuals
-- [ ] Agenda slide (two sessions + break)  
-- [ ] Course framing slide (what this course is really about)  
-- [ ] Hatfield: defining comics (high-level)  
-- [ ] Readers & evidence comparison slide  
-- [ ] Teen comics case study anchors (Katy / Millie / Misty)  
+- [x] Agenda slide (two sessions + break)  
+- [x] Course framing slide (what this course is really about)  
+- [x] Hatfield: defining comics (high-level)
+- [x] Nel
+- [x] Duncan et al.  
+- [x] Readers & evidence comparison slide  
+- [x] Teen comics case study anchors (Katy / Millie / Misty)  
 - [ ] Week 2 preview slide  
 
 ---
