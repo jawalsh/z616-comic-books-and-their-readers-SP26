@@ -130,7 +130,6 @@ _Gif by [Callen](https://kerrycallen.blogspot.com/2012/10/animated-kirby-machine
 <a id="digital-comics-readers"/>
 * [Simple Comic](https://github.com/MaddTheSane/Simple-Comic/) (GitHub site)
 	* [Simple Comic](https://apps.apple.com/us/app/simple-comic/id1497435571) (Mac App Store) 
-	* [Simple Comic](
 * [OpenComic](https://github.com/ollm/OpenComic)
 
 ## Archive and Library Supplies
