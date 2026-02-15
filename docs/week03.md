@@ -10,6 +10,12 @@ This week we will continue to explore the topics of comic book culture, fans, an
 - *explain* ways in which fandom emerged as a virtual culture through the use of print media
 - *discuss* the role of conventions and fan publications in the development of fan culture
 - *summarize* the potential conflict between participatory culture and cultural industries.
+- *define* ethnography and autoethnography as qualitative research approaches
+- *design* open-ended interview questions appropriate for fan research
+- *analyze* documentary film as a constructed representation of fandom
+- *apply* autoethnographic principles to the Fan Activity assignment
+- *evaluate* ethical and positional challenges in studying fan communities
+
 
 ## Before class: Readings, resources, and tasks
 
