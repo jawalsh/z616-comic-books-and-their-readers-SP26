@@ -24,13 +24,14 @@ Choose one of the following (or propose an alternative):
 
 - Submit one or more substantive letters/emails to a comic book publication.
 - Attend a comic book convention, such as:
-  - Indiana Comic Convention
-  - Great Lakes Comic Convention
-  - Lexington Comic and Toy Convention
-  - Quad Con
-  - Fan Expo Cleveland
-  - FantastiCon
-  - (others listed at comic-cons.xyz or conventionscene.com)
+  - [Indiana Comic Convention](https://indianacomicconvention.com)
+  - [C2E2](https://www.c2e2.com/)
+  - [Great Lakes Comic Convention](https://www.greatlakescomicconvention.com)
+  - [Lexington Comic and Toy Convention](http://www.lexingtoncomiccon.com/)
+  - [Quad Con](https://quadcitycon.com)
+  - [Fan Expo Cleveland](https://fanexpohq.com/fanexpocleveland/)
+  - [FantastiCon](https://www.fantasticon.net)
+  - more at <https://comic-cons.xyz> and <http://www.conventionscene.com/schedules/comicbookconventions/>
 - Engage in substantive online interaction with comic creators or fans (e.g., discussion threads, social media exchanges, forum participation).
 
 “Substantive” means meaningful engagement — not a brief comment or passive attendance.
