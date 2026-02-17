@@ -22,6 +22,7 @@ This week we will continue to explore the topics of comic book culture, fans, an
 **required**
 - Woo, B. (2021). [Asking fans questions: The ethnographic interview](https://indiana.sharepoint.com/:b:/r/sites/msteams_36a456/Shared%20Documents/z616/woo2021.pdf). *A Fan Studies Primer : Method, Research, Ethics* (pp. 97-110). Iowa City: University of Iowa Press.
 - Ellis, C., Adams, T. E., & Bochner, A. P. (2011). [Autoethnography: An overview](https://indiana.sharepoint.com/:b:/r/sites/msteams_36a456/Shared%20Documents/z616/ellis2011.pdf). *Forum Qualitative Sozialforschung / Forum: Qualitative Social Research, 12*(1), Article 10. 
+- Participate in online discussion on Canvas.
 
 **optional**
 - Woo, B., Beaty, B., & Campbell, M. (2020). [Theorizing comic cons](https://indiana.sharepoint.com/:b:/r/sites/msteams_36a456/Shared%20Documents/z616/woo2020.pdf). Journal of Fandom Studies 8(1), 9-31. <https://doi.org/10.1386/jfs_00007_1>
