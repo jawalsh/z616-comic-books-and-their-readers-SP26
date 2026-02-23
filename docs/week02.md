@@ -20,7 +20,7 @@ This week we will explore the topic of fandom studies as an academic discipline 
 
 **Required:**
 - Busse, K., & Gray, J. (2011). [Fan cultures and fan communities](https://indiana.sharepoint.com/:b:/r/sites/msteams_36a456/Shared%20Documents/z616/busse_and_gray_2011.pdf). In V. Nightingale (Ed.), *The handbook of media audiences* (pp. 425–443). Wiley-Blackwell.
-- Particpate in online discussion on Canvas.
+- Participate in online discussion on Canvas.
 
 
 

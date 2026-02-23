@@ -14,8 +14,9 @@ This week we will learn about the history of comics fanzines and prozines and, i
  
 ## Before class: Readings, resources, and tasks
 - O’Brien, E. (2012). [Zines: A personal history](https://indiana.sharepoint.com/:b:/r/sites/msteams_36a456/Shared%20Documents/z616/obrien2012.pdf). New England Review, 33(2), 89–99. Retrieved from <https://muse.jhu.edu/article/484798>
-- Schelly, W. (2003). [Fanzine Mania](https://indiana.sharepoint.com/:b:/r/sites/msteams_36a456/Shared%20Documents/z616/schelly_golden_ch8_2003.pdf) . _The golden age of comic fandom_ (Rev. ed.). Seattle, WA: Hamster Press.
+- Schelly, W. (2003). [Fanzine Mania](https://indiana.sharepoint.com/:b:/r/sites/msteams_36a456/Shared%20Documents/z616/schelly_golden_ch8_2003.pdf). _The golden age of comic fandom_ (Rev. ed.). Seattle, WA: Hamster Press.
 - Ratto, M. (2011). [Critical making: Conceptual and material studies in technology and social life](https://indiana.sharepoint.com/:b:/r/sites/msteams_36a456/Shared%20Documents/z616/ratto2011.pdf). *The Information Society, 27*(4), 252–260. <https://doi.org/10.1080/01972243.2011.583819>
+- Participate in online discussion on Canvas.
 
 ### Fanzine production activity
 - Prepare for the fanzine production activity:
