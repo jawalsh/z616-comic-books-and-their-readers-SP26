@@ -28,3 +28,4 @@ This week we will learn about the history of comics fanzines and prozines and, i
 ## In class
 
 - Fanzine production
+	- [Fanzine planning worksheet](week4_fanzine_planning_worksheet.md) ([pdf](assets/pdf/week4_fanzine_planning_worksheet.pdf))
