@@ -88,3 +88,5 @@ Week 1 will include:
 - Collaborative identification of key terms related to comics form, production, and historical periods
 - [Case study](https://scholarworks.iu.edu/dspace/bitstreams/6a9df169-1505-40cd-a85d-2d0be24a7d73/download): teen humor and fashion comics (Katy Keene, Millie the Model, Misty) and reader participation
 - Preview of the research methods we will explore beginning in [Week 2](week02.md)
+
+[slides](https://jawalsh.github.io/reveal.js/z616_week1.html)

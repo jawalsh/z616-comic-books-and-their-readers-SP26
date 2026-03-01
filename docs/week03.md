@@ -35,3 +35,5 @@ This week we will continue to explore the topics of comic book culture, fans, an
 - Spurlock, M. (Director). (2012). *[Comic con episode IV: A fan’s hope](https://youtu.be/ZN41gXXUlLI)*. United States: Gravitas Ventures. *We will view this film in class*.    
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZN41gXXUlLI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="max-width:80%; margin:auto;"></iframe>
 - Next week
+
+[slides](https://jawalsh.github.io/reveal.js/z616_week3.html)
