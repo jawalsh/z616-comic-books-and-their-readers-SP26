@@ -20,8 +20,8 @@ This week we will explore the topic of comic book fan mail and learn techniques 
 
 ### Readings
 
-* Grimmer, J., & Stewart, B. M. (2013). *Text as data: The promise and pitfalls of automatic content analysis methods for political texts*. *American Political Science Review, 107*(2), 267–297. <https://doi.org/10.1017/S000305541300007X>
-* Underwood, T. (2023). *Machine learning and human perspective*. *The Stone and the Shell*. <https://tedunderwood.com/2023/04/14/machine-learning-and-human-perspective/>
+* Grimmer, J., & Stewart, B. M. (2013). *Text as data: The promise and pitfalls of automatic content analysis methods for political texts*. *American Political Science Review, 107*(2), 267–297. <https://doi.org/10.1093/pan/mps028>
+* Underwood, T. (2020). “[Machine learning and human perspective](https://indiana.sharepoint.com/:b:/r/sites/msteams_36a456/Shared%20Documents/z616/underwood2020.pdf?csf=1&web=1&e=DVGZKs).” *PMLA, 135*(1), 92-209. <https://doi.org/10.1632/pmla.2020.135.1.92> 
 * [Comic book letter column.](https://en.wikipedia.org/wiki/Comic_book_letter_column). _[Wikipedia.](http://wikipedia.org/)_. <!-- 8 pp. -->
 * [Letterhack.](https://en.wikipedia.org/wiki/Letterhack). _[Wikipedia.](http://wikipedia.org/)_. <!-- 1 pp. -->
 
