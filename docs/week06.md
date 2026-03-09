@@ -38,3 +38,5 @@ In one or more paragraphs:
 - Lilly Library Program
 - Discussion
 - Next week
+
+[slides](https://jawalsh.github.io/reveal.js/z616_week6.html)
