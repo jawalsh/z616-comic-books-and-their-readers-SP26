@@ -18,6 +18,7 @@ This week we will explore comics in special collections and archives and how suc
   - Yakel, E., & Torres, D. A. (2003). [AI: Archival intelligence and user expertise](https://indiana.sharepoint.com/:b:/r/sites/msteams_36a456/Shared%20Documents/z616/yakel_torres_2003.pdf?csf=1&web=1&e=pb8Rh7). _American Archivist, 66_(1), 51–78.
   - Miller, R. (2018). From the Archives: The Queer Zine Archive Project. _Inks, 2_(3), 369–389. <https://doi.org/10.1353/ink.2018.0025>
   - Pflug, W. (2021). From the Archives: Vernon E. Grant Collection. _Inks, 5_(2), 209–224. <https://doi.org/10.1353/ink.2021.0011>
+  - Bychowski, B. (2020). Superheroes and Shocking Affairs, or, Adventures in Cataloging Popular Literature. Rare Book School. <https://rarebookschool.org/rbs-online/superheroes-and-shocking-affairs-or-adventures-in-cataloging-popular-literature/>
  
 <!-- 
 ### Discussion: Paratext show and tell
