@@ -19,7 +19,7 @@ This week we will learn about imaging and OCR tools for converting images of com
      <iframe width="560" height="315" src="https://www.youtube.com/embed/ToEu8e7pKi4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 *   Anthony, L. (2022). [AncConc 4 Tutorials](https://youtube.com/playlist?list=PLiRIDpYmiC0R3Vv5NncOuIqaUcyLLW7Ae). _Watch **all** the tutorials_; in total they run about 90 minutes.
 *   Froehlich, H. (2015, 2022). [Corpus Analysis with Antconc](https://programminghistorian.org/en/lessons/corpus-analysis-with-antconc). *[Programming Historian](https://programminghistorian.org/)*. <!-- about 9 pp. considering all screen shots. -->
-*   Underwood, T. (2012). Topic modeling made just simple enough. Retrieved from <http://tedunderwood.com/2012/04/07/topic-modeling-made-just-simple-enough/> <!-- 11 pp. -->
+<!-- *   Underwood, T. (2012). Topic modeling made just simple enough. Retrieved from <http://tedunderwood.com/2012/04/07/topic-modeling-made-just-simple-enough/> --> <!-- 11 pp. -->
 *   Goldstone, G., & Underwood, T. (2012). What can topic models of PMLA teach us about the history of literary scholarship? Retrieved from <https://tedunderwood.com/2012/12/14/what-can-topic-models-of-pmla-teach-us-about-the-history-of-literary-scholarship/> <!-- 11 pp. -->
 *   Graham, S., Weingart, S., & Milligan, I. (2012). Getting Started with Topic Modeling and MALLET. Retrieved from <http://programminghistorian.org/lessons/topic-modeling-and-mallet> <!-- about 11 pp. considering screen shots -->
 
