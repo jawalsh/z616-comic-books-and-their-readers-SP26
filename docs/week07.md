@@ -10,11 +10,17 @@
 This week we will explore the topic of comic book fan mail and learn techniques for building a corpus of fan mail for research investigations.  
 
 ## Weekly Learning Objectives
+- *use* software tools to convert images of comic book fan mail into searchable digital text.
+- *define* what constitutes a research corpus in comics and fandom studies
+- *design* inclusion/exclusion criteria for a fan mail corpus
+- *apply* consistent file naming conventions to research materials
+- *organize* a small corpus using folders and basic metadata
+- *evaluate* how corpus construction shapes interpretation 
 - *define* key terms, such as *letter of comment*, *letterhack*, and *text analysis*.
 - *discuss* scholarship on comic books fan mail and other paratexts.
 - *express* basic concepts and goals of computational text analysis.
 - *analyze* a small set of fan mails examples from different decades.
-- *use* software tools to convert images of comic book fan mail into searchable digital text. 
+ 
 
 ## Before class: Readings, resources, and tasks
 
