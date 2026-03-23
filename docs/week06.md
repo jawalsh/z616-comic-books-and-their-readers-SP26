@@ -39,4 +39,4 @@ In one or more paragraphs:
 - Discussion
 - Next week
 
-[slides](https://jawalsh.github.io/reveal.js/z616_week6.html)
+[slides](https://jawalsh.github.io/reveal.js/z616_week06.html)

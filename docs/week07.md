@@ -103,4 +103,6 @@ After working individual, we will get together in small groups to share our find
 * [Comic Book +](https://comicbookplus.com)
 * [Internet Archive](http://archive.org)
 
+[slides](https://jawalsh.github.io/reveal.js/z616_week07.html) 
+
 

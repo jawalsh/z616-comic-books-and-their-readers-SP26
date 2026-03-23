@@ -51,4 +51,4 @@ An Introduction to Comic Book Paratexts.” _Comic Book Paratexts_. Retrieved fr
 - Discuss [final project proposal](assignment-final-project-proposal.md)
 - [Next week](week06.md)
 
-[slides](https://jawalsh.github.io/reveal.js/z616_week5.html)
+[slides](https://jawalsh.github.io/reveal.js/z616_week05.html)
