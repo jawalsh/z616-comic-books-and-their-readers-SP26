@@ -10,18 +10,12 @@
 This week we will explore the topic of comic book fan mail and learn techniques for building a corpus of fan mail for research investigations.  
 
 ## Weekly Learning Objectives
-- *use* software tools to convert images of comic book fan mail into searchable digital text.
-- *define* what constitutes a research corpus in comics and fandom studies
-- *design* inclusion/exclusion criteria for a fan mail corpus
-- *apply* consistent file naming conventions to research materials
-- *organize* a small corpus using folders and basic metadata
-- *evaluate* how corpus construction shapes interpretation 
 - *define* key terms, such as *letter of comment*, *letterhack*, and *text analysis*.
 - *discuss* scholarship on comic books fan mail and other paratexts.
 - *express* basic concepts and goals of computational text analysis.
 - *analyze* a small set of fan mails examples from different decades.
+- *use* software tools to convert images of comic book fan mail into searchable digital text. 
  
-
 ## Before class: Readings, resources, and tasks
 
 ### Readings
@@ -64,12 +58,6 @@ This week we will explore the topic of comic book fan mail and learn techniques 
 *   iPadOS: <https://support.apple.com/en-us/HT210781>.
 *   iOS: <https://support.apple.com/en-us/HT200289>.
 
-#### Public Domain Comics / Downloadable Comics
-
-*   [Digital Comic Museum.](http://digitalcomicmuseum.com/)(DCM)
-*   [Comic Book +.](https://comicbookplus.com/)
-*   [Internet Archive](http://archive.org/)
-
 #### Tools used for today’s activities
 * [Adobe Acrobat][acrobat] (Part of Adobe Creative Cloud, available at <https://iuware.iu.edu>.)
 * [ABBYY FineReader][finereader]
@@ -79,11 +67,14 @@ This week we will explore the topic of comic book fan mail and learn techniques 
 
 ## In class
 
-- Lecture and tech demo
+## Lecture and tech demo (print to machine-readable text)
+
+Important: OCR is not the goal—building a structured corpus is the goal.
+
 - Creating screen shots
 - Performing OCR with [Adobe Acrobat][acrobat], [ABBYY FineReader][finereader], and [Tesseract][tesseract]
 - Exploring fanmail activity
-- Discussion
+
 
 ### Exploring fanmail activity
 
@@ -102,6 +93,28 @@ After working individual, we will get together in small groups to share our find
 * [Digital Comic Museum](http://digitalcomicmuseum.com/) (DCM)
 * [Comic Book +](https://comicbookplus.com)
 * [Internet Archive](http://archive.org)
+
+## Transition: From OCR to Corpus
+
+Computational analysis requires:
+
+- Clean text  
+- Consistent structure  
+- Defined units  
+- Metadata  
+
+> No corpus → No computation
+
+## Looking Ahead
+
+Next week, we will use your corpus to:
+
+- Count words and phrases  
+- Compare across issues and decades  
+- Identify patterns in fan discourse  
+
+> Today: build the dataset  
+> Next: analyze it
 
 [slides](https://jawalsh.github.io/reveal.js/z616_week07.html) 
 
