@@ -26,9 +26,17 @@ This week we will learn about imaging and OCR tools for converting images of com
 
 ## In class
 
+<!--
 - Lecture and demo: In the first half of the class I will demo text analysis tools that you read about this week: Voyant, AntConc, and Mallet.
      - Command-Line Basics:
 	     - [MacOS slides](https://jawalsh.github.io/reveal.js/command-line-unix-macos.html)
 	     - [Windows notes](windows_CMD_basics.md)
 	     - [Command-line practice](lab_cli.md)
 - Lab work: In the second half of class use any or all of these tools to explore your own text corpus, the texts in our [data](https://iu.instructure.com/courses/2204459/files/folder/data) folder in Canvas, or other texts you may find online. 
+-->
+
+- Brief lecture and demos of Voyant, AntConc, and MALLET, focusing on the kinds of questions each tool supports  
+- Guided, structured exercises using a shared corpus of Spider-Man fan letters  
+- Group discussion comparing results and reflecting on how different tools shape interpretation
+
+[slides](https://jawalsh.github.io/reveal.js/z616_week07.html)  
