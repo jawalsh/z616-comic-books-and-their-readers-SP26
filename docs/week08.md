@@ -6,7 +6,6 @@
 This week we will learn about imaging and OCR tools for converting images of comics, fanzines, and similar documents to searchable text, and we will learn about and use a few text analysis tools to analyze textual data about comics and comics readers.
 
 ## Weekly Learning Objectives
-- *Use* image-capture and OCR tools to *convert* images of comic book letters of comment pages into searchable text.
 - *Use* Voyant to *analyze* a corpus of letters of comment.
 - *Use* AntConc to *analyze* a corpus of letters of comment
 - *Use* Mallet to *generate* topic models from a corpus of letters of comment.

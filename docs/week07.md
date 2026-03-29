@@ -14,7 +14,7 @@ This week we will explore the topic of comic book fan mail and learn techniques 
 - *discuss* scholarship on comic books fan mail and other paratexts.
 - *express* basic concepts and goals of computational text analysis.
 - *analyze* a small set of fan mails examples from different decades.
-- *use* software tools to convert images of comic book fan mail into searchable digital text. 
+- *Use* image-capture and OCR tools to *convert* images of comic book letters of comment pages into searchable text.
  
 ## Before class: Readings, resources, and tasks
 
