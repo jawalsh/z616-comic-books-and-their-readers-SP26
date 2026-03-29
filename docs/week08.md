@@ -41,4 +41,4 @@ This week we will learn about imaging and OCR tools for converting images of com
 
 [_Amazing Spider-Man_ Fan Mail 1963-1995](https://indiana.sharepoint.com/:u:/r/sites/msteams_36a456/Shared%20Documents/z616/data_sets/amazing_spider-man_fanmail_1963-1995.zip) 
 
-[slides](https://jawalsh.github.io/reveal.js/z616_week07.html)  
+[slides](https://jawalsh.github.io/reveal.js/z616_week08.html)  
