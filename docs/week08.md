@@ -39,4 +39,6 @@ This week we will learn about imaging and OCR tools for converting images of com
 - Guided, structured exercises using a shared corpus of Spider-Man fan letters  
 - Group discussion comparing results and reflecting on how different tools shape interpretation
 
+[_Amazing Spider-Man_ Fan Mail 1963-1995](https://indiana.sharepoint.com/:u:/r/sites/msteams_36a456/Shared%20Documents/z616/data_sets/amazing_spider-man_fanmail_1963-1995.zip) 
+
 [slides](https://jawalsh.github.io/reveal.js/z616_week07.html)  
