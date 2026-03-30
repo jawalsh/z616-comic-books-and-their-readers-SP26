@@ -25,7 +25,7 @@ _Charles “Teenie” Harris. [Girl reading “Mickey Mouse and the Submarine Pi
 - Spring Break _(2026-03-16)_: No Class.
 - [Week 7](week07.md) _(2026-03-23)_: Corpus building and documentation
 - [Week 8](week08.md) _(2026-03-30)_: Text analysis for fan studies
-- [Week 9](week09.md) _(2026-04-06)_: NVivo / coding / OpenRefine “hands-on”
+- [Week 9](week09.md) _(2026-04-06)_: Content analysis and NVivo
 - [Week 10](week10.md) _(2026-04-13)_: Data modeling for comics and fandom
 - [Week 11](week11.md) _(2026-04-20)_: Visualization as argument
 - [Week 12](week12.md) _(2026-04-27)_: Fans-creator relations and research presentations

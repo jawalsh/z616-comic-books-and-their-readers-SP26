@@ -39,8 +39,14 @@ This week we will learn about imaging and OCR tools for converting images of com
 - Guided, structured exercises using a shared corpus of Spider-Man fan letters  
 - Group discussion comparing results and reflecting on how different tools shape interpretation
 
+### Comics-related text corpora
 [_Amazing Spider-Man_ Fan Mail 1963-1995](https://indiana.sharepoint.com/:u:/r/sites/msteams_36a456/Shared%20Documents/z616/data_sets/amazing_spider-man_fanmail_1963-1995.zip) 
 
 [MALLET Topic Model output files](https://indiana.sharepoint.com/:u:/r/sites/msteams_36a456/Shared%20Documents/z616/data_sets/mallet_demo.zip)
+
+### Other text corpora
+- [The Bible (Authorized, or King James, version)](https://f001.backblazeb2.com/file/gnrlfs/tr/kjv.zip)
+- [The Poems of Algernon Charles Swinburne, 6 vols. (London: Chatto and Windus, 1904)](https://f001.backblazeb2.com/file/gnrlfs/tr/swinburne_poems_1904_txt.zip)
+- [The Folger Shakespeare](https://shakespeare.folger.edu/downloads/txt/shakespeares-works_TXT_FolgerShakespeare.zip)
 
 [slides](https://jawalsh.github.io/reveal.js/z616_week08.html)  
