@@ -1,5 +1,5 @@
 {% include_relative header.md %}
-
+<!--
 # Week 9: Text analysis lab
 
 ## Summary
@@ -41,3 +41,6 @@ With your own texts related to your final project or with the text corpora below
 - [The Bible (Authorized, or King James, version)](https://f001.backblazeb2.com/file/gnrlfs/tr/kjv.zip)
 - [The Poems of Algernon Charles Swinburne, 6 vols. (London: Chatto and Windus, 1904)](https://f001.backblazeb2.com/file/gnrlfs/tr/swinburne_poems_1904_txt.zip)
 - [The Folger Shakespeare](https://shakespeare.folger.edu/downloads/txt/shakespeares-works_TXT_FolgerShakespeare.zip)
+
+
+-->
