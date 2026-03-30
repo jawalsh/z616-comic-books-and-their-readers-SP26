@@ -28,7 +28,7 @@ By the end of this week, you will be able to:
 - Saldaña, J. (2021). “[An Introduction to Codes and Coding](https://indiana.sharepoint.com/:b:/r/sites/msteams_36a456/Shared%20Documents/z616/saldan%CC%83a_ch1_2021.pdf)” from __The Coding Manual for Qualitative Researchers_.
 
 ### Install
-- NVivo, available from [https//iuware.iu.edu/](https//iuware.iu.edu/). 
+- NVivo, available from [https://iuware.iu.edu/](https://iuware.iu.edu/). 
  
 ## In Class
 
