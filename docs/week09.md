@@ -35,9 +35,11 @@ By the end of this week, you will be able to:
 - Brief introduction to qualitative coding as an interpretive method, including a short, guided example using a fan letter  
 - Introduction to NVivo (or a comparable tool), including basic setup and coding workflow  
 - Hands-on coding of selected fan mail from the _Amazing Spider-Man_ corpus, working individually or in small groups  
+  - [Codebook](content_anlysis_codebook.md)
 - Comparison and discussion of coding decisions across the class  
 - Collaborative revision of the coding scheme based on observations from the activity  
 - Brief reflection on how coded texts can be aggregated and used as a dataset for further analysis  
+
 
 
 ### Comics-related text corpora
