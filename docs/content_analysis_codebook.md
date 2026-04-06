@@ -38,7 +38,7 @@ Examples:
 - Mary Jane
 - proposals about Spider-Man’s future
 
-### 5.`Plot / Story Discussion`
+### 5.`Plot and Story Discussion`
 Comments about narrative events, specific issues, continuity, themes, or story direction.
 
 Examples:
@@ -46,7 +46,7 @@ Examples:
 - discussion of drug stories
 - proposals for future plots
 
-### 6.`Creator / Editorial Awareness`
+### 6.`Creator and Editorial Awareness`
 References to writers, artists, editors, Marvel policy, the Comics Code, or the making of comics.
 
 Examples:
@@ -63,7 +63,7 @@ Examples:
 - “us college guys”
 - parent-reader identity
 
-### 8.`Participation / Community`
+### 8.`Participation and Community`
 Evidence that comics fandom is social, collective, or participatory.
 
 Examples:
@@ -72,7 +72,7 @@ Examples:
 - readers imagined as a group
 - “Spider-Men of the world, unite!”
 
-### 9.`Request / Suggestion`
+### 9.`Request or Suggestion`
 Direct or indirect attempt to influence future comics.
 
 Examples:
@@ -81,7 +81,7 @@ Examples:
 - proposing a new setting or plot
 - urging Marvel to “use” its platform
 
-### 10.`Personal Connection / Social Context`
+### 10.`Personal Connection and Social Context`
 Links between comics and the writer’s life or broader social issues.
 
 Examples:
