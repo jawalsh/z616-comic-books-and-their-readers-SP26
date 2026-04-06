@@ -29,6 +29,8 @@ This week we will explore the topic of data, data sets (especially those related
 Library and presumed reading of Algernon Charles Swinburne. _Nineteenth-Century Data
 Collective_. <https://c19datacollective.com/data/swinburne-library/>
 
+- Participate in online discussion on Canvas.
+
 ### Download
 - [OpenRefine](https://openrefine.org/download.html)
 - [NVivo](https://iuware.iu.edu/) (search IUWare for `nvivo`); you will have to make an account with QSR
