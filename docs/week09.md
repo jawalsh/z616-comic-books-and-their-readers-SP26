@@ -47,4 +47,4 @@ By the end of this week, you will be able to:
 - “The Spider’s Web” fan mail from _Amazing Spider-Man_, 1964-1995: [spiders_web_1963-1995_txt.zip](https://iu.instructure.com/courses/2287248/files/185343998/download?download_frd=1)
 - Mallet topic modeling output of “The Spider’s Web” fan mail from _Amazing Spider-Man_, 1964-1995: [asm_topic_model_mallet_output.zip](https://f001.backblazeb2.com/file/gnrlfs/tr/asm_topic_model_mallet_output.zip)
 
-
+[slides](https://jawalsh.github.io/reveal.js/z616_week09.html)  
