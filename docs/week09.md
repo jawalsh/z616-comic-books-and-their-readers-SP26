@@ -36,7 +36,7 @@ By the end of this week, you will be able to:
 - Introduction to NVivo (or a comparable tool), including basic setup and coding workflow  
 - Hands-on coding of selected fan mail from the _Amazing Spider-Man_ corpus, working individually or in small groups  
   - [_Amazing Spider-Man_ fan mail for coding exercise](https://indiana.sharepoint.com/:u:/r/sites/msteams_36a456/Shared%20Documents/z616/data_sets/asm_nvivo_txt.zip?)
-  - [Codebook](content_anlysis_codebook.md)
+  - [Codebook](content_analysis_codebook.md)
 - Comparison and discussion of coding decisions across the class  
 - Collaborative revision of the coding scheme based on observations from the activity  
 - Brief reflection on how coded texts can be aggregated and used as a dataset for further analysis  
