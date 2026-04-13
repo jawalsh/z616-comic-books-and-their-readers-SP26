@@ -1,10 +1,10 @@
 {% include_relative header.md %}
 # OpenRefine Lab
 ## Instructions
-In this lab, you will work on cleaning data in some portions of one of the [raw Comics as data CSV files](https://github.com/ktopham/comics-as-data/tree/master/MARC_data_raw)
+In this lab, you will work on cleaning data in some portions of one of the [ao3 Star Trek data](assets/data/ao3_star_trek_sample_messy.csv)
 1. Choose one of the three files (NY, Non-NY, or Canada/Mexico)
 2. Import that CSV into OpenRefine and create a project
-3. Perform 6 actions to clean the sheet and document how you did them
+3. Perform 4 actions to clean the sheet and document how you did them
 	1. Example action and documentation: "I trimmed the leading/ending white-spaces in all columns by going to All > Edit all columns > Trim leading and trailing whitespace."
 	2. You can choose to focus on a single column or work on several.
 ## To turn in
