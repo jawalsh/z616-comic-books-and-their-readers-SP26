@@ -17,6 +17,7 @@ This week we will explore the topic of the paratext and examine more closely par
 - Genette, G. (1997). [Introduction](https://indiana.sharepoint.com/:b:/r/sites/msteams_36a456/Shared%20Documents/z616/genette1997.pdf). *Paratexts: Thresholds of interpretation* (J. E. Lewin, Trans.) (pp. 1-15). Cambridge: Cambridge UP. (Original work published 1987)
 - Walsh, J. A. (2025). “‘“Here’s What You Get’:
 An Introduction to Comic Book Paratexts.” _Comic Book Paratexts_. Retrieved from <https://biblicon.org/cbp/cbp.html>.
+- Participate in online discussion on Canvas.
 
 **optional**
 <!-- 42 pp. -->

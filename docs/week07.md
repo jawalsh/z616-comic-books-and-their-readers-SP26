@@ -14,7 +14,7 @@ This week we will explore the topic of comic book fan mail and learn techniques 
 - *discuss* scholarship on comic books fan mail and other paratexts.
 - *express* basic concepts and goals of computational text analysis.
 - *analyze* a small set of fan mails examples from different decades.
-- *use* software tools to convert images of comic book fan mail into searchable digital text. 
+- *Use* image-capture and OCR tools to *convert* images of comic book letters of comment pages into searchable text.
  
 ## Before class: Readings, resources, and tasks
 
@@ -24,6 +24,7 @@ This week we will explore the topic of comic book fan mail and learn techniques 
 * Underwood, T. (2020). “[Machine learning and human perspective](https://indiana.sharepoint.com/:b:/r/sites/msteams_36a456/Shared%20Documents/z616/underwood2020.pdf?csf=1&web=1&e=DVGZKs).” *PMLA, 135*(1), 92-209. <https://doi.org/10.1632/pmla.2020.135.1.92> 
 * [Comic book letter column.](https://en.wikipedia.org/wiki/Comic_book_letter_column). _[Wikipedia.](http://wikipedia.org/)_. <!-- 8 pp. -->
 * [Letterhack.](https://en.wikipedia.org/wiki/Letterhack). _[Wikipedia.](http://wikipedia.org/)_. <!-- 1 pp. -->
+- Participate in online discussion on Canvas.
 
 #### Recommended but optional reading
 * Misemer, L. (2020). [Reading Comics at the Threshold: A Round Table on Letter Columns & Other Comics Paratexts (Part 1).](https://themiddlespaces.com/2020/09/15/reading-comics-at-the-threshold-part-1/). [The Middle Spaces: Comics. Music. Culture.](https://themiddlespaces.com/) <!-- 9 pp. -->

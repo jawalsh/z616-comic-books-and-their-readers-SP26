@@ -6,7 +6,6 @@
 This week we will learn about imaging and OCR tools for converting images of comics, fanzines, and similar documents to searchable text, and we will learn about and use a few text analysis tools to analyze textual data about comics and comics readers.
 
 ## Weekly Learning Objectives
-- *Use* image-capture and OCR tools to *convert* images of comic book letters of comment pages into searchable text.
 - *Use* Voyant to *analyze* a corpus of letters of comment.
 - *Use* AntConc to *analyze* a corpus of letters of comment
 - *Use* Mallet to *generate* topic models from a corpus of letters of comment.
@@ -27,9 +26,27 @@ This week we will learn about imaging and OCR tools for converting images of com
 
 ## In class
 
+<!--
 - Lecture and demo: In the first half of the class I will demo text analysis tools that you read about this week: Voyant, AntConc, and Mallet.
      - Command-Line Basics:
 	     - [MacOS slides](https://jawalsh.github.io/reveal.js/command-line-unix-macos.html)
 	     - [Windows notes](windows_CMD_basics.md)
 	     - [Command-line practice](lab_cli.md)
 - Lab work: In the second half of class use any or all of these tools to explore your own text corpus, the texts in our [data](https://iu.instructure.com/courses/2204459/files/folder/data) folder in Canvas, or other texts you may find online. 
+-->
+
+- Brief lecture and demos of Voyant, AntConc, and MALLET, focusing on the kinds of questions each tool supports  
+- Guided, structured exercises using a shared corpus of Spider-Man fan letters  
+- Group discussion comparing results and reflecting on how different tools shape interpretation
+
+### Comics-related text corpora
+[_Amazing Spider-Man_ Fan Mail 1963-1995](https://indiana.sharepoint.com/:u:/r/sites/msteams_36a456/Shared%20Documents/z616/data_sets/amazing_spider-man_fanmail_1963-1995.zip) 
+
+[MALLET Topic Model output files](https://indiana.sharepoint.com/:u:/r/sites/msteams_36a456/Shared%20Documents/z616/data_sets/mallet_demo.zip)
+
+### Other text corpora
+- [The Bible (Authorized, or King James, version)](https://f001.backblazeb2.com/file/gnrlfs/tr/kjv.zip)
+- [The Poems of Algernon Charles Swinburne, 6 vols. (London: Chatto and Windus, 1904)](https://f001.backblazeb2.com/file/gnrlfs/tr/swinburne_poems_1904_txt.zip)
+- [The Folger Shakespeare](https://shakespeare.folger.edu/downloads/txt/shakespeares-works_TXT_FolgerShakespeare.zip)
+
+[slides](https://jawalsh.github.io/reveal.js/z616_week08.html)  

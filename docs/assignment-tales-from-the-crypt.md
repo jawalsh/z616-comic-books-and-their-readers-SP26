@@ -29,6 +29,8 @@ Your submission should be professionally formated, with name, date, title, page 
 
 Submit your assignment materials as a PDF or Word document in Canvas.
 
+[Rubric](rubric_tales-from-the-crypt.md).
+
 Examples from prior semesters:
 
 - [tales\_from\_the\_crypt\_sampleA.pdf](https://indiana.sharepoint.com/:b:/r/sites/msteams_36a456/Shared%20Documents/z616/tales_from_the_crypt_sampleA.pdf)
