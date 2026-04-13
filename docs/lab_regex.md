@@ -7,7 +7,7 @@ For Part 1, answer the basic pattern-matching questions.
 
 For Part 2, use the shared OCR sample file:
 
-- `[jimmy_olsen_fan_mail_regex_sample.txt](assets/data/jimmy_olsen_fan_mail_regex_sample.txt)`
+- [`jimmy_olsen_fan_mail_regex_sample.txt`](assets/data/jimmy_olsen_fan_mail_regex_sample.txt)
 
 The point of Part 2 is not to “fix OCR” in general. Regex is not a magic solution for every OCR mistake. Instead, use regex for repeated and structured patterns that occur across the file.
 
@@ -27,7 +27,7 @@ The point of Part 2 is not to “fix OCR” in general. Regex is not a magic sol
 
 ## Part 2: Applied regex work on OCRed fan mail
 
-Use `[jimmy_olsen_fan_mail_regex_sample.txt](assets/data/jimmy_olsen_fan_mail_regex_sample.txt)` for these tasks.
+Use [`jimmy_olsen_fan_mail_regex_sample.txt`](assets/data/jimmy_olsen_fan_mail_regex_sample.txt) for these tasks.
 
 ### 7. Fix line-break hyphenation
 The OCR file contains many words split across lines with a hyphen, such as:
