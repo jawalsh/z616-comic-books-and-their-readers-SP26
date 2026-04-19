@@ -1,78 +1,161 @@
 # Excel visualization walk-through
+
+*This walk-through demonstrates one example using the **Cooper Collection Books** sheet and page counts. For the lab, you may use this same approach with a different sheet, field, or question.*
+
 ## Dataset
-We're going to work with data for the Cooper Comics Collection. Download the dataset [here](https://mikrowelle.github.io/cooper-comics-final/data/Cooper%20Comics%20Reprint%20Metadata.xlsx)
-## Filtering
-Filtering lets you specify which data you want to see while you're looking at a spreadsheet.
-1. When you've downloaded the dataset, open it in Excel.  
-![filter](./images/excel_opencooper.png)
-3. There are different tabs (sheets) with different data about the collection.
-4. Click on the tab "Cooper Collection Books" at the bottom  
-![filter](./images/excel_cooperbookstab.png)
-5. Take a minute to look through the different columns to understand what kind of data they contain.
-6. One way to explore the data is through filtering. Select all the data in the sheet, then in Home > Editing > Sort & Filter, click "Filter."  
-![filter](./images/excel_filter1.png)
-8. This puts little drop-down triangle icons in the bottom right corner of each column header. If you click on it, a dropdown menu appears  
-![filter](./images/excel_filter2.png)
-10. On the menu, you can select, deselect, and search for different data. If we click the filter for Column M (No. Pages - Book), we see there are 8 choices for the number of pages in a comic book.
-11. We could only want to see those books with 36 pages, and so we deselect all by unclicking "Select All" and then re-selecting "36" or type "36" in the search bar and hit enter. Now we only see those books with 36 pages. (See gif)
-13. To get rid of the filter, we can click on the dropdown arrow again and hit "Clear Filter" or re-select "Select All" at the top. (See gif)  
-![filter](./images/excel_filter.gif)
-15. Filtering also allows you to sort your data. With Column M (No. Pages - Book), we can sort "smallest to largest" or "largest to smallest" since they are numbers. Text columns can be sorted A-Z to Z-A.  
-![filter](./images/excel_filter4.png)
+Download the dataset here:  
+[Cooper Comics Collection data](https://mikrowelle.github.io/cooper-comics-final/data/Cooper%20Comics%20Reprint%20Metadata.xlsx)
 
-## Pivot tables
-But how many comic books have 36 pages compared to those with a 100 pages? We could count sort smallest to largest and then count how many of each in the column. Or we could make the computer do it for us. That's what pivot tables are for!
-1. Select all of the data in the "Cooper Collection Books" sheet.
-2. Then go to Insert tab > Tables > PivotTable > From Data/Range  
-![filter](./images/excel_pivot1.png)
-4. A pop-up window will come up and ask you to select the Table/Range to act as the data source for your pivot table and whether you want to create the PivotTable in a new worksheet or an existing one. Since we selected the whole Books sheet first, it will have automatically filled in the range and auto-selected "New Worksheet." So there's no need to change anything and just hit "OK."  
-![filter](./images/excel_pivot2.png)
-6. Excel will create a new sheet for you with the PivotTable and its settings.  
-![filter](./images/excel_pivot3.png)
-8. On the right side, you'll see a list of fields that correspond to the column names in the Books sheet and then four areas called "Filters," "Columns," "Rows," and "Values."
-10. From the field list, scroll to "No. Pages - Book." Click and drag it to the "Rows" area. Now there's a list of the unique values for the number of pages in the cell area.  
-![filter](./images/excel_pivot4.gif)
-![filter](./images/excel_pivot5.png)
-12. Next, drag the first field in the sidebar "#" to the "Values" area. (See gif)
-13. Because these are numbers, Excel thinks it should add them up. Click on "Sum of #" and when a menu appears, click "Value Field Settings." Here we want to choose "Count" because we want the count of the IDs (one ID = 1 book) to get the count of books that have that number of pages. (See gif)  
-![filter](./images/excel_pivot6.gif)
-15. Now we see that 36 page books are by far the most common, followed by 34 page books. 1 book also doesn't have a page count.  
-![filter](./images/excel_pivot7.png)
-16. We can also introduce another variable using the columns. For example, are certain publishers associated with certain lengths of book? Drag and drop "Publisher" into columns. Now the pivot table shows in each cell the number of books each publisher published of that particular length.  
-![filter](./images/excel_pivot8.png)
-18. Given that there are more publishers than different types of page counts, drag the "Publisher" field into the "Rows" area and "No. Page Count" into the "Columns" area. Now we can more easily see the data. We can also see who the more productive publishers were and the total number of each page count through the Grand Total row and column. Their intersection gives the total number of book records in the data (202).  
-![filter](./images/excel_pivot9.png)
-20. The last area, "Filters," works like the filters on the normal spreadsheet. It lets us control what data is shown in the PivotTable. Let's say we're only interested in specific primary genres. Drag "Genre 1 - Book" to the "Filters" area. 
-21. This adds content into the first row of the sheet. Click the dropdown next to "All." Click "Funny Animal." Now only the data for Funny Animal comics is shown.  
-![filter](./images/excel_pivot10.png)
-![filter](./images/excel_pivot11.png)
-23. You can also filter the rows and columns values without adding them as an additional filter. Use the dropdowns next to "Row Labels" and "Column Labels."  
-![filter](./images/excel_pivot12.png)
+We will work in the **Cooper Collection Books** sheet.
 
-## Visualizations
-Using the data aggregated from the PivotTable, we can start do some visualizations of our data. 
-1. Modify the Pivot Table so that the number of pages in a book is displayed in the rows and the count of books is the values of the pivot table.  
-![filter](./images/excel_viz1.png)  
-3. Select the values in the table, and copy and paste them into a new sheet.  
-![filter](./images/excel_viz2.png)  
-5. Add column headings and "unknown" for the row where there's no value for the page count.  
-![filter](./images/excel_viz3.png)  
-7. This is the data we're going to visualize. What types of charts make sense?
-    - Pie charts are bad for comparison. Humans aren't good at judging ratios of angles.
-    - It's not time-based data, so line graphs don't make sense either.
-    - Bar chart or something similar best bet here.
-5. Select all your data and then go to the Insert tab > Charts and then choose one of the bar or column charts.  
-![filter](./images/excel_viz4.png)
-6. Now you have a graph. When the graph is selected, Excel provides a "Chart Design" tab and "Format" tab for modifying your graph.  
-![filter](./images/excel_viz5.png)
-7. In "Chart Design" go to Add Chart Element > Axis Titles > Primary Horizontal. This inserts a text box for the x-axis. Add a descriptive title for what the x-axis represents. Repeat for the y-axis, selecting "Primary Vertical" instead.  
-![filter](./images/excel_viz6.png)
-8. You can also edit the chart title by double clicking on the title in the chart.  
-![filter](./images/excel_viz7.png)
-9. Selecting other elements of the chart will bring up a right sidebar with formatting options. For example, we can change the major units of the x-axis to 25 instead of 50 which means the x-axis counts by 25 instead of 50. You can also format the colors, font, and other aspects of the text using the font options in the Home tab as you would for normal text.  
-![image](./images/excel_viz7.5.png)
-10. Explore the different elements and options in the Format sidebar to see what else you can change.  
-![filter](./images/excel_viz8.png)
+## 1. Filter the data
 
+1. Open the file in Excel.  
+![Open dataset](./images/excel_opencooper.png)
 
+2. Click the **Cooper Collection Books** sheet.  
+![Cooper Collection Books tab](./images/excel_cooperbookstab.png)
 
+3. Select the data in the sheet.
+
+4. Go to **Home > Sort & Filter > Filter**.  
+![Turn on Filter](./images/excel_filter1.png)
+
+5. Excel adds a dropdown arrow to each column header.
+
+6. Click a dropdown arrow to filter or sort that column.  
+![Filter dropdown](./images/excel_filter2.png)
+
+For example, to show only books with **36 pages**:
+
+1. Open the filter for **No. Pages - Book**.
+2. Clear **Select All**.
+3. Select **36**.
+4. Click **OK**.  
+![Filtering to 36 pages](./images/excel_filter.gif)
+
+To remove the filter, open the same menu and choose **Clear Filter**, or reselect **Select All**.
+
+You can also use these dropdown menus to sort values:
+- number columns: **Smallest to Largest** or **Largest to Smallest**
+- text columns: **A to Z** or **Z to A**  
+![Sorting options](./images/excel_filter4.png)
+
+<!-- Instructor note: The goal here is just to show students how to inspect and narrow the data before summarizing it. -->
+
+## 2. Create a pivot table
+
+1. Select the data in **Cooper Collection Books**.
+
+2. Go to **Insert > PivotTable**.  
+![Insert PivotTable](./images/excel_pivot1.png)
+
+3. In the dialog box, keep the selected range.
+
+4. Leave **New Worksheet** selected.
+
+5. Click **OK**.  
+![PivotTable dialog](./images/excel_pivot2.png)
+
+Excel creates a new worksheet with an empty pivot table and a **PivotTable Fields** panel.  
+![New PivotTable sheet](./images/excel_pivot3.png)
+
+## 3. Count books by page length
+
+1. In the field list, drag **No. Pages - Book** to **Rows**.  
+![No. Pages - Book in Rows](./images/excel_pivot4.gif)  
+![Row labels created](./images/excel_pivot5.png)
+
+2. Drag **#** to **Values**.  
+![Add # to Values](./images/excel_pivot6.gif)
+
+Excel may set this to **Sum of #**. Change it to a count:
+
+3. In the Values area, click **Sum of #**.
+4. Choose **Value Field Settings**.
+5. Select **Count**.
+6. Click **OK**.
+
+You should now see the number of books for each page length.  
+![Count by page length](./images/excel_pivot7.png)
+
+<!-- Instructor note: This is the main conceptual move. Students are aggregating the data instead of reading row by row. -->
+
+## 4. Compare with another variable
+
+To compare page length with publisher:
+
+1. Drag **Publisher** to **Columns**.
+
+This shows the count of books for each combination of **page count** and **publisher**.  
+![Publisher in Columns](./images/excel_pivot8.png)
+
+If that view is hard to read:
+
+2. Move **Publisher** to **Rows**.
+3. Move **No. Pages - Book** to **Columns**.  
+![Publisher in Rows; page count in Columns](./images/excel_pivot9.png)
+
+You can also filter the pivot table itself:
+
+1. Drag **Genre 1 - Book** to **Filters**.
+2. Use the filter above the table to choose a genre such as **Funny Animal**.  
+![Genre filter added](./images/excel_pivot10.png)  
+![Funny Animal filter applied](./images/excel_pivot11.png)
+
+You can also filter values already in the table using the dropdowns next to **Row Labels** and **Column Labels**.  
+![Row and Column label filters](./images/excel_pivot12.png)
+
+## 5. Make a chart
+
+Set up the pivot table so that:
+- **No. Pages - Book** is in **Rows**
+- **Count of #** is in **Values**  
+![Pivot table ready for charting](./images/excel_viz1.png)
+
+Then:
+
+1. Copy the page-count and count values from the pivot table.
+2. Paste them into a new worksheet.  
+![Copied values in new sheet](./images/excel_viz2.png)
+
+3. Add clear column headings.
+4. If one row has no page-count value, label it **Unknown**.  
+![Prepared chart data](./images/excel_viz3.png)
+
+A bar or column chart works well here because you are comparing category counts.
+
+1. Select the copied data.
+2. Go to **Insert > Charts**.
+3. Choose a **bar chart** or **column chart**.  
+![Insert chart](./images/excel_viz4.png)
+
+Excel inserts the chart into the worksheet.  
+![Initial chart](./images/excel_viz5.png)
+
+## 6. Improve readability
+
+With the chart selected:
+
+1. Edit the chart title.
+2. Add axis titles using **Chart Design > Add Chart Element > Axis Titles**.  
+![Add axis titles](./images/excel_viz6.png)
+
+3. Double-click the chart title to change it.  
+![Edit chart title](./images/excel_viz7.png)
+
+4. Check that the labels are readable.
+5. Adjust axis settings, spacing, or font size if needed.  
+![Format axis options](./images/excel_viz7.5.png)
+
+You can also use the formatting sidebar to adjust other chart elements.  
+![Formatting sidebar](./images/excel_viz8.png)
+
+<!-- Instructor note: Do not let students get stuck polishing. Clear title, readable labels, and a sensible chart type are enough. -->
+
+## 7. What you should have
+
+By the end of this exercise, you should have:
+- one filtered view of the data
+- one pivot table
+- one chart based on that pivot table

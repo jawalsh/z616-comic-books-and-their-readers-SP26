@@ -1,24 +1,39 @@
 {% include_relative header.md %}
 # Excel lab
-## Instructions
-You will use Excel to create 1 pivot table and 1 visualization based on [data from the Cooper Comics Collection](https://mikrowelle.github.io/cooper-comics-final/data/Cooper%20Comics%20Reprint%20Metadata.xlsx) and then describe what the visualization tells us.
-1. Download and explore the data
-	- Download the data from the Cooper Comics Collection and take a minute to look through it in Excel. What would be an interesting question to answer with this data and how would you visualize it?
-2. Select sheet and insert pivot table
-- Pick what sheet's data you want to analyze. Select all the data for that sheet, and do Insert > Pivot Table.
-3. Create your pivot table
-- Play with the fields in the pivot table settings to come up with a table of data that you want to visualize.
-- Copy and paste this table to the side to preserve it
-5. Visualize your data
-	- Using Insert > Charts, create an attractive and clear visualization from the data
-	- Make sure to include proper titles and legends
-6. Export your table and visualization
-	- Copy and paste your table and the visualization into a Word document
-7. Contextualize your visualization
-	- In the Word document, below the table and the visualization write 2-4 sentences explaining what this visualization tell us.  
-## To turn in
 
-- A Word document containing the result of the pivot table, the visualization, and an explanation of the visualization
-- There are 5 possible bonus points if you turn in a second pivot table, visualization, and explanation (need all three components!).
-  
-Turn in to the Week 11 Lab assignment on Canvas, either as part of the same document or a different document from the visualizations you will generate in the Tableau lab.
+## Excel Visualization Exercise
+
+### Goal
+Use Excel to explore a comics-related dataset, create a pivot table, and turn it into a clear visualization.
+
+### Context
+This dataset comes from the Cooper Comics Collection. It reflects one collector’s effort to reconstruct a comics world centered on a comic book cover that fascinated him in his youth. In that sense, this is not just publishing data: it is also a dataset shaped by collecting, memory, and fandom.
+
+### Data
+[Cooper Comics Collection data](https://mikrowelle.github.io/cooper-comics-final/data/Cooper%20Comics%20Reprint%20Metadata.xlsx)
+
+### Instructions
+1. Download and open the Cooper Comics Collection data in Excel.
+2. Spend a few minutes looking through the available sheets and columns.
+3. Choose **one question** that you think the data can help answer.
+4. Select a sheet and create a pivot table from the data.
+5. Use the pivot table to organize the data in a way that helps answer your question.
+6. Create **one chart** based on the pivot table.
+7. Add a clear title and make sure the chart is readable.
+8. Write **2–3 sentences** answering:
+   - What question were you asking?
+   - What does your visualization show?
+   - What is one strength or limitation of this visualization?
+
+### Possible questions
+- Which publishers appear most often in this dataset?
+- Which genres appear most often?
+- What patterns appear across dates or time periods?
+- Which titles or categories seem most prominent?
+- What does this dataset emphasize, and what might it leave out?
+- What does this collector’s reconstructed comics world seem to center?
+
+### Notes
+- Keep it simple.
+- The goal is to practice using pivot tables and charts, not to produce a perfect final product.
+- If you finish early, try changing the chart type and consider which version communicates the data more effectively.

@@ -1,23 +1,42 @@
 {% include_relative header.md %}
-# Tableau Lab
-## Instructions
-You will use Tableau to create 1 visualization based on [data from the Cooper Comics Collection](https://mikrowelle.github.io/cooper-comics-final/data/Cooper%20Comics%20Reprint%20Metadata.xlsx) and then describe what the visualization tells us.
-1. Download and explore the data
-	- Download the data from the Cooper Comics Collection and take a minute to look through it in Excel. What would be an interesting question to answer with this data and how would you visualize it? (A different one from what you did in the Excel lab!)
-2. Import data into Tableau
-	- Create a new project in Tableau and connect the Cooper Comics excel file to it
-	- Choose which sheet(s) you'll be using the data from. If you're using data from multiple sheets, remember to connect it through a shared column
-3. Visualize your data
-	- Create an attractive and clear visualization from the data
-	- Make sure to include proper titles and legends
-4. Export your visualization
-	- Export your visualization as an image from Tableau
-5. Contextualize your visualization
-	- In a Word document, insert the image of your visualization and write 2-4 sentences explaining what this visualization tell us.
+# Tableau lab
 
-## To turn in
+## Tableau Visualization Exercise
 
-- A Word document containing the visualization and an explanation of the visualization
-- There are 5 possible bonus points if you turn in a second visualization and explanation (need both components!).
-  
-Turn in to the Week 11 Lab assignment on Canvas, either as part of the same document or a different document from the visualizations you generated in Excel.
+### Goal
+Use Tableau to create one clear visualization from a comics-related dataset.
+
+### Context
+This dataset comes from the Cooper Comics Collection, a collecting project shaped by personal fascination, memory, and reconstruction. As you work, think not only about what the data shows, but also about what kind of collecting or fandom practice produced it.
+
+### Data
+[Cooper Comics Collection data](https://mikrowelle.github.io/cooper-comics-final/data/Cooper%20Comics%20Reprint%20Metadata.xlsx)
+
+### Instructions
+1. Download the Cooper Comics Collection data if you have not already done so.
+2. Open Tableau and connect the Excel file.
+3. Choose one sheet or set of data to work with.
+4. Identify **one question** you want to explore. You are encouraged to use the same question you explored in Excel so that you can compare how the two tools handle the same data.
+5. Create **one visualization** that helps answer that question.
+6. Adjust the title, labels, sorting, and layout so the visualization is easy to read.
+7. Write **2–3 sentences** answering:
+   - What question were you asking?
+   - What does the visualization show?
+   - How does Tableau handle this question similarly to or differently from Excel?
+
+### Possible questions
+
+You may continue the same question you explored in Excel, especially if you want to compare the two tools.
+
+Or you might explore a question such as:
+- Which publishers, titles, or genres appear most often in this dataset?
+- How are story genres distributed across different books?
+- Which books include the widest range of story genres?
+- Are some genres concentrated in particular titles or publishers?
+- What patterns become easier to see in Tableau than they were in Excel?
+
+### Notes
+- Keep the visualization straightforward.
+- The goal is to practice using Tableau and thinking critically about visualization choices.
+- Using the same question as in Excel is encouraged, since it lets you compare the strengths and limitations of the two tools.
+- If you finish early, try making a second version of the same data using a different chart type and compare the results.

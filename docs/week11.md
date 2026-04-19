@@ -7,9 +7,9 @@ This week we will gain hands-on experience with some data visualization tools an
 
 ## Weekly Learning Objectives
 
-- *articulate* and *explain* fundamental concepts and principals of information visualization.
+- *articulate* and *explain* fundamental concepts and principles of information visualization.
 - *explore* and *discuss* the effectiveness of an information visualization.
-- *Use* existing datasets and visualization tools to *create* information visualization.
+- *use* existing datasets and visualization tools to *create* information visualization.
 - _create_ data visualizations in Excel.
 - _create_ data visualizations in Tableau.
 
@@ -39,6 +39,6 @@ This week we will gain hands-on experience with some data visualization tools an
   - [Excel walkthrough](tutorial_excel.md)
 - Presentation of visualization in Tableau
   - [Tableau walkthrough](tutorial_tableau.md)
-- Completion of labs; labs due to Canvas Week 10 Lab assignment
+- In-cass labs <!--; labs due to Canvas Week 11 Lab assignment -->
   - [Excel lab](lab_excel.md)
   - [Tableau lab](lab_tableau.md)
