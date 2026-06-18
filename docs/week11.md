@@ -36,9 +36,9 @@ This week we will gain hands-on experience with some data visualization tools an
 - **_[Course evaluations](https://coursequestionnaire.iu.edu/Blue/)_**
 - Discussion
 - Presentation of data manipulation, pivot tables, and visualization in Excel
-  - [Excel walkthrough](tutorial_excel.md)
+  - [Excel walkthrough](https://jawalsh.github.io/reveal.js/tutorial_excel.html)
 - Presentation of visualization in Tableau
-  - [Tableau walkthrough](tutorial_tableau.md)
+  - [Tableau walkthrough](https://jawalsh.github.io/reveal.js/tutorial_tableau.html)
 - In-cass labs <!--; labs due to Canvas Week 11 Lab assignment -->
   - [Excel lab](lab_excel.md)
   - [Tableau lab](lab_tableau.md)
